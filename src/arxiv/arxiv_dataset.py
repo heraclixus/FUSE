@@ -171,6 +171,5 @@ class SetDataset(Dataset):
 
 
 if __name__ == "__main__":
-    # create_dataset(n_negatives=2)
+    create_dataset(n_negatives=2)
 
-    

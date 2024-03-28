@@ -17,9 +17,6 @@ import pyparsing as pp
 import torch
 from numpy.linalg import norm
 import random
-from config import (STD_DIR_MULTIPLIER, STD_DIR_MIN, N_ELEMENTS, N_SETS, N_STATEMENTS,
-                    MIN_RAD_MULTIPLIER ,SIZE_MULTIPLIER, POWER_LAW_COEFF, N_PAIR_ELEMS,
-                    FILE_DIR, FILE_LOGIC_DIR)
 
 ###############################################
 ###############################################
@@ -73,127 +70,15 @@ def compute_margin_loss(positive_score, negative_score, gamma=0.5, gamma_coff=20
 ###############################################
 # generate a list of length n_sets of set sizes 
 # sizes should follow a power law distribution.
-def generate_powerlaw_sizes(num_samples, n_sets, root_dir, size=True, power=POWER_LAW_COEFF):
-    r = powerlaw.rvs(power, loc=0, scale=int(num_samples * SIZE_MULTIPLIER), size=n_sets)
-    r2 = num_samples * SIZE_MULTIPLIER - r
-    r3 = r2
-    print(np.sum(r3))
-    return np.rint(r3).astype(int) if size else np.array(r3)
 
-
-def plot_size_distribution(sizes, num_samples, n_sets, root_dir, dist, power=None):
-    fig, ax = plt.subplots(1, 1)
-    # ax.hist(sizes, bins=30, density=False, histtype='stepfilled', alpha=0.2)
-    sns.histplot(sizes, bins=30, kde=True)
-    plt.title(f"Distribution of set size: {num_samples} elems, {n_sets} sets")
+def plot_size_distribution_arxiv(cat2title):
+    keys = [key for key in cat2title.keys()]
+    vals = [len(list(dict[key])) for key in cat2title.keys()] 
+    sns.barplot(x=keys, y=vals)
+    plt.title(f"Distribution of set size")
     plt.xlabel("Set size")
     plt.ylabel("Frequency")
-    plt.savefig(f"{root_dir}/visualizations/{dist}_set_size_distribution_{num_samples}_{n_sets}.png")
-
-
-def generate_powerlaw_radius(num_samples, n_sets, max_coord, min_coord, root_dir):
-    max_rad = norm(max_coord - min_coord)
-    r3 = generate_powerlaw_sizes(num_samples, n_sets, False, False)
-    multiples = np.max(r3) / max_rad
-    rads = r3 / multiples
-    fig, ax = plt.subplots(1, 1)
-    ax.hist(rads, density=True, histtype='stepfilled', alpha=0.2)
-    plt.title("Distribution of circle radius")
-    plt.xlabel("Radius")
-    plt.ylabel("Frequency")
-    plt.savefig(f"{root_dir}/visualizations/radius_circle_distribution_{num_samples}_{n_sets}.png")
-    return rads
-
-# generate circles using randomly sampled center
-# or centers close to the modes 
-# and radius following a power law distribution 
-def generate_circle(min_coord, max_coord, var, radius=None):
-    center_x1 = np.random.uniform(min_coord[0], max_coord[0])
-    center_x2 = np.random.uniform(min_coord[1], max_coord[1])
-    center = np.array([center_x1, center_x2])
-    if radius == None:
-        radius = np.random.uniform(var * STD_DIR_MIN, var * STD_DIR_MULTIPLIER)
-    return center, radius
-
-# find the intersection of the circle with the entire sample space
-def find_circle_intersection(center, radius, samples):
-    intersections = []
-    for i in range(len(samples)):
-        d2c = np.sqrt(norm(samples[i] - center))
-        if d2c <= radius:
-            intersections.append(i)
-    return list(set(intersections))
-
-
-def print_graph_sample(data):
-    print(data)
-    edge_indices, edge_labels, edge_label_indices = data.edge_index, data.edge_label, data.edge_label_index
-    print(f"edge index shape = {edge_indices.shape}")
-    print(f"edge label index = {edge_label_indices}, shape = {edge_label_indices.shape}")
-    print(f"edge labels = {edge_labels}, shape = {edge_label_indices.shape}")
-    print(f"number of ones = {torch.count_nonzero(edge_labels)}, number of zeros = {torch.numel(edge_labels)-torch.count_nonzero(edge_labels)}")
-
-# utility to separate the positive edges and the negative edges,
-# use edge_labels and edge_label_indices to enforce this 
-def obtain_pos_neg_rw(data):
-    edge_labels, edge_label_indices = data.edge_label, data.edge_label_index
-    idx_zeros = (edge_labels == 0).nonzero() # indices of zeros
-    idx_ones = (edge_labels != 0).nonzero() # indices of ones
-    positive_edges = edge_label_indices[:, idx_ones].squeeze(-1)
-    negative_edges = edge_label_indices[:, idx_zeros].squeeze(-1)
-    return positive_edges, negative_edges
-
-def get_link_labels(pos_edge_index, neg_edge_index, device):
-    # returns a tensor:
-    # [1,1,1,1,...,0,0,0,0,0,..] with the number of ones is equel to the lenght of pos_edge_index
-    # and the number of zeros is equal to the length of neg_edge_index
-    E = pos_edge_index.size(1) + neg_edge_index.size(1)
-    link_labels = torch.zeros(E, dtype=torch.float, device=device)
-    link_labels[:pos_edge_index.size(1)] = 1.
-    return link_labels
-
-def obtain_pos_neg_labels(data):
-    edge_labels = data.edge_label
-    return torch.count_nonzero(edge_labels).cpu().numpy(), torch.numel(edge_labels)-torch.count_nonzero(edge_labels).cpu().numpy()
-
-
-# convert edgelist to set 
-# used by the fuzzy logic model, turn train graph split into a set representation
-# this is used explicitly by the set definition loss
-def convert_edge_to_set(edgelist, n_elements):
-    set_elems = {}
-    for i in range(edgelist.shape[-1]):
-        node1, node2 = edgelist[0,i].item(), edgelist[1,i].item()
-        if node1 >= n_elements: # this means it is a set
-            if node1 not in set_elems.keys():
-                set_elems[node1] = [node2]
-            else:
-                set_elems[node1].append(node2)
-        elif node2 >= n_elements: # node2 is set
-            if node2 not in set_elems.keys():
-                set_elems[node2] = [node1]
-            else:
-                set_elems[node2].append(node1)
-    return set_elems # {set_id: [elem_id]}
-
-
-
-# utility to convert the edgelist in to embedding in fuzzy logic case 
-# necessary since there are two embedding layers 
-def convert_edges_to_fuzzy_emb(data, model, device, n_elements):
-    nodes1, nodes2 = [],[]
-    for i in range(len(data)):
-        pair = data[i]
-        node1, node2 = pair[0], pair[1]
-        if node1 >= n_elements:
-            nodes1.append(model.get_set_embedding(torch.tensor([node1-n_elements]).to(device)))
-        else:
-            nodes1.append(model.get_elem_embedding(torch.tensor([node1]).to(device)))
-        if node2 >= n_elements: 
-            nodes2.append(model.get_set_embedding(torch.tensor([node2-n_elements]).to(device)))
-        else:
-            nodes2.append(model.get_elem_embedding(torch.tensor([node2]).to(device)))
-    return torch.stack(nodes1).squeeze(), torch.stack(nodes2).squeeze()
+    plt.savefig(f"../../figs/arxiv/set_size_distribution.png")
 
 
 ###############################################
