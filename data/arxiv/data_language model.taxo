@@ -1,0 +1,930 @@
+Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark	cs.SD
+Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark	cs.CV
+Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark	cs.MM
+Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark	eess.AS
+Benchmarking Object Detectors with COCO: A New Path Forward	cs.CV
+ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion	cs.CV
+Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models	cs.CV
+Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models	cs.AI
+Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models	cs.CL
+Equivalence Checking of Quantum Circuits by Model Counting	quant-ph
+Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment	cs.CV
+Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment	cs.GR
+Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment	cs.SD
+Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment	eess.AS
+ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation	cs.CV
+ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation	cs.AI
+ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation	cs.LG
+Is Modularity Transferable? A Case Study through the Lens of Knowledge Distillation	cs.CL
+Projective Methods for Mitigating Gender Bias in Pre-trained Language Models	cs.CL
+Long-form factuality in large language models	cs.CL
+Long-form factuality in large language models	cs.AI
+Long-form factuality in large language models	cs.LG
+Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction	cs.CV
+Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction	cs.AI
+Object Pose Estimation via the Aggregation of Diffusion Features	cs.CV
+Constraining primordial non-Gaussianity from the large scale structure two-point and three-point correlation functions	astro-ph.CO
+Universality classes for percolation models with long-range correlations	cond-mat.stat-mech
+Universality classes for percolation models with long-range correlations	math-ph
+Universality classes for percolation models with long-range correlations	math.MP
+Structure and thermodynamics of supported lipid membranes on hydrophobic van der Waals surfaces	cond-mat.soft
+Structure and thermodynamics of supported lipid membranes on hydrophobic van der Waals surfaces	cond-mat.mes-hall
+Structure and thermodynamics of supported lipid membranes on hydrophobic van der Waals surfaces	physics.bio-ph
+Structure and thermodynamics of supported lipid membranes on hydrophobic van der Waals surfaces	physics.chem-ph
+SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface	cs.CV
+Towards a World-English Language Model for On-Device Virtual Assistants	cs.CL
+3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation	cs.RO
+Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction	physics.optics
+Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction	eess.IV
+ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object	cs.CV
+ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object	cs.AI
+ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object	cs.LG
+Non-local quantum field theory from doubly special relativity	hep-th
+Non-local quantum field theory from doubly special relativity	gr-qc
+CheckEval: Robust Evaluation Framework using Large Language Model via Checklist	cs.CL
+Improved Neural Protoform Reconstruction via Reflex Prediction	cs.CL
+Duality for Hodge-Witt cohomology with modulus	math.AG
+MLDT: Multi-Level Decomposition for Complex Long-Horizon Robotic Task Planning with Open-Source Large Language Model	cs.RO
+Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray	cs.CV
+Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray	cs.AI
+Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray	cs.LG
+Long gamma-ray burst light curves as the result of a common stochastic pulse-avalanche process	astro-ph.HE
+Neutron Stars Mass-Radius relations analysis in the Quintessence scenario	gr-qc
+Neutron Stars Mass-Radius relations analysis in the Quintessence scenario	astro-ph.HE
+Full counting statistics of 1d short-range Riesz gases in confinement	cond-mat.stat-mech
+Full counting statistics of 1d short-range Riesz gases in confinement	math-ph
+Full counting statistics of 1d short-range Riesz gases in confinement	math.MP
+CYCLE: Learning to Self-Refine the Code Generation	cs.SE
+CYCLE: Learning to Self-Refine the Code Generation	cs.CL
+Understanding the Learning Dynamics of Alignment with Human Feedback	cs.LG
+Understanding the Learning Dynamics of Alignment with Human Feedback	cs.AI
+Effects of Dark Matter on $f$-mode oscillations of Neutron Stars	gr-qc
+Effects of Dark Matter on $f$-mode oscillations of Neutron Stars	astro-ph.HE
+Effects of Dark Matter on $f$-mode oscillations of Neutron Stars	hep-ph
+Effects of Dark Matter on $f$-mode oscillations of Neutron Stars	nucl-th
+Usage-Specific Survival Modeling Based on Operational Data and Neural Networks	cs.LG
+Usage-Specific Survival Modeling Based on Operational Data and Neural Networks	cs.SY
+Usage-Specific Survival Modeling Based on Operational Data and Neural Networks	eess.SY
+Usage-Specific Survival Modeling Based on Operational Data and Neural Networks	stat.ML
+Nonlinear model reduction for operator learning	cs.LG
+Nonlinear model reduction for operator learning	cs.NA
+Nonlinear model reduction for operator learning	math.NA
+A vascular synthetic model for improved aneurysm segmentation and detection via Deep Neural Networks	eess.IV
+A vascular synthetic model for improved aneurysm segmentation and detection via Deep Neural Networks	cs.CV
+Light-cone feature selection for quantum machine learning	quant-ph
+Identifying CP Basis Invariants in SMEFT	hep-ph
+Enhancing Manufacturing Quality Prediction Models through the Integration of Explainability Methods	cs.AI
+Enhancing Manufacturing Quality Prediction Models through the Integration of Explainability Methods	cs.CV
+Enhancing Manufacturing Quality Prediction Models through the Integration of Explainability Methods	cs.CY
+Enhancing Manufacturing Quality Prediction Models through the Integration of Explainability Methods	cs.LG
+Towards Image Ambient Lighting Normalization	cs.CV
+ConstraintFlow: A DSL for Specification and Verification of Neural Network Analyses	cs.PL
+Utility of ocean wave parameters for improving predictions of ambient noise	physics.ao-ph
+Probabilistic Model Checking of Stochastic Reinforcement Learning Policies	cs.AI
+An exactly curl-free finite-volume scheme for a hyperbolic compressible barotropic two-phase model	math.NA
+An exactly curl-free finite-volume scheme for a hyperbolic compressible barotropic two-phase model	cs.NA
+Four Formal Models of IEEE 1394 Link Layer	cs.LO
+Four Formal Models of IEEE 1394 Link Layer	cs.AR
+Four Formal Models of IEEE 1394 Link Layer	cs.PL
+Formally Modelling the Rijkswaterstaat Tunnel Control Systems in a Constrained Industrial Environment	cs.LO
+PhysicsAssistant: An LLM-Powered Interactive Learning Robot for Physics Lab Investigations	cs.RO
+Testing Resource Isolation for System-on-Chip Architectures	cs.AR
+Testing Resource Isolation for System-on-Chip Architectures	cs.CR
+Testing Resource Isolation for System-on-Chip Architectures	cs.SE
+On the scaling of random Tamari intervals and Schnyder woods of random triangulations (with an asymptotic D-finite trick)	math.CO
+On the scaling of random Tamari intervals and Schnyder woods of random triangulations (with an asymptotic D-finite trick)	cs.SC
+On the scaling of random Tamari intervals and Schnyder woods of random triangulations (with an asymptotic D-finite trick)	math.PR
+Semi-Supervised Learning for Deep Causal Generative Models	cs.LG
+Semi-Supervised Learning for Deep Causal Generative Models	cs.AI
+Semi-Supervised Learning for Deep Causal Generative Models	cs.CV
+Semi-Supervised Learning for Deep Causal Generative Models	stat.ML
+Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding	cs.CV
+Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding	cs.AI
+Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding	cs.CL
+Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding	cs.MM
+Characterization of Spatial-Temporal Channel Statistics from Indoor Measurement Data at D Band	cs.IT
+Characterization of Spatial-Temporal Channel Statistics from Indoor Measurement Data at D Band	eess.SP
+Characterization of Spatial-Temporal Channel Statistics from Indoor Measurement Data at D Band	math.IT
+Phasing segmented telescopes via deep learning methods: application to a deployable CubeSat	astro-ph.IM
+SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery	cs.CV
+SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery	cs.AI
+Deep Learning for Traffic Flow Prediction using Cellular Automata-based Model and CNN-LSTM architecture	cs.LG
+Revisiting Stochastic Gravitational-wave Background in the Strong Signal Case	gr-qc
+Dense Vision Transformer Compression with Few Samples	cs.CV
+$p\barΛ$ final-state interaction in the reactions $e^+e^- \to K^- p \bar Λ$ and $J/ψ\to K^- p \bar Λ$	nucl-th
+$p\barΛ$ final-state interaction in the reactions $e^+e^- \to K^- p \bar Λ$ and $J/ψ\to K^- p \bar Λ$	hep-ph
+Conditional Wasserstein Distances with Applications in Bayesian OT Flow Matching	cs.LG
+Conditional Wasserstein Distances with Applications in Bayesian OT Flow Matching	math.OC
+Collective excitations in competing phases in two and three dimensions	cond-mat.str-el
+Collective excitations in competing phases in two and three dimensions	cond-mat.supr-con
+Bridging hadronic and vacuum structure by heavy quarkonia	hep-ph
+The Invalsi Benchmark: measuring Language Models Mathematical and Language understanding in Italian	cs.CL
+Anomalous friction of supercooled glycerol on mica	cond-mat.soft
+Annolid: Annotate, Segment, and Track Anything You Need	cs.CV
+Annolid: Annotate, Segment, and Track Anything You Need	cs.AI
+Decision-Epoch Matters: Unveiling its Impact on the Stability of Scheduling with Randomly Varying Connectivity	math.PR
+Decision-Epoch Matters: Unveiling its Impact on the Stability of Scheduling with Randomly Varying Connectivity	cs.PF
+Scaling Laws For Dense Retrieval	cs.IR
+Scaling Laws For Dense Retrieval	cs.CL
+TransFusion: Contrastive Learning with Transformers	cs.LG
+TransFusion: Contrastive Learning with Transformers	cs.AI
+NL-ITI: Optimizing Probing and Intervention for Improvement of ITI Method	cs.CL
+NL-ITI: Optimizing Probing and Intervention for Improvement of ITI Method	cs.LG
+An Exploratory Study on Upper-Level Computing Students' Use of Large Language Models as Tools in a Semester-Long Project	cs.SE
+An Exploratory Study on Upper-Level Computing Students' Use of Large Language Models as Tools in a Semester-Long Project	cs.HC
+Deep Learning for Robust and Explainable Models in Computer Vision	cs.CV
+Unveiling the inconsistency of the Proca theory with non-minimal coupling to gravity	gr-qc
+Fact Checking Beyond Training Set	cs.CL
+Fact Checking Beyond Training Set	cs.LG
+Aiming for Relevance	cs.LG
+Aiming for Relevance	cs.AI
+Aiming for Relevance	cs.HC
+Aiming for Relevance	stat.ML
+Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users	cs.IR
+Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users	cs.CL
+FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification	q-bio.QM
+FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification	q-bio.MN
+Lipschitz-type estimate for the frog model with Bernoulli initial configuration	math.PR
+Neural Network-Based Piecewise Survival Models	stat.ML
+Neural Network-Based Piecewise Survival Models	cs.LG
+Neural Network-Based Piecewise Survival Models	cs.SY
+Neural Network-Based Piecewise Survival Models	eess.SY
+A machine-learning pipeline for real-time detection of gravitational waves from compact binary coalescences	gr-qc
+A machine-learning pipeline for real-time detection of gravitational waves from compact binary coalescences	astro-ph.IM
+InstructBrush: Learning Attention-based Instruction Optimization for Image Editing	cs.GR
+InstructBrush: Learning Attention-based Instruction Optimization for Image Editing	cs.CV
+INEXA: Interactive and Explainable Process Model Abstraction Through Object-Centric Process Mining	cs.AI
+Theoretical Guarantees for the Subspace-Constrained Tyler's Estimator	math.ST
+Theoretical Guarantees for the Subspace-Constrained Tyler's Estimator	stat.ML
+Theoretical Guarantees for the Subspace-Constrained Tyler's Estimator	stat.TH
+MPC-CBF with Adaptive Safety Margins for Safety-critical Teleoperation over Imperfect Network Connections	cs.SY
+Addressing Data Annotation Challenges in Multiple Sensors: A Solution for Scania Collected Datasets	cs.CV
+Addressing Data Annotation Challenges in Multiple Sensors: A Solution for Scania Collected Datasets	cs.SY
+Addressing Data Annotation Challenges in Multiple Sensors: A Solution for Scania Collected Datasets	eess.SY
+SDSAT: Accelerating LLM Inference through Speculative Decoding with Semantic Adaptive Tokens	cs.CL
+Synergistic Knowledge	cs.LO
+Collective schedules: axioms and algorithms	cs.GT
+Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections	math.NA
+Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections	cs.DC
+Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections	cs.NA
+Lattice study of disordering of inhomogeneous condensates and the Quantum Pion Liquid in effective $O(N)$ model	hep-lat
+Lattice study of disordering of inhomogeneous condensates and the Quantum Pion Liquid in effective $O(N)$ model	hep-ph
+Mind the Domain Gap: a Systematic Analysis on Bioacoustic Sound Event Detection	eess.AS
+Transformers-based architectures for stroke segmentation: A review	eess.IV
+Transformers-based architectures for stroke segmentation: A review	cs.CV
+Transformers-based architectures for stroke segmentation: A review	cs.LG
+A Diffusion-Based Generative Equalizer for Music Restoration	eess.AS
+A Diffusion-Based Generative Equalizer for Music Restoration	cs.SD
+First Experiences with the Identification of People at Risk for Diabetes in Argentina using Machine Learning Techniques	cs.LG
+Uncertainty quantification in $(p,n)$ reactions	nucl-th
+Uncertainty quantification in $(p,n)$ reactions	nucl-ex
+To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models	cs.IR
+Vulnerability Detection with Code Language Models: How Far Are We?	cs.SE
+Vulnerability Detection with Code Language Models: How Far Are We?	cs.CL
+Enhanced OpenMP Algorithm to Compute All-Pairs Shortest Path on x86 Architectures	cs.DC
+Energy-ordered resource stratification as an agnostic signature of life	q-bio.PE
+Energy-ordered resource stratification as an agnostic signature of life	physics.bio-ph
+A survey on learning models of spiking neural membrane systems and spiking neural networks	cs.NE
+A survey on learning models of spiking neural membrane systems and spiking neural networks	cs.CL
+Test the Loop Quantum Gravity Theory via the Lensing Effect	gr-qc
+Modeling Sustainable City Trips: Integrating CO2 Emissions, Popularity, and Seasonality into Tourism Recommender Systems	cs.IR
+Negative radiation pressure in the abelian Higgs model	hep-th
+Collaborative graphical lasso	stat.ME
+Collaborative graphical lasso	q-bio.MN
+RAP: Retrieval-Augmented Planner for Adaptive Procedure Planning in Instructional Videos	cs.CV
+RAP: Retrieval-Augmented Planner for Adaptive Procedure Planning in Instructional Videos	cs.AI
+RAP: Retrieval-Augmented Planner for Adaptive Procedure Planning in Instructional Videos	cs.RO
+Proving correctness for SQL implementations of OCL constraints	cs.DB
+Heterogeneous Peridynamic Neural Operators: Discover Biotissue Constitutive Law and Microstructure From Digital Image Correlation Measurements	cond-mat.mtrl-sci
+Heterogeneous Peridynamic Neural Operators: Discover Biotissue Constitutive Law and Microstructure From Digital Image Correlation Measurements	cs.LG
+Conditions for Relativistic Magnetic Reconnection under the Presence of Shear Flow and Guide Field	physics.plasm-ph
+Conditions for Relativistic Magnetic Reconnection under the Presence of Shear Flow and Guide Field	astro-ph.HE
+Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding	cs.CV
+Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding	cs.AI
+Contact processes with quenched disorder on $\mathbb{Z}^d$ and on Erdos-Renyi graphs	math.PR
+The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision	cs.CR
+The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision	cs.CV
+The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision	cs.LG
+Resonances crossing effect and quantum sensor of electric fields	quant-ph
+Erosion rate of lunar soil under a landing rocket, part 2: benchmarking and predictions	astro-ph.EP
+Erosion rate of lunar soil under a landing rocket, part 2: benchmarking and predictions	astro-ph.IM
+Erosion rate of lunar soil under a landing rocket, part 2: benchmarking and predictions	physics.space-ph
+MisGUIDE : Defense Against Data-Free Deep Learning Model Extraction	cs.CR
+On Optimizing Hyperparameters for Quantum Neural Networks	cs.LG
+On Optimizing Hyperparameters for Quantum Neural Networks	cs.ET
+SteinGen: Generating Fidelitous and Diverse Graph Samples	stat.ML
+SteinGen: Generating Fidelitous and Diverse Graph Samples	cs.LG
+Logarithmic singularity in the density four-point function of two-dimensional critical percolation in the bulk	math-ph
+Logarithmic singularity in the density four-point function of two-dimensional critical percolation in the bulk	cond-mat.stat-mech
+Logarithmic singularity in the density four-point function of two-dimensional critical percolation in the bulk	hep-th
+Logarithmic singularity in the density four-point function of two-dimensional critical percolation in the bulk	math.MP
+Logarithmic singularity in the density four-point function of two-dimensional critical percolation in the bulk	math.PR
+HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions	cs.CV
+ACES: Evaluating Automated Audio Captioning Models on the Semantics of Sounds	cs.SD
+ACES: Evaluating Automated Audio Captioning Models on the Semantics of Sounds	eess.AS
+Physics-Informed Graph Neural Networks for Water Distribution Systems	cs.LG
+Physics-Informed Graph Neural Networks for Water Distribution Systems	cs.AI
+PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction	cs.LG
+PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction	cs.AI
+Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review	cs.CV
+Construction of Gross-Neveu model using Polchinski flow equation	math-ph
+Construction of Gross-Neveu model using Polchinski flow equation	math.MP
+Construction of Gross-Neveu model using Polchinski flow equation	math.PR
+A Dynamic Programming Approach for Road Traffic Estimation	eess.SY
+A Dynamic Programming Approach for Road Traffic Estimation	cs.SY
+Noise-Robust Keyword Spotting through Self-supervised Pretraining	eess.AS
+Noise-Robust Keyword Spotting through Self-supervised Pretraining	cs.LG
+Noise-Robust Keyword Spotting through Self-supervised Pretraining	cs.SD
+Stability Properties of the Impulsive Goodwin's Oscillator in 1-cycle	math.OC
+Stability Properties of the Impulsive Goodwin's Oscillator in 1-cycle	cs.SY
+Stability Properties of the Impulsive Goodwin's Oscillator in 1-cycle	eess.SY
+Debiasing Sentence Embedders through Contrastive Word Pairs	cs.CL
+CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection	cs.CV
+Attention Calibration for Disentangled Text-to-Image Personalization	cs.CV
+OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning	cs.CV
+A Semi-supervised Nighttime Dehazing Baseline with Spatial-Frequency Aware and Realistic Brightness Constraint	cs.CV
+Neural Architecture Search for Sentence Classification with BERT	cs.AI
+Accurate analytical modeling of light rays in spherically symmetric spacetimes: Applications in the study of black hole accretion disks and polarimetry	gr-qc
+Accurate analytical modeling of light rays in spherically symmetric spacetimes: Applications in the study of black hole accretion disks and polarimetry	astro-ph.HE
+Attention-aware semantic relevance predicting Chinese sentence reading	cs.CL
+Attention-aware semantic relevance predicting Chinese sentence reading	cs.LG
+Thin accretion disk around Kerr-Sen black hole in Einstein-Maxwell-dilaton-axion gravity	gr-qc
+Thin accretion disk around Kerr-Sen black hole in Einstein-Maxwell-dilaton-axion gravity	hep-ph
+Uphill drift in the absence of current in single-file diffusion	cond-mat.stat-mech
+A Path Towards Legal Autonomy: An interoperable and explainable approach to extracting, transforming, loading and computing legal information using large language models, expert systems and Bayesian networks	cs.AI
+A Path Towards Legal Autonomy: An interoperable and explainable approach to extracting, transforming, loading and computing legal information using large language models, expert systems and Bayesian networks	cs.CL
+A Path Towards Legal Autonomy: An interoperable and explainable approach to extracting, transforming, loading and computing legal information using large language models, expert systems and Bayesian networks	cs.CY
+A Path Towards Legal Autonomy: An interoperable and explainable approach to extracting, transforming, loading and computing legal information using large language models, expert systems and Bayesian networks	cs.LO
+Theoretical Bound-Guided Hierarchical VAE for Neural Image Codecs	eess.IV
+Theoretical Bound-Guided Hierarchical VAE for Neural Image Codecs	cs.LG
+Scaling limits for random walks on long range percolation clusters	math.PR
+The SZ effect with anisotropic distributions and high energy electrons	astro-ph.HE
+The SZ effect with anisotropic distributions and high energy electrons	astro-ph.CO
+The SZ effect with anisotropic distributions and high energy electrons	hep-ph
+Number of aftershocks in epidemic-type seismicity models	physics.geo-ph
+Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP	cs.CV
+Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP	cs.CL
+Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP	cs.LG
+Efficient Algorithms for Regularized Nonnegative Scale-invariant Low-rank Approximation Models	cs.LG
+Efficient Algorithms for Regularized Nonnegative Scale-invariant Low-rank Approximation Models	cs.NA
+Efficient Algorithms for Regularized Nonnegative Scale-invariant Low-rank Approximation Models	math.NA
+Efficient Algorithms for Regularized Nonnegative Scale-invariant Low-rank Approximation Models	math.OC
+Multi-View Deep Learning for Imaging Atmospheric Cherenkov Telescopes	astro-ph.IM
+Multi-View Deep Learning for Imaging Atmospheric Cherenkov Telescopes	astro-ph.HE
+Autonomous Quantum Heat Engine Based on Non-Markovian Dynamics of an Optomechanical Hamiltonian	quant-ph
+CT-3DFlow : Leveraging 3D Normalizing Flows for Unsupervised Detection of Pathological Pulmonary CT scans	eess.IV
+CT-3DFlow : Leveraging 3D Normalizing Flows for Unsupervised Detection of Pathological Pulmonary CT scans	cs.CV
+CT-3DFlow : Leveraging 3D Normalizing Flows for Unsupervised Detection of Pathological Pulmonary CT scans	cs.LG
+Faster Convergence for Transformer Fine-tuning with Line Search Methods	cs.LG
+Faster Convergence for Transformer Fine-tuning with Line Search Methods	cs.AI
+AcTED: Automatic Acquisition of Typical Event Duration for Semi-supervised Temporal Commonsense QA	cs.CL
+Distributional Treatment Effect with Finite Mixture	econ.EM
+A Novel Proton Decay Signature at DUNE, JUNO, and Hyper-K	hep-ph
+A Novel Proton Decay Signature at DUNE, JUNO, and Hyper-K	hep-ex
+Direct mineral content prediction from drill core images via transfer learning	cs.CV
+Direct mineral content prediction from drill core images via transfer learning	cs.LG
+Direct mineral content prediction from drill core images via transfer learning	eess.IV
+VersaT2I: Improving Text-to-Image Models with Versatile Reward	cs.CV
+Algorithmic Details behind the Predator Shape Analyser	cs.SE
+Algorithmic Details behind the Predator Shape Analyser	cs.PL
+I2CKD : Intra- and Inter-Class Knowledge Distillation for Semantic Segmentation	cs.CV
+Impact of Employing Weather Forecast Data as Input to the Estimation of Evapotranspiration by Deep Neural Network Models	cs.AI
+Impact of Employing Weather Forecast Data as Input to the Estimation of Evapotranspiration by Deep Neural Network Models	cs.LG
+Singularity: a Seventh Memo?	math.HO
+Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models	cs.LG
+Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models	cs.AI
+Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models	eess.SP
+UVL Sentinel: a tool for parsing and syntactic correction of UVL datasets	cs.SE
+On the properties of free floating planets originating in circumbinary planetary systems	astro-ph.EP
+On the properties of free floating planets originating in circumbinary planetary systems	astro-ph.GA
+Enhanced Generative Recommendation via Content and Collaboration Integration	cs.IR
+A consistent kinetic Fokker-Planck model for gas mixtures	math.AP
+Thermalization condition for non-Hermitian quantum systems	quant-ph
+Thermalization condition for non-Hermitian quantum systems	cond-mat.stat-mech
+Modeling uncertainty for Gaussian Splatting	cs.CV
+Modeling uncertainty for Gaussian Splatting	cs.GR
+Fermi and eROSITA Bubbles as Persistent Structures of The Milky Way Galaxy	astro-ph.HE
+Fermi and eROSITA Bubbles as Persistent Structures of The Milky Way Galaxy	astro-ph.GA
+DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis	cs.CV
+Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds	cs.CV
+Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds	cs.AI
+Deep Learning Segmentation and Classification of Red Blood Cells Using a Large Multi-Scanner Dataset	eess.IV
+Deep Learning Segmentation and Classification of Red Blood Cells Using a Large Multi-Scanner Dataset	cs.CV
+Kinetic data-driven approach to turbulence subgrid modeling	physics.flu-dyn
+Kinetic data-driven approach to turbulence subgrid modeling	math-ph
+Kinetic data-driven approach to turbulence subgrid modeling	math.MP
+Kinetic data-driven approach to turbulence subgrid modeling	physics.comp-ph
+DiffStyler: Diffusion-based Localized Image Style Transfer	cs.CV
+Dust Extinction Measures for $z\sim 8$ Galaxies using Machine Learning on JWST Imaging	astro-ph.GA
+Dust Extinction Measures for $z\sim 8$ Galaxies using Machine Learning on JWST Imaging	astro-ph.IM
+Inverse kinematics learning of a continuum manipulator using limited real time data	cs.RO
+Scaling Vision-and-Language Navigation With Offline RL	cs.CV
+SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model	cs.CV
+SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model	cs.LG
+SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model	cs.RO
+CoRAST: Towards Foundation Model-Powered Correlated Data Analysis in Resource-Constrained CPS and IoT	cs.LG
+CoRAST: Towards Foundation Model-Powered Correlated Data Analysis in Resource-Constrained CPS and IoT	cs.AI
+Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction	cs.CL
+Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction	cs.CV
+Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction	cs.LG
+Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction	cs.RO
+Cosmic Inflation From Fluctuating Baby-Skyrme Brane	gr-qc
+Cosmic Inflation From Fluctuating Baby-Skyrme Brane	hep-th
+$\mathrm{F^2Depth}$: Self-supervised Indoor Monocular Depth Estimation via Optical Flow Consistency and Feature Map Synthesis	cs.CV
+Backpropagation-free Network for 3D Test-time Adaptation	cs.CV
+Physics and data driven model for prediction of residual stresses in machining	cond-mat.mtrl-sci
+Physics and data driven model for prediction of residual stresses in machining	physics.app-ph
+Generalized Policy Learning for Smart Grids: FL TRPO Approach	cs.LG
+Global Vegetation Modeling with Pre-Trained Weather Transformers	cs.LG
+Collaborative Active Learning in Conditional Trust Environment	cs.LG
+DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment	cs.IR
+DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment	cs.CL
+Poisson Regression in one Covariate on Massive Data	math.ST
+Poisson Regression in one Covariate on Massive Data	stat.TH
+Exploring language relations through syntactic distances and geographic proximity	cs.CL
+Exploring language relations through syntactic distances and geographic proximity	physics.data-an
+Exploring language relations through syntactic distances and geographic proximity	physics.soc-ph
+Exploring language relations through syntactic distances and geographic proximity	stat.AP
+TriviaHG: A Dataset for Automatic Hint Generation from Factoid Questions	cs.CL
+U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models	cs.CV
+U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models	cs.AI
+U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models	cs.LG
+SemRoDe: Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks	cs.CL
+SemRoDe: Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks	cs.LG
+BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text	cs.CL
+BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text	cs.AI
+Bounded islands in dS$_{2}$ multiverse model	hep-th
+Bounded islands in dS$_{2}$ multiverse model	gr-qc
+Electrolyte effects on the alkaline hydrogen evolution reaction: a mean-field approach	physics.chem-ph
+ECNet: Effective Controllable Text-to-Image Diffusion Models	cs.CV
+A Delaunay Refinement Algorithm for the Particle Finite Element Method applied to Free Surface Flows	cs.CE
+The Topos of Transformer Networks	cs.LG
+The Topos of Transformer Networks	math.CT
+The role of hidden-color components in the tetraquark mixing model	hep-ph
+The role of hidden-color components in the tetraquark mixing model	hep-ex
+The role of hidden-color components in the tetraquark mixing model	nucl-ex
+The role of hidden-color components in the tetraquark mixing model	nucl-th
+A Channel-ensemble Approach: Unbiased and Low-variance Pseudo-labels is Critical for Semi-supervised Classification	cs.CV
+A Channel-ensemble Approach: Unbiased and Low-variance Pseudo-labels is Critical for Semi-supervised Classification	cs.AI
+An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM	cs.CV
+An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM	cs.AI
+An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM	cs.CL
+An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM	cs.LG
+Leveraging Large Language Models for Relevance Judgments in Legal Case Retrieval	cs.AI
+FoC: Figure out the Cryptographic Functions in Stripped Binaries with LLMs	cs.CR
+On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency	cs.LG
+Force generation by a cylindrical cell under stationary osmolytes synthesis	q-bio.SC
+Reweighted Quasi Norm Regularized Low-Rank Factorization for Matrix Robust PCA	math.OC
+Adaptive Economic Model Predictive Control for linear systems with performance guarantees	eess.SY
+Adaptive Economic Model Predictive Control for linear systems with performance guarantees	cs.SY
+Adaptive Economic Model Predictive Control for linear systems with performance guarantees	math.OC
+Effective Embedding of Integer Linear Inequalities for Variational Quantum Algorithms	quant-ph
+Vertex corrections to conductivity in the Holstein model: A numerical-analytical study	cond-mat.str-el
+Vertex corrections to conductivity in the Holstein model: A numerical-analytical study	cond-mat.mes-hall
+Vertex corrections to conductivity in the Holstein model: A numerical-analytical study	physics.chem-ph
+Vertex corrections to conductivity in the Holstein model: A numerical-analytical study	quant-ph
+Tensor-based Graph Learning with Consistency and Specificity for Multi-view Clustering	cs.LG
+Broad-band ellipsometry study of the anisotropic dielectric response of YAlO3	cond-mat.mtrl-sci
+Global solution of 2D hyperbolic liquid crystal system for small initial data	math.AP
+Generative Multi-modal Models are Good Class-Incremental Learners	cs.CV
+Generative Multi-modal Models are Good Class-Incremental Learners	cs.AI
+Generative Multi-modal Models are Good Class-Incremental Learners	cs.LG
+Improving Attributed Text Generation of Large Language Models via Preference Learning	cs.CL
+Improving Attributed Text Generation of Large Language Models via Preference Learning	cs.AI
+Unraveling the collinearity in short-range order parameters for lattice configurations arising from topological constraints	cond-mat.stat-mech
+IIP-Mixer:Intra-Inter Patch Mixing Architecture for Battery Remaining Useful Life Prediction	cs.LG
+IIP-Mixer:Intra-Inter Patch Mixing Architecture for Battery Remaining Useful Life Prediction	cs.AI
+Stragglers-Aware Low-Latency Synchronous Federated Learning via Layer-Wise Model Updates	cs.LG
+Stragglers-Aware Low-Latency Synchronous Federated Learning via Layer-Wise Model Updates	eess.SP
+Bulk-entanglement-spectrum correspondence in $PT$- and $PC$-symmetric topological insulators	cond-mat.mes-hall
+Multivariable control of modular multilevel converters with convergence and safety guarantees	eess.SY
+Multivariable control of modular multilevel converters with convergence and safety guarantees	cs.SY
+Ship in Sight: Diffusion Models for Ship-Image Super Resolution	cs.CV
+Ship in Sight: Diffusion Models for Ship-Image Super Resolution	cs.LG
+Damage Mechanics Challenge: Predictions based on the phase field fracture model	cs.CE
+Damage Mechanics Challenge: Predictions based on the phase field fracture model	physics.app-ph
+BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models	cs.CL
+Computing safe bicycle routes -- Berechnung sicherer Fahrradwege	math.OC
+Fractional variational integrators based on convolution quadrature	math.NA
+Fractional variational integrators based on convolution quadrature	cs.NA
+ViTAR: Vision Transformer with Any Resolution	cs.CV
+Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation	cs.CV
+MonoHair: High-Fidelity Hair Modeling from a Monocular Video	cs.CV
+Supervised Multiple Kernel Learning approaches for multi-omics data integration	stat.ML
+Supervised Multiple Kernel Learning approaches for multi-omics data integration	cs.LG
+Supervised Multiple Kernel Learning approaches for multi-omics data integration	stat.AP
+Deciphering autism heterogeneity: a molecular stratification approach in four mouse models	q-bio.NC
+Generating Diverse Agricultural Data for Vision-Based Farming Applications	cs.CV
+Generating Diverse Agricultural Data for Vision-Based Farming Applications	cs.AI
+Generating Diverse Agricultural Data for Vision-Based Farming Applications	cs.GR
+Generating Diverse Agricultural Data for Vision-Based Farming Applications	cs.LG
+Evaluation of Semantic Search and its Role in Retrieved-Augmented-Generation (RAG) for Arabic Language	cs.CL
+Rejection Improves Reliability: Training LLMs to Refuse Unknown Questions Using RL from Knowledge Feedback	cs.CL
+Sequential Recommendation with Latent Relations based on Large Language Model	cs.IR
+Quantifying and Mitigating Unimodal Biases in Multimodal Large Language Models: A Causal Perspective	cs.CL
+Quantifying and Mitigating Unimodal Biases in Multimodal Large Language Models: A Causal Perspective	cs.CV
+Compactifications of the Eisenstein ancestral Deligne-Mostow variety	math.AG
+Compactifications of the Eisenstein ancestral Deligne-Mostow variety	math.NT
+LC-LLM: Explainable Lane-Change Intention and Trajectory Predictions with Large Language Models	cs.AI
+The Artificial Neural Twin -- Process Optimization and Continual Learning in Distributed Process Chains	cs.LG
+IterAlign: Iterative Constitutional Alignment of Large Language Models	cs.CL
+H2ASeg: Hierarchical Adaptive Interaction and Weighting Network for Tumor Segmentation in PET/CT Images	eess.IV
+H2ASeg: Hierarchical Adaptive Interaction and Weighting Network for Tumor Segmentation in PET/CT Images	cs.CV
+mALBERT: Is a Compact Multilingual BERT Model Still Worth It?	cs.AI
+Macroscale fracture surface segmentation via semi-supervised learning considering the structural similarity	cs.LG
+A Dataset for Pharmacovigilance in German, French, and Japanese: Annotating Adverse Drug Reactions across Languages	cs.CL
+A Dataset for Pharmacovigilance in German, French, and Japanese: Annotating Adverse Drug Reactions across Languages	cs.LG
+DODA: Diffusion for Object-detection Domain Adaptation in Agriculture	cs.CV
+Quantum gravity of the Heisenberg algebra	hep-th
+Quantum gravity of the Heisenberg algebra	cond-mat.str-el
+Quantum gravity of the Heisenberg algebra	gr-qc
+PIPNet3D: Interpretable Detection of Alzheimer in MRI Scans	cs.CV
+Can LLMs Converse Formally? Automatically Assessing LLMs in Translating and Interpreting Formal Specifications	cs.CL
+Can LLMs Converse Formally? Automatically Assessing LLMs in Translating and Interpreting Formal Specifications	cs.AI
+Common Sense Enhanced Knowledge-based Recommendation with Large Language Model	cs.IR
+How to Cache Important Contents for Multi-modal Service in Dynamic Networks: A DRL-based Caching Scheme	cs.NI
+How to Cache Important Contents for Multi-modal Service in Dynamic Networks: A DRL-based Caching Scheme	cs.MM
+A Situation-aware Enhancer for Personalized Recommendation	cs.IR
+Chinese Offensive Language Detection:Current Status and Future Directions	cs.CL
+Chinese Offensive Language Detection:Current Status and Future Directions	cs.AI
+A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites	cs.LG
+A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites	cs.AI
+A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites	cs.CE
+A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites	cs.NA
+A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites	math.NA
+Bayesian Learned Models Can Detect Adversarial Malware For Free	cs.CR
+Comparison of different methods for identification of dominant oscillation mode	cs.CE
+Classical dynamics and semiclassical analysis of excitons in cuprous oxide	cond-mat.mes-hall
+Classical dynamics and semiclassical analysis of excitons in cuprous oxide	nlin.CD
+Classical dynamics and semiclassical analysis of excitons in cuprous oxide	quant-ph
+Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Objectives	cs.LG
+Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Objectives	cs.AI
+Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Objectives	cs.CV
+Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Objectives	stat.ML
+Scaling Enhancement of Photon Blockade in Output Fields	quant-ph
+Scaling Enhancement of Photon Blockade in Output Fields	cond-mat.mes-hall
+Scaling Enhancement of Photon Blockade in Output Fields	physics.optics
+Deciphering Chemical Ordering in High Entropy Materials: A Machine Learning-Accelerated High-throughput Cluster Expansion Approach	cond-mat.mtrl-sci
+Dual Instruction Tuning with Large Language Models for Mathematical Reasoning	cs.CL
+Multi-scale Unified Network for Image Classification	cs.CV
+Efficient Test-Time Adaptation of Vision-Language Models	cs.CV
+Towards Non-Exemplar Semi-Supervised Class-Incremental Learning	cs.CV
+Infrared properties of carbon stars in our Galaxy	astro-ph.SR
+Infrared properties of carbon stars in our Galaxy	astro-ph.GA
+Few-Shot Recalibration of Language Models	cs.CL
+Few-Shot Recalibration of Language Models	cs.AI
+Few-Shot Recalibration of Language Models	cs.LG
+A new dual spectral projected gradient method for log-determinant semidefinite programming with hidden clustering structures	math.OC
+PT-symmetric dynamical confinement: Fermi acceleration, quantum force and Berry phase	quant-ph
+PT-symmetric dynamical confinement: Fermi acceleration, quantum force and Berry phase	cond-mat.quant-gas
+SGDM: Static-Guided Dynamic Module Make Stronger Visual Models	cs.CV
+Improving Out-of-Vocabulary Handling in Recommendation Systems	cs.IR
+BlendX: Complex Multi-Intent Detection with Blended Patterns	cs.CL
+RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers	cs.IR
+RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers	cs.CL
+Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding	cs.CV
+Clustering Change Sign Detection by Fusing Mixture Complexity	stat.ML
+Clustering Change Sign Detection by Fusing Mixture Complexity	cs.IT
+Clustering Change Sign Detection by Fusing Mixture Complexity	cs.LG
+Clustering Change Sign Detection by Fusing Mixture Complexity	math.IT
+DSF-GAN: DownStream Feedback Generative Adversarial Network	cs.LG
+DSF-GAN: DownStream Feedback Generative Adversarial Network	cs.AI
+Branch-Tuning: Balancing Stability and Plasticity for Continual Self-Supervised Learning	cs.LG
+Branch-Tuning: Balancing Stability and Plasticity for Continual Self-Supervised Learning	cs.CV
+A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements	hep-ph
+A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements	hep-ex
+A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements	nucl-th
+Developing a Theoretical Model for the Resummation of Infrared Effects in the Pre- and Post-Reconstruction Galaxy Bispectra (https://youtu.be/bHdlIi3jQ4A)	astro-ph.CO
+Developing a Theoretical Model for the Resummation of Infrared Effects in the Pre- and Post-Reconstruction Galaxy Bispectra (https://youtu.be/bHdlIi3jQ4A)	astro-ph.GA
+Developing a Theoretical Model for the Resummation of Infrared Effects in the Pre- and Post-Reconstruction Galaxy Bispectra (https://youtu.be/bHdlIi3jQ4A)	gr-qc
+Toward Interactive Regional Understanding in Vision-Large Language Models	cs.CV
+Toward Interactive Regional Understanding in Vision-Large Language Models	cs.CL
+RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation	cs.RO
+Enhancing Generative Class Incremental Learning Performance with Model Forgetting Approach	cs.CV
+Enhancing Generative Class Incremental Learning Performance with Model Forgetting Approach	cs.AI
+Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation	eess.AS
+Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation	cs.SD
+MD-PK: Metaphor Detection via Prompt Learning and Knowledge Distillation	cs.CL
+Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models	cs.CV
+Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models	cs.AI
+Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models	cs.CL
+Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models	cs.LG
+Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models	cs.MM
+Since the Scientific Literature Is Multilingual, Our Models Should Be Too	cs.CL
+Exploring the Deceptive Power of LLM-Generated Fake News: A Study of Real-World Detection Challenges	cs.CL
+Exploring the Deceptive Power of LLM-Generated Fake News: A Study of Real-World Detection Challenges	cs.SI
+Sampling Electronic Fock States using Determinantal Quantum Monte Carlo	cond-mat.quant-gas
+Sampling Electronic Fock States using Determinantal Quantum Monte Carlo	cond-mat.str-el
+LocalCop: An R package for local likelihood inference for conditional copulas	stat.CO
+LocalCop: An R package for local likelihood inference for conditional copulas	stat.ME
+Boosting Conversational Question Answering with Fine-Grained Retrieval-Augmentation and Self-Check	cs.AI
+NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation	cs.CV
+NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation	cs.AI
+NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation	cs.GR
+NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation	cs.LG
+TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes	cs.CV
+Multi-AGV Path Planning Method via Reinforcement Learning and Particle Filters	cs.RO
+An Execution-time-certified QP Algorithm for $\ell_1$ penalty-based Soft-constrained MPC	eess.SY
+An Execution-time-certified QP Algorithm for $\ell_1$ penalty-based Soft-constrained MPC	cs.SY
+An Execution-time-certified QP Algorithm for $\ell_1$ penalty-based Soft-constrained MPC	math.OC
+Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data	eess.IV
+Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data	cs.CV
+Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data	cs.LG
+Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data	q-bio.TO
+Trineutron resonances in the SS-HORSE-NCSM approach	nucl-th
+Large Language Models Need Consultants for Reasoning: Becoming an Expert in a Complex Human System Through Behavior Simulation	cs.AI
+One Backpropagation in Two Tower Recommendation Models	cs.IR
+Conditional Denoising Diffusion Probabilistic Model for Ground-roll Attenuation	physics.geo-ph
+A Transformer-Based Framework for Payload Malware Detection and Classification	cs.CR
+A Transformer-Based Framework for Payload Malware Detection and Classification	cs.AI
+A Transformer-Based Framework for Payload Malware Detection and Classification	cs.LG
+Uncertainty-Aware Deployment of Pre-trained Language-Conditioned Imitation Learning Policies	cs.RO
+Uncertainty-Aware Deployment of Pre-trained Language-Conditioned Imitation Learning Policies	cs.LG
+Phonons in stringlet-land and the boson peak	cond-mat.soft
+Phonons in stringlet-land and the boson peak	cond-mat.mtrl-sci
+Phonons in stringlet-land and the boson peak	cond-mat.stat-mech
+From Two-Dimensional to Three-Dimensional Environment with Q-Learning: Modeling Autonomous Navigation with Reinforcement Learning and no Libraries	cs.LG
+From Two-Dimensional to Three-Dimensional Environment with Q-Learning: Modeling Autonomous Navigation with Reinforcement Learning and no Libraries	cs.AI
+From Two-Dimensional to Three-Dimensional Environment with Q-Learning: Modeling Autonomous Navigation with Reinforcement Learning and no Libraries	stat.CO
+Leveraging Large Language Models for Fuzzy String Matching in Political Science	cs.AI
+Parity doublet model for baryon octets: ground states saturated by good diquarks and the role of bad diquarks for excited states	hep-ph
+Parity doublet model for baryon octets: ground states saturated by good diquarks and the role of bad diquarks for excited states	nucl-th
+Long-Term Mine Planning with Large Neighbourhood Search	math.OC
+Preference-Based Planning in Stochastic Environments: From Partially-Ordered Temporal Goals to Most Preferred Policies	cs.RO
+Preference-Based Planning in Stochastic Environments: From Partially-Ordered Temporal Goals to Most Preferred Policies	cs.AI
+Preference-Based Planning in Stochastic Environments: From Partially-Ordered Temporal Goals to Most Preferred Policies	cs.FL
+Preference-Based Planning in Stochastic Environments: From Partially-Ordered Temporal Goals to Most Preferred Policies	cs.LO
+NeuroPictor: Refining fMRI-to-Image Reconstruction via Multi-individual Pretraining and Multi-level Modulation	cs.CV
+NeuroPictor: Refining fMRI-to-Image Reconstruction via Multi-individual Pretraining and Multi-level Modulation	cs.LG
+Exploring the Privacy Protection Capabilities of Chinese Large Language Models	cs.AI
+EndToEndML: An Open-Source End-to-End Pipeline for Machine Learning Applications	cs.AI
+TGMM: Combining Parse Tree with GPU for Scalable Multilingual and Multi-Granularity Code Clone Detection	cs.SE
+Few-shot Online Anomaly Detection and Segmentation	cs.CV
+Generative Medical Segmentation	eess.IV
+Generative Medical Segmentation	cs.CV
+Looking Beyond What You See: An Empirical Analysis on Subgroup Intersectional Fairness for Multi-label Chest X-ray Classification Using Social Determinants of Racial Health Inequities	cs.LG
+Looking Beyond What You See: An Empirical Analysis on Subgroup Intersectional Fairness for Multi-label Chest X-ray Classification Using Social Determinants of Racial Health Inequities	cs.AI
+Looking Beyond What You See: An Empirical Analysis on Subgroup Intersectional Fairness for Multi-label Chest X-ray Classification Using Social Determinants of Racial Health Inequities	cs.CV
+Looking Beyond What You See: An Empirical Analysis on Subgroup Intersectional Fairness for Multi-label Chest X-ray Classification Using Social Determinants of Racial Health Inequities	cs.CY
+Middle Fusion and Multi-Stage, Multi-Form Prompts for Robust RGB-T Tracking	cs.CV
+Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples	cs.LG
+The process of polarisation as a loss of dimensionality: measuring changes in polarisation using Singular Value Decomposition of network graphs	cs.SI
+The process of polarisation as a loss of dimensionality: measuring changes in polarisation using Singular Value Decomposition of network graphs	physics.soc-ph
+LayoutFlow: Flow Matching for Layout Generation	cs.CV
+Learning Optimal Behavior Through Reasoning and Experiences	econ.TH
+Topology Optimization for the Full-Cell Design of Porous Electrodes in Electrochemical Energy Storage Devices	physics.app-ph
+Topology Optimization for the Full-Cell Design of Porous Electrodes in Electrochemical Energy Storage Devices	math.OC
+Can AI Models Appreciate Document Aesthetics? An Exploration of Legibility and Layout Quality in Relation to Prediction Confidence	cs.AI
+Can AI Models Appreciate Document Aesthetics? An Exploration of Legibility and Layout Quality in Relation to Prediction Confidence	cs.IR
+ZAEBUC-Spoken: A Multilingual Multidialectal Arabic-English Speech Corpus	cs.CL
+Compression of the Koopman matrix for nonlinear physical models via hierarchical clustering	cs.LG
+Compression of the Koopman matrix for nonlinear physical models via hierarchical clustering	math.DS
+Multi-Layer Dense Attention Decoder for Polyp Segmentation	cs.CV
+Online Embedding Multi-Scale CLIP Features into 3D Maps	cs.RO
+Online Embedding Multi-Scale CLIP Features into 3D Maps	cs.CV
+Growth rate of liquidity provider's wealth in G3Ms	q-fin.MF
+Growth rate of liquidity provider's wealth in G3Ms	q-fin.PR
+Growth rate of liquidity provider's wealth in G3Ms	q-fin.TR
+LLMs in HCI Data Work: Bridging the Gap Between Information Retrieval and Responsible Research Practices	cs.HC
+LLMs in HCI Data Work: Bridging the Gap Between Information Retrieval and Responsible Research Practices	cs.IR
+Vision-Based Force Estimation for Minimally Invasive Telesurgery Through Contact Detection and Local Stiffness Models	cs.RO
+Formal deformations, cohomology theory and $L_\infty[1]$-structures for differential Lie algebras of arbitrary weight	math.RA
+Mechanisms of non-factual hallucinations in language models	cs.CL
+Mechanisms of non-factual hallucinations in language models	cs.AI
+Incentive Designs for Learning Agents to Stabilize Coupled Exogenous Systems	eess.SY
+Incentive Designs for Learning Agents to Stabilize Coupled Exogenous Systems	cs.SY
+Incentive Designs for Learning Agents to Stabilize Coupled Exogenous Systems	math.DS
+Incentive Designs for Learning Agents to Stabilize Coupled Exogenous Systems	math.OC
+A Study of Three Influencer Archetypes for the Control of Opinion Spread in Time-Varying Social Networks	cs.SI
+A Study of Three Influencer Archetypes for the Control of Opinion Spread in Time-Varying Social Networks	cs.SY
+A Study of Three Influencer Archetypes for the Control of Opinion Spread in Time-Varying Social Networks	eess.SY
+A Study of Three Influencer Archetypes for the Control of Opinion Spread in Time-Varying Social Networks	physics.soc-ph
+Optimizing Cyber Response Time on Temporal Active Directory Networks Using Decoys	cs.CR
+Optimizing Cyber Response Time on Temporal Active Directory Networks Using Decoys	cs.GT
+Optimizing Cyber Response Time on Temporal Active Directory Networks Using Decoys	cs.NE
+Eternagram: Probing Player Attitudes in Alternate Climate Scenarios Through a ChatGPT-Driven Text Adventure	cs.HC
+Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models	cs.LG
+Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models	cs.AI
+Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models	cs.CL
+Ancient stellar populations in the outskirts of nearby grand-design spirals: Investigation of their star formation histories	astro-ph.GA
+Large Language Models as Financial Data Annotators: A Study on Effectiveness and Efficiency	cs.CL
+Automated Report Generation for Lung Cytological Images Using a CNN Vision Classifier and Multiple-Transformer Text Decoders: Preliminary Study	eess.IV
+Automated Report Generation for Lung Cytological Images Using a CNN Vision Classifier and Multiple-Transformer Text Decoders: Preliminary Study	cs.CV
+Automated Report Generation for Lung Cytological Images Using a CNN Vision Classifier and Multiple-Transformer Text Decoders: Preliminary Study	physics.med-ph
+Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC	cs.RO
+Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC	cs.SY
+Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC	eess.SY
+Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC	math.OC
+Large Language Models Produce Responses Perceived to be Empathic	cs.CL
+Large Language Models Produce Responses Perceived to be Empathic	cs.AI
+Divide, Conquer, Combine Bayesian Decision Tree Sampling	cs.LG
+Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning	cs.CR
+Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning	cs.CV
+HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks	cs.LG
+Juru: Legal Brazilian Large Language Model from Reputable Sources	cs.CL
+Juru: Legal Brazilian Large Language Model from Reputable Sources	cs.AI
+Pseudo-MRI-Guided PET Image Reconstruction Method Based on a Diffusion Probabilistic Model	eess.IV
+Pseudo-MRI-Guided PET Image Reconstruction Method Based on a Diffusion Probabilistic Model	cs.CV
+Constructing abelian varieties from rank 3 Galois representations with real trace field	math.AG
+Constructing abelian varieties from rank 3 Galois representations with real trace field	math.NT
+Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs	cs.LG
+Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs	cs.AI
+Integrative Graph-Transformer Framework for Histopathology Whole Slide Image Representation and Classification	eess.IV
+Integrative Graph-Transformer Framework for Histopathology Whole Slide Image Representation and Classification	cs.CV
+Recommendation of data-free class-incremental learning algorithms by simulating future data	cs.LG
+Recommendation of data-free class-incremental learning algorithms by simulating future data	cs.AI
+Recommendation of data-free class-incremental learning algorithms by simulating future data	cs.CV
+On the Statistical Analysis of the Multipath Propagation Model Parameters for Power Line Communications	eess.SP
+HealthGAT: Node Classifications in Electronic Health Records using Graph Attention Networks	cs.LG
+HealthGAT: Node Classifications in Electronic Health Records using Graph Attention Networks	cs.CY
+Revisiting Elastic String Models of Forward Interest Rates	q-fin.ST
+For those who don't know (how) to ask: Building a dataset of technology questions for digital newcomers	cs.CL
+Stochastic Finite Volume Method for Uncertainty Management in Gas Pipeline Network Flows	math.OC
+Stochastic Finite Volume Method for Uncertainty Management in Gas Pipeline Network Flows	stat.CO
+Adaptive Loss Weighting for Machine Learning Interatomic Potentials	physics.comp-ph
+Adaptive Loss Weighting for Machine Learning Interatomic Potentials	cond-mat.mtrl-sci
+Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization	cs.AI
+Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization	cs.CL
+Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization	cs.LG
+ChatGPT Role-play Dataset: Analysis of User Motives and Model Naturalness	cs.CL
+ChatGPT Role-play Dataset: Analysis of User Motives and Model Naturalness	cs.HC
+Multiple Model Reference Adaptive Control with Blending for Non-Square Multivariable Systems	eess.SY
+Multiple Model Reference Adaptive Control with Blending for Non-Square Multivariable Systems	cs.SY
+EgoLifter: Open-world 3D Segmentation for Egocentric Perception	cs.CV
+TDIP: Tunable Deep Image Processing, a Real Time Melt Pool Monitoring Solution	cs.CV
+QuakeSet: A Dataset and Low-Resource Models to Monitor Earthquakes through Sentinel-1	cs.CV
+QuakeSet: A Dataset and Low-Resource Models to Monitor Earthquakes through Sentinel-1	cs.AI
+Segment Any Medical Model Extended	cs.CV
+$\ell_1$ spreading models and the FPP for Cesàro mean nonexpansive maps	math.FA
+Authorized Subject Headings in the Online Automatic catalog Environment An Empirical Study on a Sample of Arabic Records	cs.DL
+Large Language Models for Education: A Survey and Outlook	cs.CL
+Large Language Models for Education: A Survey and Outlook	cs.AI
+Tutorial on Diffusion Models for Imaging and Vision	cs.LG
+Tutorial on Diffusion Models for Imaging and Vision	cs.CV
+Towards Explainable Clustering: A Constrained Declarative based Approach	cs.AI
+Towards Explainable Clustering: A Constrained Declarative based Approach	cs.LG
+Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning	cs.AI
+Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning	cs.LG
+GPTs and Language Barrier: A Cross-Lingual Legal QA Examination	cs.CL
+GPTs and Language Barrier: A Cross-Lingual Legal QA Examination	cs.AI
+Development and property study of the extremely thin 12 \texorpdfstring{$μm$} C-type straw tubes with 5-mm diameter for a Straw Tracker System of COMET	physics.ins-det
+Development and property study of the extremely thin 12 \texorpdfstring{$μm$} C-type straw tubes with 5-mm diameter for a Straw Tracker System of COMET	hep-ex
+A Quantum Field Theory for the interaction of pions and rhos	hep-ph
+A Personalized Video-Based Hand Taxonomy: Application for Individuals with Spinal Cord Injury	cs.CV
+A Personalized Video-Based Hand Taxonomy: Application for Individuals with Spinal Cord Injury	cs.LG
+Enhancing Legal Document Retrieval: A Multi-Phase Approach with Large Language Models	cs.CL
+Enhancing Legal Document Retrieval: A Multi-Phase Approach with Large Language Models	cs.AI
+OCAI: Improving Optical Flow Estimation by Occlusion and Consistency Aware Interpolation	cs.CV
+The Flying Sidekick Traveling Salesman Problem with Multiple Drops: A Simple and Effective Heuristic Approach	math.OC
+Atomistic Descriptor Optimization Using Complementary Euclidean and Geodesic Distance Information	physics.chem-ph
+Discretize first, filter next: learning divergence-consistent closure models for large-eddy simulation	math.NA
+Discretize first, filter next: learning divergence-consistent closure models for large-eddy simulation	cs.NA
+Discretize first, filter next: learning divergence-consistent closure models for large-eddy simulation	physics.flu-dyn
+ANOCA: AC Network-aware Optimal Curtailment Approach for Dynamic Hosting Capacity	eess.SY
+ANOCA: AC Network-aware Optimal Curtailment Approach for Dynamic Hosting Capacity	cs.SY
+Properties and baroclinic instability of stratified thermal upper-ocean flow	physics.ao-ph
+Properties and baroclinic instability of stratified thermal upper-ocean flow	math-ph
+Properties and baroclinic instability of stratified thermal upper-ocean flow	math.MP
+Properties and baroclinic instability of stratified thermal upper-ocean flow	physics.flu-dyn
+Collective modes and Raman response in Ta$_2$NiSe$_5$	cond-mat.str-el
+EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation	cs.CV
+Magnetars as Powering Sources of Gamma-Ray Burst Associated Supernovae, and Unsupervised Clustering of Cosmic Explosions	astro-ph.HE
+Every Shot Counts: Using Exemplars for Repetition Counting in Videos	cs.CV
+Every Shot Counts: Using Exemplars for Repetition Counting in Videos	eess.IV
+Goal-Oriented Bayesian Optimal Experimental Design for Nonlinear Models using Markov Chain Monte Carlo	stat.CO
+Goal-Oriented Bayesian Optimal Experimental Design for Nonlinear Models using Markov Chain Monte Carlo	cs.LG
+Goal-Oriented Bayesian Optimal Experimental Design for Nonlinear Models using Markov Chain Monte Carlo	stat.ME
+Goal-Oriented Bayesian Optimal Experimental Design for Nonlinear Models using Markov Chain Monte Carlo	stat.ML
+Global transformer overheating from geomagnetic storms	physics.soc-ph
+Global transformer overheating from geomagnetic storms	physics.ao-ph
+Global transformer overheating from geomagnetic storms	physics.space-ph
+Personalized Imputation in metric spaces via conformal prediction: Applications in Predicting Diabetes Development with Continuous Glucose Monitoring Information	stat.ME
+Personalized Imputation in metric spaces via conformal prediction: Applications in Predicting Diabetes Development with Continuous Glucose Monitoring Information	stat.AP
+Path Integral Control with Rollout Clustering and Dynamic Obstacles	eess.SY
+Path Integral Control with Rollout Clustering and Dynamic Obstacles	cs.RO
+Path Integral Control with Rollout Clustering and Dynamic Obstacles	cs.SY
+Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer	cs.CV
+Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer	cs.AI
+Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer	cs.CL
+Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer	cs.LG
+Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer	cs.MM
+ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition	cs.RO
+ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition	cs.AI
+Online Submodular Welfare Maximization Meets Post-Allocation Stochasticity and Reusability	cs.DS
+COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning	cs.CL
+COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning	cs.AI
+Self-Clustering Hierarchical Multi-Agent Reinforcement Learning with Extensible Cooperation Graph	cs.AI
+Modifying Gibbs sampling to avoid self transitions	stat.CO
+Modifying Gibbs sampling to avoid self transitions	physics.comp-ph
+Shear banding and cracking in unsaturated porous media through a nonlocal THM meshfree paradigm	math.NA
+Shear banding and cracking in unsaturated porous media through a nonlocal THM meshfree paradigm	cs.NA
+R2D2 image reconstruction with model uncertainty quantification in radio astronomy	astro-ph.IM
+R2D2 image reconstruction with model uncertainty quantification in radio astronomy	cs.LG
+R2D2 image reconstruction with model uncertainty quantification in radio astronomy	eess.IV
+R2D2 image reconstruction with model uncertainty quantification in radio astronomy	eess.SP
+Supervisory Prompt Training	cs.CL
+Supervisory Prompt Training	cs.AI
+Quillen (co)homology of divided power algebras over an operad	math.RA
+Quillen (co)homology of divided power algebras over an operad	math.AT
+MUSE view of PDS 456: kpc-scale wind, extended ionized gas and close environment	astro-ph.GA
+Extending Network Calculus To Deal With Partially Negative And Decreasing Service Curves	cs.NI
+Learning Piecewise Residuals of Control Barrier Functions for Safety of Switching Systems using Multi-Output Gaussian Processes	eess.SY
+Learning Piecewise Residuals of Control Barrier Functions for Safety of Switching Systems using Multi-Output Gaussian Processes	cs.RO
+Learning Piecewise Residuals of Control Barrier Functions for Safety of Switching Systems using Multi-Output Gaussian Processes	cs.SY
+Global Point Cloud Registration Network for Large Transformations	cs.CV
+Doubly robust causal inference through penalized bias-reduced estimation: combining non-probability samples with designed surveys	stat.ME
+Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance	cs.CV
+Bidirectional Consistency Models	cs.LG
+Bidirectional Consistency Models	cs.CV
+The Impact of Syntactic and Semantic Proximity on Machine Translation with Back-Translation	cs.CL
+Predicting species occurrence patterns from partial observations	cs.LG
+Predicting species occurrence patterns from partial observations	cs.AI
+Predicting species occurrence patterns from partial observations	cs.CV
+Predicting species occurrence patterns from partial observations	q-bio.PE
+Cross-system biological image quality enhancement based on the generative adversarial network as a foundation for establishing a multi-institute microscopy cooperative network	eess.IV
+Cross-system biological image quality enhancement based on the generative adversarial network as a foundation for establishing a multi-institute microscopy cooperative network	cs.LG
+Cross-system biological image quality enhancement based on the generative adversarial network as a foundation for establishing a multi-institute microscopy cooperative network	q-bio.QM
+Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER	cs.CL
+Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER	cs.AI
+Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER	cs.IR
+Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER	cs.LG
+Enriching Word Usage Graphs with Cluster Definitions	cs.CL
+Tripartite entanglement and Bell non-locality in loop-induced Higgs boson decays	hep-ph
+DORE: A Dataset For Portuguese Definition Generation	cs.CL
+DORE: A Dataset For Portuguese Definition Generation	cs.LG
+Equilibration of objective observables in a dynamical model of quantum measurements	quant-ph
+A Constructive Method for Designing Safe Multirate Controllers for Differentially-Flat Systems	cs.SY
+A Constructive Method for Designing Safe Multirate Controllers for Differentially-Flat Systems	cs.RO
+A Constructive Method for Designing Safe Multirate Controllers for Differentially-Flat Systems	eess.SY
+Signatures of magnetic braking in Class 0 protostars ? Exploring the gas kinematics in magnetized models of low-mass star formation	astro-ph.SR
+Signatures of magnetic braking in Class 0 protostars ? Exploring the gas kinematics in magnetized models of low-mass star formation	astro-ph.GA
+The Relevance of Dynamical Friction for the MW/LMC/SMC Triple System	astro-ph.GA
+The Relevance of Dynamical Friction for the MW/LMC/SMC Triple System	astro-ph.CO
+Testing kinematic distances under a realistic Galactic potential	astro-ph.GA
+Partial alignment between jets and megamasers: coherent or selective accretion?	astro-ph.GA
+Partial alignment between jets and megamasers: coherent or selective accretion?	astro-ph.HE
+Partial alignment between jets and megamasers: coherent or selective accretion?	gr-qc
+Resonant Multi-Scalar Production in the Generic Complex Singlet Model in the Multi-TeV Region	hep-ph
+Natural Metric-Affine Inflation	hep-ph
+Natural Metric-Affine Inflation	astro-ph.CO
+Natural Metric-Affine Inflation	gr-qc
+Natural Metric-Affine Inflation	hep-th
+Efficient Video Object Segmentation via Modulated Cross-Attention Memory	cs.CV
+ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis	cs.CV
+Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval	cs.CV
+OmniVid: A Generative Framework for Universal Video Understanding	cs.CV
+AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation	cs.CV
+SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models	cs.RO
+SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models	cs.AI
+SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models	cs.CV
+SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models	cs.LG
+Track Everything Everywhere Fast and Robustly	cs.CV
+Towards Explaining Hypercomplex Neural Networks	cs.CV
+The instability mechanism of compact multiplanet systems	astro-ph.EP
+The instability mechanism of compact multiplanet systems	math.DS
+MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution	cs.SE
+MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution	cs.AI
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G	astro-ph.CO
+FastCAR: Fast Classification And Regression Multi-Task Learning via Task Consolidation for Modelling a Continuous Property Variable of Object Classes	cs.CV
+AID: Attention Interpolation of Text-to-Image Diffusion	cs.CV
+AID: Attention Interpolation of Text-to-Image Diffusion	cs.AI
+Optimizing Vaccine Site Locations While Considering Travel Inconvenience and Public Health Outcomes	math.OC
+The Need for Speed: Pruning Transformers with One Recipe	cs.LG
+TC4D: Trajectory-Conditioned Text-to-4D Generation	cs.CV
+LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning	cs.LG
+LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning	cs.AI
+LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning	cs.CL
+LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning	math.OC
+Leveraging Near-Field Lighting for Monocular Depth Estimation from Endoscopy Videos	cs.CV
+Hierarchical Multi-label Classification for Fine-level Event Extraction from Aviation Accident Reports	cs.AI
+Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model	quant-ph
+Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model	cond-mat.quant-gas
+Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model	cond-mat.stat-mech
+Domain-Specific Evaluation Strategies for AI in Journalism	cs.CY
+ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection	cs.CV
+Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models	eess.IV
+Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models	cs.CV
+Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models	cs.LG
+Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians	cs.CV
+Dynamical evolution of the Uranian satellite system II. Crossing of the 5/3 Ariel-Umbriel mean motion resonance	astro-ph.EP
+Dynamical evolution of the Uranian satellite system I. From the 5/3 Ariel-Umbriel mean motion resonance to the present	astro-ph.EP
+Global asymptotics for $β$-Krawtchouk corners processes via multi-level loop equations	math.PR
+Global asymptotics for $β$-Krawtchouk corners processes via multi-level loop equations	math-ph
+Global asymptotics for $β$-Krawtchouk corners processes via multi-level loop equations	math.MP
+Anomalous supercurrent and diode effect in locally perturbed topological Josephson junctions	cond-mat.supr-con
+A Survey on 3D Egocentric Human Pose Estimation	cs.CV
+Density of group languages in shift spaces	math.DS
+Density of group languages in shift spaces	cs.DM
+Image-based Novel Fault Detection with Deep Learning Classifiers using Hierarchical Labels	cs.LG
+Image-based Novel Fault Detection with Deep Learning Classifiers using Hierarchical Labels	cs.AI
+Searching for large dark matter clumps using the Galileo Satnav clock variations	astro-ph.CO
+Searching for large dark matter clumps using the Galileo Satnav clock variations	gr-qc
+Searching for large dark matter clumps using the Galileo Satnav clock variations	hep-ph
+Searching for large dark matter clumps using the Galileo Satnav clock variations	physics.atom-ph
+Large scale paired antibody language models	q-bio.BM
+Large scale paired antibody language models	cs.LG
+2D Gaussian Splatting for Geometrically Accurate Radiance Fields	cs.CV
+2D Gaussian Splatting for Geometrically Accurate Radiance Fields	cs.GR
+The Unreasonable Ineffectiveness of the Deeper Layers	cs.CL
+The Unreasonable Ineffectiveness of the Deeper Layers	cs.LG
+The Unreasonable Ineffectiveness of the Deeper Layers	stat.ML
+Compressed Multi-task embeddings for Data-Efficient Downstream training and inference in Earth Observation	cs.LG
+Empirical Analysis of EIP-3675: Miner Dynamics, Transaction Fees, and Transaction Time	cs.DB
+Superior and Pragmatic Talking Face Generation with Teacher-Student Framework	cs.CV
+Double polytropic cosmic acceleration from the Murnaghan equation of state	gr-qc
+Double polytropic cosmic acceleration from the Murnaghan equation of state	astro-ph.CO
+Low-Latency Neural Stereo Streaming	cs.CV
+Low-Latency Neural Stereo Streaming	eess.IV
+MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation	cs.IR
+The Solution to an Impulse Control Problem Motivated by Optimal Harvesting	math.OC
+The Solution to an Impulse Control Problem Motivated by Optimal Harvesting	math.PR
+Scaling Mixed-Integer Programming for Certification of Neural Network Controllers Using Bounds Tightening	math.OC
+Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach	cs.AI
+Boosting Diffusion Models with Moving Average Sampling in Frequency Domain	cs.CV
+Boosting Diffusion Models with Moving Average Sampling in Frequency Domain	cs.MM
+A Floquet analysis perspective of driven light-matter interaction models	quant-ph
+X-ray Properties of the Luminous Quasar PG 1634+706 at z = 1.337 from SRG and XMM-Newton Data	astro-ph.HE
+X-ray Properties of the Luminous Quasar PG 1634+706 at z = 1.337 from SRG and XMM-Newton Data	astro-ph.GA
+Synthesizing Soundscapes: Leveraging Text-to-Audio Models for Environmental Sound Classification	eess.AS
+Synthesizing Soundscapes: Leveraging Text-to-Audio Models for Environmental Sound Classification	cs.SD
+Synthesizing Soundscapes: Leveraging Text-to-Audio Models for Environmental Sound Classification	eess.SP
+Proceedings Sixth Workshop on Models for Formal Analysis of Real Systems	cs.LO
+Proceedings Sixth Workshop on Models for Formal Analysis of Real Systems	cs.PL
+Proceedings Sixth Workshop on Models for Formal Analysis of Real Systems	cs.SE
+Exploring LLMs as a Source of Targeted Synthetic Textual Data to Minimize High Confidence Misclassifications	cs.CL
+ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on Historical American Newspaper Pages	cs.CL
+Verbing Weirds Language (Models): Evaluation of English Zero-Derivation in Five LLMs	cs.CL
+Scaling of high-Rayleigh-number convection based on internal convective boundary layer	physics.flu-dyn
+Using Domain Knowledge to Guide Dialog Structure Induction via Neural Probabilistic Soft Logic	cs.CL
+Using Domain Knowledge to Guide Dialog Structure Induction via Neural Probabilistic Soft Logic	cs.LG
+Counterfactual Fairness through Transforming Data Orthogonal to Bias	cs.LG
+Counterfactual Fairness through Transforming Data Orthogonal to Bias	stat.ML
+A Mixed-Integer Linear Program to create the shifts in a supermarket	math.OC
+ArabicaQA: A Comprehensive Dataset for Arabic Question Answering	cs.CL
+ArabicaQA: A Comprehensive Dataset for Arabic Question Answering	cs.IR
+Climate Downscaling: A Deep-Learning Based Super-resolution Model of Precipitation Data with Attention Block and Skip Connections	cs.LG
+Climate Downscaling: A Deep-Learning Based Super-resolution Model of Precipitation Data with Attention Block and Skip Connections	cs.AI
+Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation	cs.RO
+Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation	cs.AI
+Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation	cs.CL
+Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation	cs.CV
+Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation	cs.LG
+Mechanistic Design and Scaling of Hybrid Architectures	cs.LG
+ReMamber: Referring Image Segmentation with Mamba Twister	cs.CV
+ReMamber: Referring Image Segmentation with Mamba Twister	cs.AI
+An MBE-CASSCF Approach for the Accurate Treatment of Large Active Spaces	physics.chem-ph
+A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities	cs.CV
+GPFL: A Gradient Projection-Based Client Selection Framework for Efficient Federated Learning	cs.LG
+GPFL: A Gradient Projection-Based Client Selection Framework for Efficient Federated Learning	cs.DC
+The memory of Rayleigh-Taylor turbulence	physics.flu-dyn
+Assessment of Multimodal Large Language Models in Alignment with Human Values	cs.CV
+The Relativistic Spin Precession in the Compact Double Neutron Star System PSR~J1946+2052	astro-ph.HE
+DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions	cs.CV
+DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions	cs.AI
+DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions	cs.GR
+DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions	cs.LG
+On the Computational Complexity of Stackelberg Planning and Meta-Operator Verification: Technical Report	cs.AI
+Towards Multilevel Modelling of Train Passing Events on the Staffordshire Bridge	stat.AP
+Towards Multilevel Modelling of Train Passing Events on the Staffordshire Bridge	stat.ML
+Accelerating Radio Spectrum Regulation Workflows with Large Language Models (LLMs)	cs.NI
+Accelerating Radio Spectrum Regulation Workflows with Large Language Models (LLMs)	cs.AI
+CSSTs: A Dynamic Data Structure for Partial Orders in Concurrent Execution Analysis	cs.PL
+Probing the shape of the quark-gluon plasma droplet via event-by-event QGP tomography	hep-ph
+Probing the shape of the quark-gluon plasma droplet via event-by-event QGP tomography	nucl-th
+Graph Language Model (GLM): A new graph-based approach to detect social instabilities	cs.CL
+Are Compressed Language Models Less Subgroup Robust?	cs.LG
+Are Compressed Language Models Less Subgroup Robust?	cs.CL
+Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields	eess.IV
+Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields	cs.CV
+Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields	cs.LG
+Towards Inclusive Video Commenting: Introducing Signmaku for the Deaf and Hard-of-Hearing	cs.HC
+Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms	cs.LG
+Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms	cs.CL
+Improving Text-to-Image Consistency via Automatic Prompt Optimization	cs.CV
+Improving Text-to-Image Consistency via Automatic Prompt Optimization	cs.CL
+Towards 3D Vision with Low-Cost Single-Photon Cameras	cs.CV
+Towards 3D Vision with Low-Cost Single-Photon Cameras	eess.IV
+A Novel Temperature-based Model for SWIPT	cs.IT
+A Novel Temperature-based Model for SWIPT	math.IT
+Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications	cs.AI
+Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications	cs.CR
+Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications	cs.CV
+GenesisTex: Adapting Image Denoising Diffusion to Texture Space	cs.CV
+GenesisTex: Adapting Image Denoising Diffusion to Texture Space	cs.GR
+CaseLink: Inductive Graph Learning for Legal Case Retrieval	cs.IR
+Towards a FAIR Documentation of Workflows and Models in Applied Mathematics	cs.AI
+Towards a FAIR Documentation of Workflows and Models in Applied Mathematics	cs.DB
+Towards a FAIR Documentation of Workflows and Models in Applied Mathematics	cs.DL
+Deconvolution from two order statistics	econ.EM
+Secure Aggregation is Not Private Against Membership Inference Attacks	cs.LG
+Secure Aggregation is Not Private Against Membership Inference Attacks	cs.CR
+Coupled Nonlinear Schrödinger (CNLS) Equations for two interacting electrostatic wavepackets in a non-Maxwellian fluid plasma model	physics.plasm-ph
+Coupled Nonlinear Schrödinger (CNLS) Equations for two interacting electrostatic wavepackets in a non-Maxwellian fluid plasma model	nlin.PS
+Giant planet formation in the solar system	astro-ph.EP
+CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation	eess.IV
+CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation	cs.CV
+SciNews: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation	cs.CL
+SciNews: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation	cs.AI
+SciNews: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation	cs.LG
+Asymptotic Bayes risk of semi-supervised learning with uncertain labeling	stat.ML
+Asymptotic Bayes risk of semi-supervised learning with uncertain labeling	cs.LG

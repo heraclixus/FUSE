@@ -1,0 +1,1520 @@
+Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark	cs.SD
+Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark	cs.CV
+Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark	cs.MM
+Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark	eess.AS
+MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering	cs.CV
+Benchmarking Object Detectors with COCO: A New Path Forward	cs.CV
+ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion	cs.CV
+Garment3DGen: 3D Garment Stylization and Texture Generation	cs.CV
+Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models	cs.CV
+Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models	cs.AI
+Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models	cs.CL
+Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment	cs.CV
+Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment	cs.GR
+Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment	cs.SD
+Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment	eess.AS
+ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation	cs.CV
+ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation	cs.AI
+ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation	cs.LG
+Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction	cs.CV
+Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction	cs.AI
+Object Pose Estimation via the Aggregation of Diffusion Features	cs.CV
+SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface	cs.CV
+ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object	cs.CV
+ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object	cs.AI
+ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object	cs.LG
+ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition	cs.CV
+ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition	cs.AI
+ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition	cs.RO
+Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray	cs.CV
+Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray	cs.AI
+Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray	cs.LG
+A vascular synthetic model for improved aneurysm segmentation and detection via Deep Neural Networks	eess.IV
+A vascular synthetic model for improved aneurysm segmentation and detection via Deep Neural Networks	cs.CV
+Enhancing Manufacturing Quality Prediction Models through the Integration of Explainability Methods	cs.AI
+Enhancing Manufacturing Quality Prediction Models through the Integration of Explainability Methods	cs.CV
+Enhancing Manufacturing Quality Prediction Models through the Integration of Explainability Methods	cs.CY
+Enhancing Manufacturing Quality Prediction Models through the Integration of Explainability Methods	cs.LG
+Towards Image Ambient Lighting Normalization	cs.CV
+Semi-Supervised Learning for Deep Causal Generative Models	cs.LG
+Semi-Supervised Learning for Deep Causal Generative Models	cs.AI
+Semi-Supervised Learning for Deep Causal Generative Models	cs.CV
+Semi-Supervised Learning for Deep Causal Generative Models	stat.ML
+Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding	cs.CV
+Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding	cs.AI
+Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding	cs.CL
+Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding	cs.MM
+Bringing Textual Prompt to AI-Generated Image Quality Assessment	cs.CV
+Bringing Textual Prompt to AI-Generated Image Quality Assessment	cs.MM
+SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery	cs.CV
+SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery	cs.AI
+Dense Vision Transformer Compression with Few Samples	cs.CV
+Annolid: Annotate, Segment, and Track Anything You Need	cs.CV
+Annolid: Annotate, Segment, and Track Anything You Need	cs.AI
+Deep Learning for Robust and Explainable Models in Computer Vision	cs.CV
+InstructBrush: Learning Attention-based Instruction Optimization for Image Editing	cs.GR
+InstructBrush: Learning Attention-based Instruction Optimization for Image Editing	cs.CV
+Addressing Data Annotation Challenges in Multiple Sensors: A Solution for Scania Collected Datasets	cs.CV
+Addressing Data Annotation Challenges in Multiple Sensors: A Solution for Scania Collected Datasets	cs.SY
+Addressing Data Annotation Challenges in Multiple Sensors: A Solution for Scania Collected Datasets	eess.SY
+Transformers-based architectures for stroke segmentation: A review	eess.IV
+Transformers-based architectures for stroke segmentation: A review	cs.CV
+Transformers-based architectures for stroke segmentation: A review	cs.LG
+Scalable Lipschitz Estimation for CNNs	cs.LG
+FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing	cs.CV
+RAP: Retrieval-Augmented Planner for Adaptive Procedure Planning in Instructional Videos	cs.CV
+RAP: Retrieval-Augmented Planner for Adaptive Procedure Planning in Instructional Videos	cs.AI
+RAP: Retrieval-Augmented Planner for Adaptive Procedure Planning in Instructional Videos	cs.RO
+Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding	cs.CV
+Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding	cs.AI
+Users prefer Jpegli over same-sized libjpeg-turbo or MozJPEG	eess.IV
+Users prefer Jpegli over same-sized libjpeg-turbo or MozJPEG	cs.CV
+The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision	cs.CR
+The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision	cs.CV
+The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision	cs.LG
+MisGUIDE : Defense Against Data-Free Deep Learning Model Extraction	cs.CR
+HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions	cs.CV
+Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review	cs.CV
+CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection	cs.CV
+Attention Calibration for Disentangled Text-to-Image Personalization	cs.CV
+OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning	cs.CV
+A Semi-supervised Nighttime Dehazing Baseline with Spatial-Frequency Aware and Realistic Brightness Constraint	cs.CV
+Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes	cs.RO
+Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes	cs.AI
+Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes	cs.CV
+Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP	cs.CV
+Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP	cs.CL
+Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP	cs.LG
+CT-3DFlow : Leveraging 3D Normalizing Flows for Unsupervised Detection of Pathological Pulmonary CT scans	eess.IV
+CT-3DFlow : Leveraging 3D Normalizing Flows for Unsupervised Detection of Pathological Pulmonary CT scans	cs.CV
+CT-3DFlow : Leveraging 3D Normalizing Flows for Unsupervised Detection of Pathological Pulmonary CT scans	cs.LG
+ParCo: Part-Coordinating Text-to-Motion Synthesis	cs.CV
+HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator	eess.IV
+HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator	cs.CV
+Direct mineral content prediction from drill core images via transfer learning	cs.CV
+Direct mineral content prediction from drill core images via transfer learning	cs.LG
+Direct mineral content prediction from drill core images via transfer learning	eess.IV
+VersaT2I: Improving Text-to-Image Models with Versatile Reward	cs.CV
+I2CKD : Intra- and Inter-Class Knowledge Distillation for Semantic Segmentation	cs.CV
+Modeling uncertainty for Gaussian Splatting	cs.CV
+Modeling uncertainty for Gaussian Splatting	cs.GR
+DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis	cs.CV
+Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds	cs.CV
+Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds	cs.AI
+Deep Learning Segmentation and Classification of Red Blood Cells Using a Large Multi-Scanner Dataset	eess.IV
+Deep Learning Segmentation and Classification of Red Blood Cells Using a Large Multi-Scanner Dataset	cs.CV
+DiffStyler: Diffusion-based Localized Image Style Transfer	cs.CV
+Scaling Vision-and-Language Navigation With Offline RL	cs.CV
+SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model	cs.CV
+SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model	cs.LG
+SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model	cs.RO
+Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction	cs.CL
+Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction	cs.CV
+Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction	cs.LG
+Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction	cs.RO
+FRESCO: Federated Reinforcement Energy System for Cooperative Optimization	cs.LG
+$\mathrm{F^2Depth}$: Self-supervised Indoor Monocular Depth Estimation via Optical Flow Consistency and Feature Map Synthesis	cs.CV
+Backpropagation-free Network for 3D Test-time Adaptation	cs.CV
+U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models	cs.CV
+U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models	cs.AI
+U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models	cs.LG
+ECNet: Effective Controllable Text-to-Image Diffusion Models	cs.CV
+A Channel-ensemble Approach: Unbiased and Low-variance Pseudo-labels is Critical for Semi-supervised Classification	cs.CV
+A Channel-ensemble Approach: Unbiased and Low-variance Pseudo-labels is Critical for Semi-supervised Classification	cs.AI
+An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM	cs.CV
+An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM	cs.AI
+An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM	cs.CL
+An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM	cs.LG
+Colour and Brush Stroke Pattern Recognition in Abstract Art using Modified Deep Convolutional Generative Adversarial Networks	cs.CV
+Colour and Brush Stroke Pattern Recognition in Abstract Art using Modified Deep Convolutional Generative Adversarial Networks	cs.AI
+Colour and Brush Stroke Pattern Recognition in Abstract Art using Modified Deep Convolutional Generative Adversarial Networks	cs.LG
+FTBC: Forward Temporal Bias Correction for Optimizing ANN-SNN Conversion	cs.AI
+FTBC: Forward Temporal Bias Correction for Optimizing ANN-SNN Conversion	cs.CV
+Generative Multi-modal Models are Good Class-Incremental Learners	cs.CV
+Generative Multi-modal Models are Good Class-Incremental Learners	cs.AI
+Generative Multi-modal Models are Good Class-Incremental Learners	cs.LG
+BAM: Box Abstraction Monitors for Real-time OoD Detection in Object Detection	cs.CV
+Ship in Sight: Diffusion Models for Ship-Image Super Resolution	cs.CV
+Ship in Sight: Diffusion Models for Ship-Image Super Resolution	cs.LG
+ViTAR: Vision Transformer with Any Resolution	cs.CV
+Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation	cs.CV
+MonoHair: High-Fidelity Hair Modeling from a Monocular Video	cs.CV
+Generating Diverse Agricultural Data for Vision-Based Farming Applications	cs.CV
+Generating Diverse Agricultural Data for Vision-Based Farming Applications	cs.AI
+Generating Diverse Agricultural Data for Vision-Based Farming Applications	cs.GR
+Generating Diverse Agricultural Data for Vision-Based Farming Applications	cs.LG
+A Quantum Fuzzy-based Approach for Real-Time Detection of Solar Coronal Holes	astro-ph.SR
+A Quantum Fuzzy-based Approach for Real-Time Detection of Solar Coronal Holes	cs.AI
+A Quantum Fuzzy-based Approach for Real-Time Detection of Solar Coronal Holes	cs.CV
+A Quantum Fuzzy-based Approach for Real-Time Detection of Solar Coronal Holes	cs.LG
+Quantifying and Mitigating Unimodal Biases in Multimodal Large Language Models: A Causal Perspective	cs.CL
+Quantifying and Mitigating Unimodal Biases in Multimodal Large Language Models: A Causal Perspective	cs.CV
+Learning Inclusion Matching for Animation Paint Bucket Colorization	cs.CV
+H2ASeg: Hierarchical Adaptive Interaction and Weighting Network for Tumor Segmentation in PET/CT Images	eess.IV
+H2ASeg: Hierarchical Adaptive Interaction and Weighting Network for Tumor Segmentation in PET/CT Images	cs.CV
+DODA: Diffusion for Object-detection Domain Adaptation in Agriculture	cs.CV
+Tracking-Assisted Object Detection with Event Cameras	cs.CV
+Tracking-Assisted Object Detection with Event Cameras	cs.LG
+PIPNet3D: Interpretable Detection of Alzheimer in MRI Scans	cs.CV
+Implementation of the Principal Component Analysis onto High-Performance Computer Facilities for Hyperspectral Dimensionality Reduction: Results and Comparisons	cs.LG
+Implementation of the Principal Component Analysis onto High-Performance Computer Facilities for Hyperspectral Dimensionality Reduction: Results and Comparisons	cs.CV
+Uncertainty-Aware SAR ATR: Defending Against Adversarial Attacks via Bayesian Neural Networks	cs.CV
+Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Objectives	cs.LG
+Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Objectives	cs.AI
+Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Objectives	cs.CV
+Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Objectives	stat.ML
+Multi-scale Unified Network for Image Classification	cs.CV
+Efficient Test-Time Adaptation of Vision-Language Models	cs.CV
+Towards Non-Exemplar Semi-Supervised Class-Incremental Learning	cs.CV
+SGDM: Static-Guided Dynamic Module Make Stronger Visual Models	cs.CV
+AIR-HLoc: Adaptive Image Retrieval for Efficient Visual Localisation	cs.CV
+RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers	cs.IR
+RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers	cs.CL
+DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment	cs.CV
+Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding	cs.CV
+Image Deraining via Self-supervised Reinforcement Learning	cs.CV
+Image Deraining via Self-supervised Reinforcement Learning	eess.IV
+Branch-Tuning: Balancing Stability and Plasticity for Continual Self-Supervised Learning	cs.LG
+Branch-Tuning: Balancing Stability and Plasticity for Continual Self-Supervised Learning	cs.CV
+Toward Interactive Regional Understanding in Vision-Large Language Models	cs.CV
+Toward Interactive Regional Understanding in Vision-Large Language Models	cs.CL
+Enhancing Generative Class Incremental Learning Performance with Model Forgetting Approach	cs.CV
+Enhancing Generative Class Incremental Learning Performance with Model Forgetting Approach	cs.AI
+Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models	cs.CV
+Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models	cs.AI
+Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models	cs.CL
+Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models	cs.LG
+Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models	cs.MM
+NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation	cs.CV
+NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation	cs.AI
+NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation	cs.GR
+NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation	cs.LG
+TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes	cs.CV
+Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data	eess.IV
+Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data	cs.CV
+Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data	cs.LG
+Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data	q-bio.TO
+Fourier or Wavelet bases as counterpart self-attention in spikformer for efficient visual classification	cs.CV
+Fourier or Wavelet bases as counterpart self-attention in spikformer for efficient visual classification	cs.LG
+Fourier or Wavelet bases as counterpart self-attention in spikformer for efficient visual classification	cs.NE
+NeuroPictor: Refining fMRI-to-Image Reconstruction via Multi-individual Pretraining and Multi-level Modulation	cs.CV
+NeuroPictor: Refining fMRI-to-Image Reconstruction via Multi-individual Pretraining and Multi-level Modulation	cs.LG
+An Evolutionary Network Architecture Search Framework with Adaptive Multimodal Fusion for Hand Gesture Recognition	cs.CV
+An Evolutionary Network Architecture Search Framework with Adaptive Multimodal Fusion for Hand Gesture Recognition	cs.AI
+An Evolutionary Network Architecture Search Framework with Adaptive Multimodal Fusion for Hand Gesture Recognition	cs.NE
+Road Obstacle Detection based on Unknown Objectness Scores	cs.CV
+Road Obstacle Detection based on Unknown Objectness Scores	cs.RO
+Few-shot Online Anomaly Detection and Segmentation	cs.CV
+Generative Medical Segmentation	eess.IV
+Generative Medical Segmentation	cs.CV
+Looking Beyond What You See: An Empirical Analysis on Subgroup Intersectional Fairness for Multi-label Chest X-ray Classification Using Social Determinants of Racial Health Inequities	cs.LG
+Looking Beyond What You See: An Empirical Analysis on Subgroup Intersectional Fairness for Multi-label Chest X-ray Classification Using Social Determinants of Racial Health Inequities	cs.AI
+Looking Beyond What You See: An Empirical Analysis on Subgroup Intersectional Fairness for Multi-label Chest X-ray Classification Using Social Determinants of Racial Health Inequities	cs.CV
+Looking Beyond What You See: An Empirical Analysis on Subgroup Intersectional Fairness for Multi-label Chest X-ray Classification Using Social Determinants of Racial Health Inequities	cs.CY
+SCANet: Correcting LEGO Assembly Errors with Self-Correct Assembly Network	cs.RO
+SCANet: Correcting LEGO Assembly Errors with Self-Correct Assembly Network	cs.AI
+Middle Fusion and Multi-Stage, Multi-Form Prompts for Robust RGB-T Tracking	cs.CV
+LayoutFlow: Flow Matching for Layout Generation	cs.CV
+Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting	cs.CV
+Multi-Layer Dense Attention Decoder for Polyp Segmentation	cs.CV
+Online Embedding Multi-Scale CLIP Features into 3D Maps	cs.RO
+Online Embedding Multi-Scale CLIP Features into 3D Maps	cs.CV
+Vision-Based Force Estimation for Minimally Invasive Telesurgery Through Contact Detection and Local Stiffness Models	cs.RO
+Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models	cs.LG
+Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models	cs.AI
+Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models	cs.CL
+The Effects of Short Video-Sharing Services on Video Copy Detection	cs.CV
+Automated Report Generation for Lung Cytological Images Using a CNN Vision Classifier and Multiple-Transformer Text Decoders: Preliminary Study	eess.IV
+Automated Report Generation for Lung Cytological Images Using a CNN Vision Classifier and Multiple-Transformer Text Decoders: Preliminary Study	cs.CV
+Automated Report Generation for Lung Cytological Images Using a CNN Vision Classifier and Multiple-Transformer Text Decoders: Preliminary Study	physics.med-ph
+Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning	cs.CR
+Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning	cs.CV
+Pseudo-MRI-Guided PET Image Reconstruction Method Based on a Diffusion Probabilistic Model	eess.IV
+Pseudo-MRI-Guided PET Image Reconstruction Method Based on a Diffusion Probabilistic Model	cs.CV
+Integrative Graph-Transformer Framework for Histopathology Whole Slide Image Representation and Classification	eess.IV
+Integrative Graph-Transformer Framework for Histopathology Whole Slide Image Representation and Classification	cs.CV
+Recommendation of data-free class-incremental learning algorithms by simulating future data	cs.LG
+Recommendation of data-free class-incremental learning algorithms by simulating future data	cs.AI
+Recommendation of data-free class-incremental learning algorithms by simulating future data	cs.CV
+EgoLifter: Open-world 3D Segmentation for Egocentric Perception	cs.CV
+TDIP: Tunable Deep Image Processing, a Real Time Melt Pool Monitoring Solution	cs.CV
+QuakeSet: A Dataset and Low-Resource Models to Monitor Earthquakes through Sentinel-1	cs.CV
+QuakeSet: A Dataset and Low-Resource Models to Monitor Earthquakes through Sentinel-1	cs.AI
+Segment Any Medical Model Extended	cs.CV
+Mathematical Foundation and Corrections for Full Range Head Pose Estimation	cs.CV
+Mathematical Foundation and Corrections for Full Range Head Pose Estimation	cs.LG
+Tutorial on Diffusion Models for Imaging and Vision	cs.LG
+Tutorial on Diffusion Models for Imaging and Vision	cs.CV
+Efficient Multi-Band Temporal Video Filter for Reducing Human-Robot Interaction	cs.RO
+Efficient Multi-Band Temporal Video Filter for Reducing Human-Robot Interaction	cs.CV
+A Personalized Video-Based Hand Taxonomy: Application for Individuals with Spinal Cord Injury	cs.CV
+A Personalized Video-Based Hand Taxonomy: Application for Individuals with Spinal Cord Injury	cs.LG
+OCAI: Improving Optical Flow Estimation by Occlusion and Consistency Aware Interpolation	cs.CV
+A Universe of Sound: Processing NASA Data into Sonifications to Explore Participant Response	physics.ed-ph
+A Universe of Sound: Processing NASA Data into Sonifications to Explore Participant Response	astro-ph.IM
+A Universe of Sound: Processing NASA Data into Sonifications to Explore Participant Response	physics.soc-ph
+EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation	cs.CV
+Every Shot Counts: Using Exemplars for Repetition Counting in Videos	cs.CV
+Every Shot Counts: Using Exemplars for Repetition Counting in Videos	eess.IV
+State of the art applications of deep learning within tracking and detecting marine debris: A survey	cs.CV
+State of the art applications of deep learning within tracking and detecting marine debris: A survey	cs.AI
+State of the art applications of deep learning within tracking and detecting marine debris: A survey	cs.LG
+Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer	cs.CV
+Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer	cs.AI
+Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer	cs.CL
+Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer	cs.LG
+Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer	cs.MM
+Global Point Cloud Registration Network for Large Transformations	cs.CV
+TGGLinesPlus: A robust topological graph-guided computer vision algorithm for line detection from images	cs.CV
+Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance	cs.CV
+Bidirectional Consistency Models	cs.LG
+Bidirectional Consistency Models	cs.CV
+SpectralWaste Dataset: Multimodal Data for Waste Sorting Automation	cs.CV
+SpectralWaste Dataset: Multimodal Data for Waste Sorting Automation	cs.RO
+Predicting species occurrence patterns from partial observations	cs.LG
+Predicting species occurrence patterns from partial observations	cs.AI
+Predicting species occurrence patterns from partial observations	cs.CV
+Predicting species occurrence patterns from partial observations	q-bio.PE
+Efficient Video Object Segmentation via Modulated Cross-Attention Memory	cs.CV
+ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis	cs.CV
+Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval	cs.CV
+OmniVid: A Generative Framework for Universal Video Understanding	cs.CV
+AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation	cs.CV
+SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models	cs.RO
+SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models	cs.AI
+SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models	cs.CV
+SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models	cs.LG
+Track Everything Everywhere Fast and Robustly	cs.CV
+Towards Explaining Hypercomplex Neural Networks	cs.CV
+FastCAR: Fast Classification And Regression Multi-Task Learning via Task Consolidation for Modelling a Continuous Property Variable of Object Classes	cs.CV
+AID: Attention Interpolation of Text-to-Image Diffusion	cs.CV
+AID: Attention Interpolation of Text-to-Image Diffusion	cs.AI
+TC4D: Trajectory-Conditioned Text-to-4D Generation	cs.CV
+CMP: Cooperative Motion Prediction with Multi-Agent Communication	cs.RO
+CMP: Cooperative Motion Prediction with Multi-Agent Communication	cs.AI
+CMP: Cooperative Motion Prediction with Multi-Agent Communication	cs.CV
+CMP: Cooperative Motion Prediction with Multi-Agent Communication	cs.LG
+CMP: Cooperative Motion Prediction with Multi-Agent Communication	cs.MA
+Leveraging Near-Field Lighting for Monocular Depth Estimation from Endoscopy Videos	cs.CV
+ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection	cs.CV
+Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2	eess.IV
+Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2	cs.CV
+Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2	cs.LG
+Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2	eess.SP
+Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models	eess.IV
+Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models	cs.CV
+Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models	cs.LG
+Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians	cs.CV
+A Survey on 3D Egocentric Human Pose Estimation	cs.CV
+2D Gaussian Splatting for Geometrically Accurate Radiance Fields	cs.CV
+2D Gaussian Splatting for Geometrically Accurate Radiance Fields	cs.GR
+Sen2Fire: A Challenging Benchmark Dataset for Wildfire Detection using Sentinel Data	cs.CV
+Superior and Pragmatic Talking Face Generation with Teacher-Student Framework	cs.CV
+Deepfake Generation and Detection: A Benchmark and Survey	cs.CV
+Low-Latency Neural Stereo Streaming	cs.CV
+Low-Latency Neural Stereo Streaming	eess.IV
+Boosting Diffusion Models with Moving Average Sampling in Frequency Domain	cs.CV
+Boosting Diffusion Models with Moving Average Sampling in Frequency Domain	cs.MM
+To Supervise or Not to Supervise: Understanding and Addressing the Key Challenges of 3D Transfer Learning	cs.CV
+Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation	cs.RO
+Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation	cs.AI
+Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation	cs.CL
+Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation	cs.CV
+Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation	cs.LG
+ReMamber: Referring Image Segmentation with Mamba Twister	cs.CV
+ReMamber: Referring Image Segmentation with Mamba Twister	cs.AI
+GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction	cs.CV
+GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction	cs.GR
+GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction	cs.LG
+GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction	cs.MM
+GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction	eess.IV
+A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities	cs.CV
+Assessment of Multimodal Large Language Models in Alignment with Human Values	cs.CV
+DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions	cs.CV
+DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions	cs.AI
+DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions	cs.GR
+DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions	cs.LG
+Efficient Image Pre-Training with Siamese Cropped Masked Autoencoders	cs.CV
+DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing	cs.CV
+Environment Reconstruction based on Multi-User Selection and Multi-Modal Fusion in ISAC	eess.SP
+Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields	eess.IV
+Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields	cs.CV
+Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields	cs.LG
+Improving Text-to-Image Consistency via Automatic Prompt Optimization	cs.CV
+Improving Text-to-Image Consistency via Automatic Prompt Optimization	cs.CL
+Towards 3D Vision with Low-Cost Single-Photon Cameras	cs.CV
+Towards 3D Vision with Low-Cost Single-Photon Cameras	eess.IV
+Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications	cs.AI
+Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications	cs.CR
+Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications	cs.CV
+GenesisTex: Adapting Image Denoising Diffusion to Texture Space	cs.CV
+GenesisTex: Adapting Image Denoising Diffusion to Texture Space	cs.GR
+CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation	eess.IV
+CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation	cs.CV
+MUTE-SLAM: Real-Time Neural SLAM with Multiple Tri-Plane Hash Representations	cs.CV
+Makeup Prior Models for 3D Facial Makeup Estimation and Applications	cs.CV
+Makeup Prior Models for 3D Facial Makeup Estimation and Applications	cs.GR
+Noise2Noise Denoising of CRISM Hyperspectral Data	cs.CV
+Noise2Noise Denoising of CRISM Hyperspectral Data	cs.LG
+Semi-Supervised Image Captioning Considering Wasserstein Graph Matching	cs.CV
+Semi-Supervised Image Captioning Considering Wasserstein Graph Matching	cs.AI
+Semi-Supervised Image Captioning Considering Wasserstein Graph Matching	cs.LG
+DataCook: Crafting Anti-Adversarial Examples for Healthcare Data Copyright Protection	cs.AI
+DataCook: Crafting Anti-Adversarial Examples for Healthcare Data Copyright Protection	cs.CR
+DataCook: Crafting Anti-Adversarial Examples for Healthcare Data Copyright Protection	cs.CV
+Multi-Task Dense Prediction via Mixture of Low-Rank Experts	cs.CV
+Using Stratified Sampling to Improve LIME Image Explanations	cs.AI
+Paired Diffusion: Generation of related, synthetic PET-CT-Segmentation scans using Linked Denoising Diffusion Probabilistic Models	eess.IV
+Paired Diffusion: Generation of related, synthetic PET-CT-Segmentation scans using Linked Denoising Diffusion Probabilistic Models	cs.CV
+FastPerson: Enhancing Video Learning through Effective Video Summarization that Preserves Linguistic and Visual Contexts	cs.CV
+FastPerson: Enhancing Video Learning through Effective Video Summarization that Preserves Linguistic and Visual Contexts	cs.CL
+FastPerson: Enhancing Video Learning through Effective Video Summarization that Preserves Linguistic and Visual Contexts	cs.HC
+FastPerson: Enhancing Video Learning through Effective Video Summarization that Preserves Linguistic and Visual Contexts	cs.MM
+Tiny Models are the Computational Saver for Large Models	cs.AI
+Deep Learning for Segmentation of Cracks in High-Resolution Images of Steel Bridges	cs.CV
+Deep Learning for Segmentation of Cracks in High-Resolution Images of Steel Bridges	eess.IV
+Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark	cs.CV
+Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection	cs.CV
+Panonut360: A Head and Eye Tracking Dataset for Panoramic Video	cs.CV
+Panonut360: A Head and Eye Tracking Dataset for Panoramic Video	cs.HC
+Panonut360: A Head and Eye Tracking Dataset for Panoramic Video	cs.MM
+Solution for Point Tracking Task of ICCV 1st Perception Test Challenge 2023	cs.CV
+Solution for Point Tracking Task of ICCV 1st Perception Test Challenge 2023	cs.LG
+The Solution for the CVPR 2023 1st foundation model challenge-Track2	cs.CV
+Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation	eess.IV
+Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation	cs.CV
+Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation	cs.LG
+PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition	cs.CV
+PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition	cs.LG
+AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation	cs.CV
+AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation	cs.GR
+AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation	eess.IV
+ExpressEdit: Video Editing with Natural Language and Sketching	cs.HC
+ExpressEdit: Video Editing with Natural Language and Sketching	cs.AI
+Manifold-Guided Lyapunov Control with Diffusion Models	cs.CV
+Manifold-Guided Lyapunov Control with Diffusion Models	cs.LG
+Manifold-Guided Lyapunov Control with Diffusion Models	math.DG
+Manifold-Guided Lyapunov Control with Diffusion Models	math.OC
+Manifold-Guided Lyapunov Control with Diffusion Models	stat.CO
+Not All Similarities Are Created Equal: Leveraging Data-Driven Biases to Inform GenAI Copyright Disputes	cs.CV
+Not All Similarities Are Created Equal: Leveraging Data-Driven Biases to Inform GenAI Copyright Disputes	cs.CL
+Hierarchical Light Transformer Ensembles for Multimodal Trajectory Forecasting	cs.CV
+Predicting Perceived Gloss: Do Weak Labels Suffice?	cs.GR
+Predicting Perceived Gloss: Do Weak Labels Suffice?	cs.CV
+DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation	cs.CV
+Exploring Dynamic Transformer for Efficient Object Tracking	cs.CV
+High-Resolution Image Translation Model Based on Grayscale Redefinition	eess.IV
+High-Resolution Image Translation Model Based on Grayscale Redefinition	cs.CV
+Learning with Unreliability: Fast Few-shot Voxel Radiance Fields with Relative Geometric Consistency	cs.CV
+UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps	cs.CV
+UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps	cs.AI
+UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps	cs.RO
+AniArtAvatar: Animatable 3D Art Avatar from a Single Image	cs.CV
+Grad-CAMO: Learning Interpretable Single-Cell Morphological Profiles from 3D Cell Painting Images	eess.IV
+Grad-CAMO: Learning Interpretable Single-Cell Morphological Profiles from 3D Cell Painting Images	cs.CV
+Grad-CAMO: Learning Interpretable Single-Cell Morphological Profiles from 3D Cell Painting Images	q-bio.QM
+MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors	cs.CV
+Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets	cs.CV
+Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets	cs.AI
+Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets	cs.LG
+Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models	cs.CV
+Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models	cs.AI
+Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models	cs.LG
+Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models	cs.MM
+A Survey on Deep Learning and State-of-the-arts Applications	cs.LG
+m3P: Towards Multimodal Multilingual Translation with Multimodal Prompt	cs.CL
+m3P: Towards Multimodal Multilingual Translation with Multimodal Prompt	cs.AI
+DeepMIF: Deep Monotonic Implicit Fields for Large-Scale LiDAR 3D Mapping	cs.CV
+DeepMIF: Deep Monotonic Implicit Fields for Large-Scale LiDAR 3D Mapping	cs.LG
+DeepMIF: Deep Monotonic Implicit Fields for Large-Scale LiDAR 3D Mapping	cs.RO
+Practical Applications of Advanced Cloud Services and Generative AI Systems in Medical Image Analysis	cs.AI
+Practical Applications of Advanced Cloud Services and Generative AI Systems in Medical Image Analysis	cs.CV
+A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions	cs.CL
+A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions	cs.CV
+WordRobe: Text-Guided Generation of Textured 3D Garments	cs.CV
+WordRobe: Text-Guided Generation of Textured 3D Garments	cs.GR
+NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation	cs.CV
+Boosting Few-Shot Learning with Disentangled Self-Supervised Learning and Meta-Learning for Medical Image Classification	cs.CV
+Boosting Few-Shot Learning with Disentangled Self-Supervised Learning and Meta-Learning for Medical Image Classification	cs.AI
+Equipping Sketch Patches with Context-Aware Positional Encoding for Graphic Sketch Representation	cs.CV
+Equipping Sketch Patches with Context-Aware Positional Encoding for Graphic Sketch Representation	cs.AI
+Boosting Adversarial Training via Fisher-Rao Norm-based Regularization	cs.LG
+Boosting Adversarial Training via Fisher-Rao Norm-based Regularization	cs.CV
+Random-coupled Neural Network	cs.CV
+DS-AL: A Dual-Stream Analytic Learning for Exemplar-Free Class-Incremental Learning	cs.LG
+DS-AL: A Dual-Stream Analytic Learning for Exemplar-Free Class-Incremental Learning	cs.CV
+SeNM-VAE: Semi-Supervised Noise Modeling with Hierarchical Variational Autoencoder	cs.CV
+Sharing the Cost of Success: A Game for Evaluating and Learning Collaborative Multi-Agent Instruction Giving and Following Policies	cs.CL
+Sharing the Cost of Success: A Game for Evaluating and Learning Collaborative Multi-Agent Instruction Giving and Following Policies	cs.CV
+Dr.Hair: Reconstructing Scalp-Connected Hair Strands without Pre-training via Differentiable Rendering of Line Segments	cs.CV
+Dr.Hair: Reconstructing Scalp-Connected Hair Strands without Pre-training via Differentiable Rendering of Line Segments	cs.GR
+DiffGaze: A Diffusion Model for Continuous Gaze Sequence Generation on 360° Images	cs.CV
+DiffGaze: A Diffusion Model for Continuous Gaze Sequence Generation on 360° Images	cs.HC
+LaRE^2: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection	cs.CV
+LaRE^2: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection	cs.AI
+Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model	eess.IV
+Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model	cs.CV
+Chain of Compression: A Systematic Approach to Combinationally Compress Convolutional Neural Networks	cs.LG
+Chain of Compression: A Systematic Approach to Combinationally Compress Convolutional Neural Networks	cs.CV
+Chain of Compression: A Systematic Approach to Combinationally Compress Convolutional Neural Networks	cs.NE
+Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion	eess.IV
+Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion	cs.CV
+Test-time Adaptation Meets Image Enhancement: Improving Accuracy via Uncertainty-aware Logit Switching	cs.CV
+Test-time Adaptation Meets Image Enhancement: Improving Accuracy via Uncertainty-aware Logit Switching	stat.ML
+InterHandGen: Two-Hand Interaction Generation via Cascaded Reverse Diffusion	cs.CV
+Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge	cs.MM
+Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge	cs.CV
+Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge	cs.SD
+Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge	eess.AS
+Neural Clustering based Visual Representation Learning	cs.CV
+SSF3D: Strict Semi-Supervised 3D Object Detection with Switching Filter	cs.CV
+Decoupled Pseudo-labeling for Semi-Supervised Monocular 3D Object Detection	cs.CV
+Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance	cs.CV
+Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance	cs.AI
+Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance	cs.LG
+AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving	cs.CV
+AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving	cs.AI
+AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving	cs.LG
+CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning	cs.CV
+Activity-Biometrics: Person Identification from Daily Activities	cs.CV
+TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos	cs.CV
+Language Models are Free Boosters for Biomedical Imaging Tasks	cs.CV
+Language Models are Free Boosters for Biomedical Imaging Tasks	cs.CL
+Language Models are Free Boosters for Biomedical Imaging Tasks	cs.LG
+The Solution for the ICCV 2023 1st Scientific Figure Captioning Challenge	cs.CV
+The Solution for the ICCV 2023 1st Scientific Figure Captioning Challenge	cs.AI
+OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation	cs.CV
+Labeling subtypes in a Parkinson's Cohort using Multifeatures in MRI -- Integrating Grey and White Matter Information	eess.IV
+Labeling subtypes in a Parkinson's Cohort using Multifeatures in MRI -- Integrating Grey and White Matter Information	cs.CV
+Labeling subtypes in a Parkinson's Cohort using Multifeatures in MRI -- Integrating Grey and White Matter Information	q-bio.NC
+Staircase Localization for Autonomous Exploration in Urban Environments	cs.CV
+Accuracy enhancement method for speech emotion recognition from spectrogram using temporal frequency correlation and positional information learning through knowledge transfer	cs.SD
+Accuracy enhancement method for speech emotion recognition from spectrogram using temporal frequency correlation and positional information learning through knowledge transfer	cs.CV
+Accuracy enhancement method for speech emotion recognition from spectrogram using temporal frequency correlation and positional information learning through knowledge transfer	eess.AS
+Visual Hallucination: Definition, Quantification, and Prescriptive Remediations	cs.AI
+Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving	cs.CV
+Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving	cs.CR
+Tracing and segmentation of molecular patterns in 3-dimensional cryo-et/em density maps through algorithmic image processing and deep learning-based techniques	eess.IV
+Tracing and segmentation of molecular patterns in 3-dimensional cryo-et/em density maps through algorithmic image processing and deep learning-based techniques	cs.CV
+Tracing and segmentation of molecular patterns in 3-dimensional cryo-et/em density maps through algorithmic image processing and deep learning-based techniques	physics.bio-ph
+Decoding the visual attention of pathologists to reveal their level of expertise	eess.IV
+Decoding the visual attention of pathologists to reveal their level of expertise	cs.CV
+Temporal and Semantic Evaluation Metrics for Foundation Models in Post-Hoc Analysis of Robotic Sub-tasks	cs.RO
+Temporal and Semantic Evaluation Metrics for Foundation Models in Post-Hoc Analysis of Robotic Sub-tasks	cs.LG
+DreamPolisher: Towards High-Quality Text-to-3D Generation via Geometric Diffusion	cs.CV
+DreamPolisher: Towards High-Quality Text-to-3D Generation via Geometric Diffusion	cs.AI
+DreamPolisher: Towards High-Quality Text-to-3D Generation via Geometric Diffusion	cs.GR
+Co-Occurring of Object Detection and Identification towards unlabeled object discovery	cs.CV
+Co-Occurring of Object Detection and Identification towards unlabeled object discovery	cs.AI
+Co-Occurring of Object Detection and Identification towards unlabeled object discovery	cs.LG
+DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment	cs.CV
+DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment	cs.AI
+AnimateMe: 4D Facial Expressions via Diffusion Models	cs.CV
+Strategies to Improve Real-World Applicability of Laparoscopic Anatomy Segmentation Models	cs.CV
+LOTUS: Evasive and Resilient Backdoor Attacks through Sub-Partitioning	cs.CV
+LOTUS: Evasive and Resilient Backdoor Attacks through Sub-Partitioning	cs.CR
+Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study	eess.IV
+Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study	cs.CV
+Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study	cs.LG
+Histogram Layers for Neural Engineered Features	cs.CV
+Engagement Measurement Based on Facial Landmarks and Spatial-Temporal Graph Convolutional Networks	cs.CV
+Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships	cs.CV
+On the Impact of Black-box Deployment Strategies for Edge AI on Latency and Model Performance	cs.SE
+Benchmarking Video Frame Interpolation	cs.CV
+Vision-Based Dexterous Motion Planning by Dynamic Movement Primitives with Human Hand Demonstration	cs.RO
+Animal Avatars: Reconstructing Animatable 3D Animals from Casual Videos	cs.CV
+SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving	cs.CV
+SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving	cs.LG
+A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments	cs.RO
+A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments	cs.CV
+A Study in Dataset Pruning for Image Super-Resolution	eess.IV
+A Study in Dataset Pruning for Image Super-Resolution	cs.AI
+A Study in Dataset Pruning for Image Super-Resolution	cs.CV
+A Study in Dataset Pruning for Image Super-Resolution	cs.GR
+A Study in Dataset Pruning for Image Super-Resolution	cs.LG
+Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions	cs.CV
+Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions	cs.AI
+Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions	cs.LG
+Calib3D: Calibrating Model Preferences for Reliable 3D Scene Understanding	cs.CV
+Calib3D: Calibrating Model Preferences for Reliable 3D Scene Understanding	cs.LG
+Calib3D: Calibrating Model Preferences for Reliable 3D Scene Understanding	cs.RO
+Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions	cs.CV
+Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions	cs.RO
+FlashFace: Human Image Personalization with High-fidelity Identity Preservation	cs.CV
+DreamLIP: Language-Image Pre-training with Long Captions	cs.CV
+Invertible Diffusion Models for Compressed Sensing	cs.CV
+TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models	cs.CV
+TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models	cs.MM
+SD-DiT: Unleashing the Power of Self-supervised Discrimination in Diffusion Transformer	cs.CV
+SD-DiT: Unleashing the Power of Self-supervised Discrimination in Diffusion Transformer	cs.MM
+VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation	cs.CV
+VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation	cs.MM
+Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution	cs.CV
+Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution	cs.MM
+Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models	cs.CV
+Understanding Long Videos in One Multimodal Language Model Pass	cs.CV
+Composed Video Retrieval via Enriched Context and Discriminative Embeddings	cs.CV
+DriveCoT: Integrating Chain-of-Thought Reasoning with End-to-End Driving	cs.CV
+DriveCoT: Integrating Chain-of-Thought Reasoning with End-to-End Driving	cs.RO
+Mapping Image Transformations Onto Pixel Processor Arrays	cs.CV
+Comp4D: LLM-Guided Compositional 4D Scene Generation	cs.CV
+Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation	cs.CV
+Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation	cs.AI
+Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation	cs.GR
+Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation	cs.LG
+Self-STORM: Deep Unrolled Self-Supervised Learning for Super-Resolution Microscopy	eess.IV
+Self-STORM: Deep Unrolled Self-Supervised Learning for Super-Resolution Microscopy	cs.CV
+Self-STORM: Deep Unrolled Self-Supervised Learning for Super-Resolution Microscopy	cs.LG
+Joint chest X-ray diagnosis and clinical visual attention prediction with multi-stage cooperative learning: enhancing interpretability	eess.IV
+Joint chest X-ray diagnosis and clinical visual attention prediction with multi-stage cooperative learning: enhancing interpretability	cs.CV
+Joint chest X-ray diagnosis and clinical visual attention prediction with multi-stage cooperative learning: enhancing interpretability	cs.LG
+Visual Whole-Body Control for Legged Loco-Manipulation	cs.RO
+Visual Whole-Body Control for Legged Loco-Manipulation	cs.CV
+Visual Whole-Body Control for Legged Loco-Manipulation	cs.LG
+GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction	cs.CV
+TwinLiteNetPlus: A Stronger Model for Real-time Drivable Area and Lane Segmentation	cs.CV
+Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance	cs.CV
+Hyperspherical Classification with Dynamic Label-to-Prototype Assignment	cs.CV
+PropTest: Automatic Property Testing for Improved Visual Programming	cs.CV
+Hyperpixels: Pixel Filter Arrays of Multivariate Optical Elements for Optimized Spectral Imaging	physics.optics
+Hyperpixels: Pixel Filter Arrays of Multivariate Optical Elements for Optimized Spectral Imaging	eess.IV
+Make-It-Vivid: Dressing Your Animatable Biped Cartoon Characters from Text	cs.CV
+Provably Robust Score-Based Diffusion Posterior Sampling for Plug-and-Play Image Reconstruction	eess.IV
+Provably Robust Score-Based Diffusion Posterior Sampling for Plug-and-Play Image Reconstruction	cs.CV
+Provably Robust Score-Based Diffusion Posterior Sampling for Plug-and-Play Image Reconstruction	cs.LG
+Provably Robust Score-Based Diffusion Posterior Sampling for Plug-and-Play Image Reconstruction	eess.SP
+Provably Robust Score-Based Diffusion Posterior Sampling for Plug-and-Play Image Reconstruction	math.OC
+Provably Robust Score-Based Diffusion Posterior Sampling for Plug-and-Play Image Reconstruction	stat.ML
+Towards Balanced RGB-TSDF Fusion for Consistent Semantic Scene Completion by 3D RGB Feature Completion and a Classwise Entropy Loss Function	cs.CV
+CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs	cs.CV
+INPC: Implicit Neural Point Clouds for Radiance Field Rendering	cs.CV
+INPC: Implicit Neural Point Clouds for Radiance Field Rendering	cs.GR
+INPC: Implicit Neural Point Clouds for Radiance Field Rendering	cs.LG
+XAIport: A Service Framework for the Early Adoption of XAI in AI Model Development	cs.AI
+Multiple Object Tracking as ID Prediction	cs.CV
+From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation	cs.CV
+UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Foundation Model for Urban Indicator Prediction	cs.CV
+UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Foundation Model for Urban Indicator Prediction	cs.AI
+Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning	cs.RO
+Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning	cs.CV
+CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation	cs.CV
+CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation	cs.RO
+HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation	cs.CV
+The Anatomy of Adversarial Attacks: Concept-based XAI Dissection	cs.LG
+The Anatomy of Adversarial Attacks: Concept-based XAI Dissection	cs.AI
+The Anatomy of Adversarial Attacks: Concept-based XAI Dissection	cs.CV
+Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases	eess.IV
+Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases	cs.CV
+Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases	cs.LG
+Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation	cs.RO
+Creating a Digital Twin of Spinal Surgery: A Proof of Concept	cs.CV
+One-Shot Domain Incremental Learning	cs.LG
+One-Shot Domain Incremental Learning	cs.AI
+One-Shot Domain Incremental Learning	cs.CV
+DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization	cs.CV
+Assessing the Performance of Deep Learning for Automated Gleason Grading in Prostate Cancer	eess.IV
+Assessing the Performance of Deep Learning for Automated Gleason Grading in Prostate Cancer	cs.CV
+Assessing the Performance of Deep Learning for Automated Gleason Grading in Prostate Cancer	cs.LG
+Assessing the Performance of Deep Learning for Automated Gleason Grading in Prostate Cancer	q-bio.TO
+Synapse: Learning Preferential Concepts from Visual Demonstrations	cs.RO
+Synapse: Learning Preferential Concepts from Visual Demonstrations	cs.CV
+Synapse: Learning Preferential Concepts from Visual Demonstrations	cs.LG
+Synapse: Learning Preferential Concepts from Visual Demonstrations	cs.PL
+DeepGleason: a System for Automated Gleason Grading of Prostate Cancer using Deep Neural Networks	eess.IV
+DeepGleason: a System for Automated Gleason Grading of Prostate Cancer using Deep Neural Networks	cs.CV
+DeepGleason: a System for Automated Gleason Grading of Prostate Cancer using Deep Neural Networks	cs.LG
+DeepGleason: a System for Automated Gleason Grading of Prostate Cancer using Deep Neural Networks	q-bio.TO
+FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression	cs.LG
+FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression	cs.CV
+FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression	cs.DC
+FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression	cs.NI
+FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression	eess.IV
+Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network	cs.RO
+Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network	cs.CV
+Clustering Propagation for Universal Medical Image Segmentation	cs.CV
+Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution	eess.IV
+Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution	cs.CV
+Multi-Scale Texture Loss for CT denoising with GANs	eess.IV
+Multi-Scale Texture Loss for CT denoising with GANs	cs.CV
+Multi-Scale Texture Loss for CT denoising with GANs	cs.LG
+AI-Generated Video Detection via Spatio-Temporal Anomaly Learning	cs.CV
+AI-Generated Video Detection via Spatio-Temporal Anomaly Learning	cs.CR
+V2X-PC: Vehicle-to-everything Collaborative Perception via Point Cluster	cs.CV
+SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions	cs.CV
+Calibrating Bayesian UNet++ for Sub-Seasonal Forecasting	cs.LG
+Calibrating Bayesian UNet++ for Sub-Seasonal Forecasting	cs.CV
+Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus	cs.LG
+Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus	cs.CV
+SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation	cs.CV
+Research Challenges for Adaptive Architecture: Empowering Occupants of Multi-Occupancy Buildings	cs.RO
+Research Challenges for Adaptive Architecture: Empowering Occupants of Multi-Occupancy Buildings	cs.HC
+The Adaptive Workplace: Orchestrating Architectural Services around the Wellbeing of Individual Occupants	cs.HC
+The Adaptive Workplace: Orchestrating Architectural Services around the Wellbeing of Individual Occupants	cs.RO
+The Adaptive Workplace: Orchestrating Architectural Services around the Wellbeing of Individual Occupants	cs.SY
+The Adaptive Workplace: Orchestrating Architectural Services around the Wellbeing of Individual Occupants	eess.SY
+EDUE: Expert Disagreement-Guided One-Pass Uncertainty Estimation for Medical Image Segmentation	eess.IV
+EDUE: Expert Disagreement-Guided One-Pass Uncertainty Estimation for Medical Image Segmentation	cs.CV
+EDUE: Expert Disagreement-Guided One-Pass Uncertainty Estimation for Medical Image Segmentation	cs.LG
+In the Search for Optimal Multi-view Learning Models for Crop Classification with Global Remote Sensing Data	cs.LG
+In the Search for Optimal Multi-view Learning Models for Crop Classification with Global Remote Sensing Data	cs.AI
+In the Search for Optimal Multi-view Learning Models for Crop Classification with Global Remote Sensing Data	cs.CV
+SegICL: A Universal In-context Learning Framework for Enhanced Segmentation in Medical Imaging	cs.CV
+SegICL: A Universal In-context Learning Framework for Enhanced Segmentation in Medical Imaging	cs.AI
+Revealing Vulnerabilities of Neural Networks in Parameter Learning and Defense Against Explanation-Aware Backdoors	cs.LG
+Revealing Vulnerabilities of Neural Networks in Parameter Learning and Defense Against Explanation-Aware Backdoors	cs.CR
+Revealing Vulnerabilities of Neural Networks in Parameter Learning and Defense Against Explanation-Aware Backdoors	cs.CV
+Elysium: Exploring Object-level Perception in Videos via MLLM	cs.CV
+QKFormer: Hierarchical Spiking Transformer using Q-K Attention	cs.NE
+QKFormer: Hierarchical Spiking Transformer using Q-K Attention	cs.AI
+QKFormer: Hierarchical Spiking Transformer using Q-K Attention	cs.CV
+DOrA: 3D Visual Grounding with Order-Aware Referring	cs.CV
+VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting	cs.CV
+An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models	cs.CV
+An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models	cs.AI
+Open-Set Recognition in the Age of Vision-Language Models	cs.CV
+ModeTv2: GPU-accelerated Motion Decomposition Transformer for Pairwise Optimization in Medical Image Registration	cs.CV
+Harnessing the power of LLMs for normative reasoning in MASs	cs.AI
+CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification	cs.CV
+Visually Guided Generative Text-Layout Pre-training for Document Intelligence	cs.CL
+Visually Guided Generative Text-Layout Pre-training for Document Intelligence	cs.CV
+Let Real Images be as a Judger, Spotting Fake Images Synthesized with Generative Models	cs.CV
+Let Real Images be as a Judger, Spotting Fake Images Synthesized with Generative Models	cs.CR
+Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework	cs.CV
+Medical Image Registration and Its Application in Retinal Images: A Review	cs.CV
+Learning To Guide Human Decision Makers With Vision-Language Models	cs.AI
+Self-Supervised Learning for Medical Image Data with Anatomy-Oriented Imaging Planes	cs.CV
+PathoTune: Adapting Visual Foundation Model to Pathological Specialists	cs.CV
+PathoTune: Adapting Visual Foundation Model to Pathological Specialists	cs.LG
+CT-Bound: Fast Boundary Estimation From Noisy Images Via Hybrid Convolution and Transformer Neural Networks	cs.CV
+REFRAME: Reflective Surface Real-Time Rendering for Mobile Devices	cs.CV
+A Method for Target Detection Based on Mmw Radar and Vision Fusion	eess.IV
+Learning from Reduced Labels for Long-Tailed Data	cs.LG
+Learning from Reduced Labels for Long-Tailed Data	cs.CV
+Camera-aware Label Refinement for Unsupervised Person Re-identification	cs.CV
+If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions	cs.CL
+If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions	cs.CV
+If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions	cs.LG
+RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection	cs.CV
+Producing and Leveraging Online Map Uncertainty in Trajectory Prediction	cs.RO
+Producing and Leveraging Online Map Uncertainty in Trajectory Prediction	cs.CV
+Producing and Leveraging Online Map Uncertainty in Trajectory Prediction	cs.LG
+Real-time Neuron Segmentation for Voltage Imaging	eess.IV
+Real-time Neuron Segmentation for Voltage Imaging	cs.CV
+DOCTR: Disentangled Object-Centric Transformer for Point Scene Understanding	cs.CV
+DOCTR: Disentangled Object-Centric Transformer for Point Scene Understanding	cs.AI
+Resolution Limit of Single-Photon LiDAR	eess.SP
+Resolution Limit of Single-Photon LiDAR	cs.CV
+Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects	cs.CV
+Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras	cs.RO
+Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras	cs.CV
+Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation	cs.CV
+Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation	cs.AI
+Unsupervised Template-assisted Point Cloud Shape Correspondence Network	cs.CV
+Spike-NeRF: Neural Radiance Field Based On Spike Camera	cs.CV
+A Survey on Long Video Generation: Challenges, Methods, and Prospects	cs.CV
+Ensemble Adversarial Defense via Integration of Multiple Dispersed Low Curvature Models	cs.LG
+Ensemble Adversarial Defense via Integration of Multiple Dispersed Low Curvature Models	cs.CR
+Ensemble Adversarial Defense via Integration of Multiple Dispersed Low Curvature Models	cs.CV
+ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation	cs.CV
+ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation	cs.RO
+Multi-attention Associate Prediction Network for Visual Tracking	cs.CV
+Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion	cs.CV
+Dia-LLaMA: Towards Large Language Model-driven CT Report Generation	cs.CV
+Dia-LLaMA: Towards Large Language Model-driven CT Report Generation	cs.AI
+Synthesize Step-by-Step: Tools, Templates and LLMs as Data Generators for Reasoning-Based Chart VQA	cs.CV
+Synthesize Step-by-Step: Tools, Templates and LLMs as Data Generators for Reasoning-Based Chart VQA	cs.CL
+Residual Dense Swin Transformer for Continuous Depth-Independent Ultrasound Imaging	eess.IV
+Residual Dense Swin Transformer for Continuous Depth-Independent Ultrasound Imaging	cs.CV
+An image-computable model of speeded decision-making	q-bio.NC
+FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models	cs.CV
+Elite360D: Towards Efficient 360 Depth Estimation via Semantic- and Distance-Aware Bi-Projection Fusion	cs.CV
+ProIn: Learning to Predict Trajectory Based on Progressive Interactions for Autonomous Driving	cs.LG
+ProIn: Learning to Predict Trajectory Based on Progressive Interactions for Autonomous Driving	cs.CV
+ProIn: Learning to Predict Trajectory Based on Progressive Interactions for Autonomous Driving	cs.RO
+GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation	cs.CV
+Distilling Semantic Priors from SAM to Efficient Image Restoration Models	cs.CV
+Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion	cs.LG
+Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion	cs.CR
+Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion	cs.CV
+RSTAR: Rotational Streak Artifact Reduction in 4D CBCT using Separable and Circular Convolutions	eess.IV
+RSTAR: Rotational Streak Artifact Reduction in 4D CBCT using Separable and Circular Convolutions	cs.CV
+ChebMixer: Efficient Graph Representation Learning with MLP Mixer	cs.CV
+3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation	eess.IV
+3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation	cs.CV
+Impact of Video Compression Artifacts on Fisheye Camera Visual Perception Tasks	cs.CV
+Impact of Video Compression Artifacts on Fisheye Camera Visual Perception Tasks	cs.AI
+MEDDAP: Medical Dataset Enhancement via Diversified Augmentation Pipeline	eess.IV
+MEDDAP: Medical Dataset Enhancement via Diversified Augmentation Pipeline	cs.CV
+MEDDAP: Medical Dataset Enhancement via Diversified Augmentation Pipeline	cs.LG
+AutoInst: Automatic Instance-Based Segmentation of LiDAR 3D Scans	cs.CV
+latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction	cs.CV
+HemoSet: The First Blood Segmentation Dataset for Automation of Hemostasis Management	eess.IV
+HemoSet: The First Blood Segmentation Dataset for Automation of Hemostasis Management	cs.CV
+AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary Alignment for Temporal Referential Dialogue	cs.CV
+AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary Alignment for Temporal Referential Dialogue	cs.AI
+L-MAE: Longitudinal masked auto-encoder with time and severity-aware encoding for diabetic retinopathy progression prediction	cs.CV
+L-MAE: Longitudinal masked auto-encoder with time and severity-aware encoding for diabetic retinopathy progression prediction	cs.AI
+Object Detectors in the Open Environment: Challenges, Solutions, and Outlook	cs.CV
+Constricting Normal Latent Space for Anomaly Detection with Normal-only Training Data	cs.CV
+Emotion Recognition from the perspective of Activity Recognition	cs.CV
+Out-of-Distribution Detection via Deep Multi-Comprehension Ensemble	cs.LG
+Out-of-Distribution Detection via Deep Multi-Comprehension Ensemble	cs.AI
+Out-of-Distribution Detection via Deep Multi-Comprehension Ensemble	cs.CV
+Out-of-Distribution Detection via Deep Multi-Comprehension Ensemble	stat.ML
+Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis	eess.IV
+Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis	cs.CV
+Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis	cs.IT
+Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis	cs.LG
+Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis	math.IT
+Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning	cs.CV
+Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective	cs.LG
+Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective	cs.CV
+On the Equivalency, Substitutability, and Flexibility of Synthetic Data	cs.LG
+On the Equivalency, Substitutability, and Flexibility of Synthetic Data	cs.CV
+Adversarially Masked Video Consistency for Unsupervised Domain Adaptation	cs.CV
+Low Rank Groupwise Deformations for Motion Tracking in Cardiac Cine MRI	cs.CV
+Low Rank Groupwise Deformations for Motion Tracking in Cardiac Cine MRI	math.DS
+Low Rank Groupwise Deformations for Motion Tracking in Cardiac Cine MRI	math.OC
+Dual-modal Prior Semantic Guided Infrared and Visible Image Fusion for Intelligent Transportation System	cs.CV
+Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields	cs.CV
+Exemplar-Free Class Incremental Learning via Incremental Representation	cs.CV
+Leveraging Deep Learning and Xception Architecture for High-Accuracy MRI Classification in Alzheimer Diagnosis	eess.IV
+Leveraging Deep Learning and Xception Architecture for High-Accuracy MRI Classification in Alzheimer Diagnosis	cs.CV
+Leveraging Deep Learning and Xception Architecture for High-Accuracy MRI Classification in Alzheimer Diagnosis	cs.LG
+Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane	cs.CV
+Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane	cs.AI
+Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane	cs.GR
+Image Captioning in news report scenario	cs.CV
+Image Captioning in news report scenario	cs.AI
+Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing	cs.CV
+Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing	cs.CY
+Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains	cs.CV
+FH-SSTNet: Forehead Creases based User Verification using Spatio-Spatial Temporal Network	cs.CV
+From Discrete to Continuous: Deep Fair Clustering With Transferable Representations	cs.LG
+From Discrete to Continuous: Deep Fair Clustering With Transferable Representations	cs.CV
+From Discrete to Continuous: Deep Fair Clustering With Transferable Representations	cs.CY
+Diffusion Model is a Good Pose Estimator from 3D RF-Vision	cs.CV
+Pose-Guided Self-Training with Two-Stage Clustering for Unsupervised Landmark Discovery	cs.CV
+Cross-domain Multi-modal Few-shot Object Detection via Rich Text	cs.CV
+Improving Scene Graph Generation with Relation Words' Debiasing in Vision-Language Models	cs.CV
+EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World	cs.CV
+Enhancing MRI-Based Classification of Alzheimer's Disease with Explainable 3D Hybrid Compact Convolutional Transformers	eess.IV
+Enhancing MRI-Based Classification of Alzheimer's Disease with Explainable 3D Hybrid Compact Convolutional Transformers	cs.CV
+Fusion of Minutia Cylinder Codes and Minutia Patch Embeddings for Latent Fingerprint Recognition	cs.CV
+Gaze-guided Hand-Object Interaction Synthesis: Benchmark and Method	cs.CV
+Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models	cs.CV
+Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models	cs.CL
+Towards Online Real-Time Memory-based Video Inpainting Transformers	cs.CV
+Realtime Robust Shape Estimation of Deformable Linear Object	cs.RO
+Realtime Robust Shape Estimation of Deformable Linear Object	cs.CV
+CFAT: Unleashing TriangularWindows for Image Super-resolution	eess.IV
+CFAT: Unleashing TriangularWindows for Image Super-resolution	cs.CV
+CFAT: Unleashing TriangularWindows for Image Super-resolution	cs.LG
+CFAT: Unleashing TriangularWindows for Image Super-resolution	cs.MM
+Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes	cs.CV
+Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement	cs.CV
+Enhancing Video Transformers for Action Understanding with VLM-aided Training	cs.CV
+Enhancing Visual Continual Learning with Language-Guided Supervision	cs.CV
+Self-Supervised Multi-Frame Neural Scene Flow	cs.CV
+Self-Supervised Multi-Frame Neural Scene Flow	cs.AI
+Self-Supervised Multi-Frame Neural Scene Flow	cs.LG
+Opportunities and challenges in the application of large artificial intelligence models in radiology	cs.CV
+Opportunities and challenges in the application of large artificial intelligence models in radiology	cs.AI
+Opportunities and challenges in the application of large artificial intelligence models in radiology	cs.LG
+EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing	cs.CV
+CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field	cs.CV
+CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field	cs.RO
+Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap	cs.CV
+Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap	cs.RO
+PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling	cs.CV
+Landmark-Guided Cross-Speaker Lip Reading with Mutual Information Regularization	cs.AI
+Landmark-Guided Cross-Speaker Lip Reading with Mutual Information Regularization	cs.CV
+Landmark-Guided Cross-Speaker Lip Reading with Mutual Information Regularization	cs.MM
+Robust Diffusion Models for Adversarial Purification	cs.CV
+Robust Diffusion Models for Adversarial Purification	cs.AI
+Segment Anything Model for Road Network Graph Extraction	cs.CV
+A General and Efficient Federated Split Learning with Pre-trained Image Transformers for Heterogeneous Data	cs.CV
+Edit3K: Universal Representation Learning for Video Editing Components	cs.CV
+Semantic Is Enough: Only Semantic Information For NeRF Reconstruction	cs.CV
+Semantic Is Enough: Only Semantic Information For NeRF Reconstruction	cs.AI
+V2X-Real: a Largs-Scale Dataset for Vehicle-to-Everything Cooperative Perception	cs.CV
+Exploring the Impact of Dataset Bias on Dataset Distillation	cs.CV
+Exploring the Impact of Dataset Bias on Dataset Distillation	cs.LG
+A Unified Module for Accelerating STABLE-DIFFUSION: LCM-LORA	cs.LG
+A Unified Module for Accelerating STABLE-DIFFUSION: LCM-LORA	cs.CV
+A Unified Module for Accelerating STABLE-DIFFUSION: LCM-LORA	cs.GR
+RPMArt: Towards Robust Perception and Manipulation for Articulated Objects	cs.RO
+RPMArt: Towards Robust Perception and Manipulation for Articulated Objects	cs.AI
+RPMArt: Towards Robust Perception and Manipulation for Articulated Objects	cs.CV
+PaPr: Training-Free One-Step Patch Pruning with Lightweight ConvNets for Faster Inference	cs.CV
+Fill in the ____ (a Diffusion-based Image Inpainting Pipeline)	cs.CV
+Fill in the ____ (a Diffusion-based Image Inpainting Pipeline)	cs.AI
+SM2C: Boost the Semi-supervised Segmentation for Medical Image by using Meta Pseudo Labels and Mixed Images	cs.CV
+Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval	cs.CV
+Diverse Representation Embedding for Lifelong Person Re-Identification	cs.CV
+Diverse Representation Embedding for Lifelong Person Re-Identification	cs.AI
+SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking	cs.CV
+Multi-Scale Spatio-Temporal Graph Convolutional Network for Facial Expression Spotting	cs.CV
+Multi-Scale Spatio-Temporal Graph Convolutional Network for Facial Expression Spotting	cs.AI
+BIMCV-R: A Landmark Dataset for 3D CT Text-Image Retrieval	cs.CV
+BIMCV-R: A Landmark Dataset for 3D CT Text-Image Retrieval	cs.CL
+Mars Spectrometry 2: Gas Chromatography -- Second place solution	cs.CV
+Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields	cs.CV
+Towards Two-Stream Foveation-based Active Vision Learning	cs.CV
+Towards Two-Stream Foveation-based Active Vision Learning	cs.AI
+CBGT-Net: A Neuromimetic Architecture for Robust Classification of Streaming Data	cs.NE
+CBGT-Net: A Neuromimetic Architecture for Robust Classification of Streaming Data	cs.AI
+CBGT-Net: A Neuromimetic Architecture for Robust Classification of Streaming Data	cs.CV
+CBGT-Net: A Neuromimetic Architecture for Robust Classification of Streaming Data	cs.LG
+Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection	cs.CV
+Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection	cs.AI
+IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models	cs.CV
+IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models	cs.CL
+MapTracker: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping	cs.CV
+Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking Systems	cs.CV
+Adaptive Super Resolution For One-Shot Talking-Head Generation	cs.CV
+Adaptive Super Resolution For One-Shot Talking-Head Generation	cs.AI
+Adaptive Super Resolution For One-Shot Talking-Head Generation	eess.IV
+Feature Manipulation for DDPM based Change Detection	cs.CV
+Explore until Confident: Efficient Exploration for Embodied Question Answering	cs.RO
+Explore until Confident: Efficient Exploration for Embodied Question Answering	cs.AI
+Explore until Confident: Efficient Exploration for Embodied Question Answering	cs.CV
+Explore until Confident: Efficient Exploration for Embodied Question Answering	cs.LG
+X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention	cs.CV
+X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention	cs.AI
+An Embarrassingly Simple Defense Against Backdoor Attacks On SSL	cs.CV
+Towards Low-Energy Adaptive Personalization for Resource-Constrained Devices	cs.LG
+Towards Low-Energy Adaptive Personalization for Resource-Constrained Devices	cs.CV
+MatchSeg: Towards Better Segmentation via Reference Image Matching	cs.AI
+MatchSeg: Towards Better Segmentation via Reference Image Matching	cs.CV
+Human Motion Prediction under Unexpected Perturbation	cs.CV
+Diffusion-based Aesthetic QR Code Generation via Scanning-Robust Perceptual Guidance	cs.CV
+Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content	cs.CV
+Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content	cs.AI
+Boosting Few-Shot Learning via Attentive Feature Regularization	cs.CV
+An edge detection-based deep learning approach for tear meniscus height measurement	eess.IV
+An edge detection-based deep learning approach for tear meniscus height measurement	cs.CV
+Inpainting-Driven Mask Optimization for Object Removal	cs.CV
+Centered Masking for Language-Image Pre-Training	cs.CV
+Centered Masking for Language-Image Pre-Training	cs.CL
+Centered Masking for Language-Image Pre-Training	cs.LG
+VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Human Annotation-Free Pathological Image Classification	cs.CV
+Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression	cs.CV
+Time-series Initialization and Conditioning for Video-agnostic Stabilization of Video Super-Resolution using Recurrent Networks	cs.CV
+Spatio-Temporal Bi-directional Cross-frame Memory for Distractor Filtering Point Cloud Single Object Tracking	cs.CV
+Carbon Intensity-Aware Adaptive Inference of DNNs	cs.LG
+Carbon Intensity-Aware Adaptive Inference of DNNs	cs.AI
+Innovative Quantitative Analysis for Disease Progression Assessment in Familial Cerebral Cavernous Malformations	eess.IV
+Innovative Quantitative Analysis for Disease Progression Assessment in Familial Cerebral Cavernous Malformations	cs.CV
+In-Context Matting	cs.CV
+Depth Estimation fusing Image and Radar Measurements with Uncertain Directions	cs.CV
+Adversarial Defense Teacher for Cross-Domain Object Detection under Poor Visibility Conditions	cs.CV
+Graph Image Prior for Unsupervised Dynamic MRI Reconstruction	eess.IV
+Graph Image Prior for Unsupervised Dynamic MRI Reconstruction	cs.CV
+FusionINN: Invertible Image Fusion for Brain Tumor Monitoring	eess.IV
+FusionINN: Invertible Image Fusion for Brain Tumor Monitoring	cs.AI
+FusionINN: Invertible Image Fusion for Brain Tumor Monitoring	cs.CV
+FusionINN: Invertible Image Fusion for Brain Tumor Monitoring	cs.LG
+BEND: Bagging Deep Learning Training Based on Efficient Neural Network Diffusion	cs.LG
+BEND: Bagging Deep Learning Training Based on Efficient Neural Network Diffusion	cs.AI
+Towards Human-Like Machine Comprehension: Few-Shot Relational Learning in Visually-Rich Documents	cs.CV
+Towards Human-Like Machine Comprehension: Few-Shot Relational Learning in Visually-Rich Documents	cs.AI
+Towards Human-Like Machine Comprehension: Few-Shot Relational Learning in Visually-Rich Documents	cs.IR
+AOCIL: Exemplar-free Analytic Online Class Incremental Learning with Low Time and Resource Consumption	cs.CV
+iDAT: inverse Distillation Adapter-Tuning	cs.CV
+3D-TransUNet for Brain Metastases Segmentation in the BraTS2023 Challenge	eess.IV
+3D-TransUNet for Brain Metastases Segmentation in the BraTS2023 Challenge	cs.CV
+Ev-Edge: Efficient Execution of Event-based Vision Algorithms on Commodity Edge Platforms	cs.LG
+Ev-Edge: Efficient Execution of Event-based Vision Algorithms on Commodity Edge Platforms	cs.CV
+Ev-Edge: Efficient Execution of Event-based Vision Algorithms on Commodity Edge Platforms	cs.DC
+Ev-Edge: Efficient Execution of Event-based Vision Algorithms on Commodity Edge Platforms	cs.RO
+PNAS-MOT: Multi-Modal Object Tracking with Pareto Neural Architecture Search	cs.CV
+PNAS-MOT: Multi-Modal Object Tracking with Pareto Neural Architecture Search	cs.RO
+Contact-aware Human Motion Generation from Textual Descriptions	cs.CV
+Contact-aware Human Motion Generation from Textual Descriptions	cs.AI
+Role of Locality and Weight Sharing in Image-Based Tasks: A Sample Complexity Separation between CNNs, LCNs, and FCNs	cs.LG
+Role of Locality and Weight Sharing in Image-Based Tasks: A Sample Complexity Separation between CNNs, LCNs, and FCNs	cs.AI
+Role of Locality and Weight Sharing in Image-Based Tasks: A Sample Complexity Separation between CNNs, LCNs, and FCNs	cs.CV
+Role of Locality and Weight Sharing in Image-Based Tasks: A Sample Complexity Separation between CNNs, LCNs, and FCNs	stat.ML
+G-ACIL: Analytic Learning for Exemplar-Free Generalized Class Incremental Learning	cs.LG
+G-ACIL: Analytic Learning for Exemplar-Free Generalized Class Incremental Learning	cs.CV
+UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation	cs.CV
+Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections	cs.CV
+SceneX:Procedural Controllable Large-scale Scene Generation via Large-language Models	cs.CV
+SceneX:Procedural Controllable Large-scale Scene Generation via Large-language Models	cs.AI
+Technical Report: Masked Skeleton Sequence Modeling for Learning Larval Zebrafish Behavior Latent Embeddings	cs.CV
+Temporal-Spatial Object Relations Modeling for Vision-and-Language Navigation	cs.CV
+The Limits of Perception: Analyzing Inconsistencies in Saliency Maps in XAI	cs.CV
+DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes	cs.CV
+DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes	cs.MM
+An active learning model to classify animal species in Hong Kong	cs.CV
+What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation	cs.CV
+GaNI: Global and Near Field Illumination Aware Neural Inverse Rendering	cs.CV
+RetiGen: A Framework for Generalized Retinal Diagnosis Using Multi-View Fundus Images	cs.CV
+CoNVOI: Context-aware Navigation using Vision Language Models in Outdoor and Indoor Environments	cs.RO
+Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting	cs.CV
+InterFusion: Text-Driven Generation of 3D Human-Object Interaction	cs.CV
+Towards Automatic Abdominal MRI Organ Segmentation: Leveraging Synthesized Data Generated From CT Labels	eess.IV
+Towards Automatic Abdominal MRI Organ Segmentation: Leveraging Synthesized Data Generated From CT Labels	cs.CV
+Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization	cs.CV
+Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization	cs.LG
+Investigating Use Cases of AI-Powered Scene Description Applications for Blind and Low Vision People	cs.HC
+Investigating Use Cases of AI-Powered Scene Description Applications for Blind and Low Vision People	cs.AI
+Forward Learning for Gradient-based Black-box Saliency Map Generation	cs.CV
+Forward Learning for Gradient-based Black-box Saliency Map Generation	cs.AI
+FairerCLIP: Debiasing CLIP's Zero-Shot Predictions using Functions in RKHSs	cs.CV
+FairerCLIP: Debiasing CLIP's Zero-Shot Predictions using Functions in RKHSs	cs.LG
+MedPromptX: Grounded Multimodal Prompting for Chest X-ray Diagnosis	cs.CV
+MedPromptX: Grounded Multimodal Prompting for Chest X-ray Diagnosis	cs.AI
+U-ARE-ME: Uncertainty-Aware Rotation Estimation in Manhattan Environments	cs.CV
+Data-centric Prediction Explanation via Kernelized Stein Discrepancy	cs.LG
+Data-centric Prediction Explanation via Kernelized Stein Discrepancy	cs.CV
+Augmented Reality Warnings in Roadway Work Zones: Evaluating the Effect of Modality on Worker Reaction Times	cs.HC
+Augmented Reality Warnings in Roadway Work Zones: Evaluating the Effect of Modality on Worker Reaction Times	cs.CV
+Augmented Reality Warnings in Roadway Work Zones: Evaluating the Effect of Modality on Worker Reaction Times	eess.IV
+Do not trust what you trust: Miscalibration in Semi-supervised Learning	cs.LG
+Do not trust what you trust: Miscalibration in Semi-supervised Learning	cs.CV
+A2DMN: Anatomy-Aware Dilated Multiscale Network for Breast Ultrasound Semantic Segmentation	eess.IV
+A2DMN: Anatomy-Aware Dilated Multiscale Network for Breast Ultrasound Semantic Segmentation	cs.CV
+A2DMN: Anatomy-Aware Dilated Multiscale Network for Breast Ultrasound Semantic Segmentation	cs.LG
+An Optimization Framework to Enforce Multi-View Consistency for Texturing 3D Meshes Using Pre-Trained Text-to-Image Models	cs.CV
+An Optimization Framework to Enforce Multi-View Consistency for Texturing 3D Meshes Using Pre-Trained Text-to-Image Models	cs.AI
+Language-Based Depth Hints for Monocular Depth Estimation	cs.CV
+Language-Based Depth Hints for Monocular Depth Estimation	cs.AI
+DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data	cs.CV
+DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data	cs.LG
+LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models	cs.CV
+LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models	cs.AI
+LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models	cs.CL
+LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis	cs.CV
+LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis	cs.AI
+LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis	cs.GR
+LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis	cs.LG
+Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting	cs.CV
+ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars	cs.CV
+DragAPart: Learning a Part-Level Motion Prior for Articulated Objects	cs.CV
+Long-CLIP: Unlocking the Long-Text Capability of CLIP	cs.CV
+InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding	cs.CV
+Augmented Reality based Simulated Data (ARSim) with multi-view consistency for AV perception networks	cs.CV
+Augmented Reality based Simulated Data (ARSim) with multi-view consistency for AV perception networks	cs.LG
+Augmented Reality based Simulated Data (ARSim) with multi-view consistency for AV perception networks	cs.RO
+Evaluating GPT-4 with Vision on Detection of Radiological Findings on Chest Radiographs	eess.IV
+Evaluating GPT-4 with Vision on Detection of Radiological Findings on Chest Radiographs	cs.AI
+Evaluating GPT-4 with Vision on Detection of Radiological Findings on Chest Radiographs	cs.CV
+Learning Topological Representations for Deep Image Understanding	cs.CV
+Learning Topological Representations for Deep Image Understanding	cs.LG
+SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series	cs.CV
+SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series	cs.LG
+SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series	cs.SY
+SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series	eess.IV
+SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series	eess.SY
+Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities	cs.CV
+Fully automated workflow for the design of patient-specific orthopaedic implants: application to total knee arthroplasty	cs.CV
+Selectively Informative Description can Reduce Undesired Embedding Entanglements in Text-to-Image Personalization	cs.CV
+Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-supervised 3D Object Detection	cs.CV
+Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-supervised 3D Object Detection	cs.AI
+Ultrasound Imaging based on the Variance of a Diffusion Restoration Model	eess.IV
+Ultrasound Imaging based on the Variance of a Diffusion Restoration Model	cs.CV
+Ultrasound Imaging based on the Variance of a Diffusion Restoration Model	cs.LG
+Global Control for Local SO(3)-Equivariant Scale-Invariant Vessel Segmentation	eess.IV
+Global Control for Local SO(3)-Equivariant Scale-Invariant Vessel Segmentation	cs.CV
+CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking	cs.CV
+CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking	cs.AI
+Controlled Training Data Generation with Diffusion Models	cs.CV
+Controlled Training Data Generation with Diffusion Models	cs.CL
+Controlled Training Data Generation with Diffusion Models	cs.LG
+WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization	cs.CV
+Hyperbolic Metric Learning for Visual Outlier Detection	cs.CV
+Spectral Motion Alignment for Video Motion Transfer using Diffusion Models	cs.CV
+Spectral Motion Alignment for Video Motion Transfer using Diffusion Models	cs.AI
+Spectral Motion Alignment for Video Motion Transfer using Diffusion Models	cs.LG
+Self-Supervised Backbone Framework for Diverse Agricultural Vision Tasks	cs.CV
+Self-Supervised Backbone Framework for Diverse Agricultural Vision Tasks	cs.AI
+Self-Supervised Backbone Framework for Diverse Agricultural Vision Tasks	eess.IV
+Reasoning-Enhanced Object-Centric Learning for Videos	cs.CV
+Reasoning-Enhanced Object-Centric Learning for Videos	cs.AI
+Reasoning-Enhanced Object-Centric Learning for Videos	cs.LG
+IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection	cs.CV
+WEEP: A method for spatial interpretation of weakly supervised CNN models in computational pathology	eess.IV
+WEEP: A method for spatial interpretation of weakly supervised CNN models in computational pathology	cs.CV
+WEEP: A method for spatial interpretation of weakly supervised CNN models in computational pathology	stat.ME
+Shadow Generation for Composite Image Using Diffusion model	cs.CV
+LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example	cs.CV
+LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example	cs.GR
+Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations	cs.CV
+Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations	cs.AI
+Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations	cs.LG
+GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition	cs.CV
+MSCoTDet: Language-driven Multi-modal Fusion for Improved Multispectral Pedestrian Detection	cs.CV
+DITTO: Demonstration Imitation by Trajectory Transformation	cs.RO
+DITTO: Demonstration Imitation by Trajectory Transformation	cs.CV
+Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion	cs.CV
+Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion	cs.LG
+SFOD: Spiking Fusion Object Detector	cs.CV
+SFOD: Spiking Fusion Object Detector	cs.AI
+Medical Image Data Provenance for Medical Cyber-Physical System	cs.CR
+Medical Image Data Provenance for Medical Cyber-Physical System	cs.CV
+PDE-CNNs: Axiomatic Derivations and Applications	cs.LG
+PDE-CNNs: Axiomatic Derivations and Applications	cs.CV
+LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels	cs.CV
+FastCAD: Real-Time CAD Retrieval and Alignment from Scans and Videos	cs.CV
+Infrastructure-Assisted Collaborative Perception in Automated Valet Parking: A Safety Perspective	cs.RO
+Infrastructure-Assisted Collaborative Perception in Automated Valet Parking: A Safety Perspective	cs.CV
+Infrastructure-Assisted Collaborative Perception in Automated Valet Parking: A Safety Perspective	cs.SY
+Infrastructure-Assisted Collaborative Perception in Automated Valet Parking: A Safety Perspective	eess.SY
+A Multimodal Approach for Cross-Domain Image Retrieval	cs.CV
+An In-Depth Analysis of Data Reduction Methods for Sustainable Deep Learning	cs.LG
+An In-Depth Analysis of Data Reduction Methods for Sustainable Deep Learning	cs.CV
+Modular Deep Active Learning Framework for Image Annotation: A Technical Report for the Ophthalmo-AI Project	cs.CV
+Modular Deep Active Learning Framework for Image Annotation: A Technical Report for the Ophthalmo-AI Project	cs.AI
+Deep Generative Model based Rate-Distortion for Image Downscaling Assessment	cs.CV
+Deep Generative Model based Rate-Distortion for Image Downscaling Assessment	eess.IV
+Transfer CLIP for Generalizable Image Denoising	cs.CV
+Transfer CLIP for Generalizable Image Denoising	eess.IV
+Gradient-based Sampling for Class Imbalanced Semi-supervised Object Detection	cs.CV
+EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting	cs.CV
+SYNCS: Synthetic Data and Contrastive Self-Supervised Training for Central Sulcus Segmentation	cs.CV
+An Open-World, Diverse, Cross-Spatial-Temporal Benchmark for Dynamic Wild Person Re-Identification	cs.CV
+Improving Forward Compatibility in Class Incremental Learning by Increasing Representation Rank and Feature Richness	cs.LG
+Improving Forward Compatibility in Class Incremental Learning by Increasing Representation Rank and Feature Richness	cs.CV
+Set-membership target search and tracking within an unknown cluttered area using cooperating UAVs equipped with vision systems	eess.SY
+Set-membership target search and tracking within an unknown cluttered area using cooperating UAVs equipped with vision systems	cs.RO
+Set-membership target search and tracking within an unknown cluttered area using cooperating UAVs equipped with vision systems	cs.SY
+PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation	cs.RO
+PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation	cs.CV
+Improving cross-domain brain tissue segmentation in fetal MRI with synthetic data	eess.IV
+Improving cross-domain brain tissue segmentation in fetal MRI with synthetic data	cs.CV
+Improving cross-domain brain tissue segmentation in fetal MRI with synthetic data	cs.LG
+Learning from Visual Demonstrations through Differentiable Nonlinear MPC for Personalized Autonomous Driving	cs.RO
+UniTraj: A Unified Framework for Scalable Vehicle Trajectory Prediction	cs.CV
+IFSENet : Harnessing Sparse Iterations for Interactive Few-shot Segmentation Excellence	cs.CV
+Cell Variational Information Bottleneck Network	cs.CV
+Allspark: Workload Orchestration for Visual Transformers on Processing In-Memory Systems	cs.AR
+Integrating multiscale topology in digital pathology with pyramidal graph convolutional networks	eess.IV
+Integrating multiscale topology in digital pathology with pyramidal graph convolutional networks	cs.CV
+Recent Trends in 3D Reconstruction of General Non-Rigid Scenes	cs.CV
+Recent Trends in 3D Reconstruction of General Non-Rigid Scenes	cs.GR
+Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model using 3D Whole-body CT Scans	cs.CV
+Subjective Quality Assessment of Compressed Tone-Mapped High Dynamic Range Videos	eess.IV
+Subjective Quality Assessment of Compressed Tone-Mapped High Dynamic Range Videos	cs.CV
+MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration	cs.CV
+MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration	cs.AI
+Continual Vision-and-Language Navigation	cs.CV
+Continual Vision-and-Language Navigation	cs.AI
+Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning	cs.CV
+Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning	cs.AI
+Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning	cs.LG
+Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning	cs.MM
+Multimodal Fusion with Pre-Trained Model Features in Affective Behaviour Analysis In-the-wild	cs.CV
+Multimodal Fusion with Pre-Trained Model Features in Affective Behaviour Analysis In-the-wild	cs.AI
+Toward Tiny and High-quality Facial Makeup with Data Amplify Learning	cs.CV
+An Integrated Neighborhood and Scale Information Network for Open-Pit Mine Change Detection in High-Resolution Remote Sensing Images	cs.CV
+Image Classification with Rotation-Invariant Variational Quantum Circuits	quant-ph
+Image Classification with Rotation-Invariant Variational Quantum Circuits	cs.CV
+Image Classification with Rotation-Invariant Variational Quantum Circuits	cs.LG
+VRSO: Visual-Centric Reconstruction for Static Object Annotation	cs.CV
+BSNet: Box-Supervised Simulation-assisted Mean Teacher for 3D Instance Segmentation	cs.CV
+Vehicle Detection Performance in Nordic Region	cs.CV
+Vehicle Detection Performance in Nordic Region	cs.LG
+Extracting Human Attention through Crowdsourced Patch Labeling	cs.CV
+Extracting Human Attention through Crowdsourced Patch Labeling	cs.HC
+Cell Tracking according to Biological Needs -- Strong Mitosis-aware Random-finite Sets Tracker with Aleatoric Uncertainty	cs.CV
+Clean-image Backdoor Attacks	cs.CV
+Clean-image Backdoor Attacks	cs.CR
+TexRO: Generating Delicate Textures of 3D Models by Recursive Optimization	cs.CV
+Tri-Perspective View Decomposition for Geometry-Aware Depth Completion	cs.CV
+ParFormer: Vision Transformer Baseline with Parallel Local Global Token Mixer and Convolution Attention Patch Embedding	cs.CV
+ParFormer: Vision Transformer Baseline with Parallel Local Global Token Mixer and Convolution Attention Patch Embedding	cs.LG
+Magic for the Age of Quantized DNNs	cs.LG
+Magic for the Age of Quantized DNNs	cs.AI
+Magic for the Age of Quantized DNNs	cs.CV
+Magic for the Age of Quantized DNNs	cs.NE
+Improve Cross-domain Mixed Sampling with Guidance Training for Adaptive Segmentation	cs.CV
+Generative Active Learning for Image Synthesis Personalization	cs.CV
+Piecewise-Linear Manifolds for Deep Metric Learning	cs.CV
+Piecewise-Linear Manifolds for Deep Metric Learning	cs.AI
+Piecewise-Linear Manifolds for Deep Metric Learning	cs.LG
+Piecewise-Linear Manifolds for Deep Metric Learning	eess.IV
+AVT2-DWF: Improving Deepfake Detection with Audio-Visual Fusion and Dynamic Weighting Strategies	cs.CV
+Trajectory Regularization Enhances Self-Supervised Geometric Representation	cs.CV
+Trajectory Regularization Enhances Self-Supervised Geometric Representation	cs.LG
+DreamFlow: High-Quality Text-to-3D Generation by Approximating Probability Flow	cs.CV
+GPT-Connect: Interaction between Text-Driven Human Motion Generator and 3D Scenes in a Training-free Manner	cs.CV
+CLIP-VQDiffusion : Langauge Free Training of Text To Image generation using CLIP and vector quantized diffusion model	cs.CV
+STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians	cs.CV
+Survey on Modeling of Articulated Objects	cs.CV
+Contrastive Learning on Multimodal Analysis of Electronic Health Records	stat.ML
+Contrastive Learning on Multimodal Analysis of Electronic Health Records	cs.LG
+Snail: Secure Single Iteration Localization	cs.CR
+Defying Imbalanced Forgetting in Class Incremental Learning	cs.CV
+Web-based Melanoma Detection	cs.CV
+Web-based Melanoma Detection	cs.LG
+Geometric Generative Models based on Morphological Equivariant PDEs and GANs	cs.CV
+Geometric Generative Models based on Morphological Equivariant PDEs and GANs	eess.IV
+Geometric Generative Models based on Morphological Equivariant PDEs and GANs	math.DG
+GelLink: A Compact Multi-phalanx Finger with Vision-based Tactile Sensing and Proprioception	cs.RO
+DSGG: Dense Relation Transformer for an End-to-end Scene Graph Generation	cs.CV
+WeatherProof: Leveraging Language Guidance for Semantic Segmentation in Adverse Weather	cs.CV
+WeatherProof: Leveraging Language Guidance for Semantic Segmentation in Adverse Weather	cs.LG
+VidLA: Video-Language Alignment at Scale	cs.CV
+VidLA: Video-Language Alignment at Scale	cs.CL
+VidLA: Video-Language Alignment at Scale	cs.LG
+Distribution-informed and wavelength-flexible data-driven photoacoustic oximetry	physics.med-ph
+Distribution-informed and wavelength-flexible data-driven photoacoustic oximetry	cs.CV
+Distribution-informed and wavelength-flexible data-driven photoacoustic oximetry	cs.LG
+KeyPoint Relative Position Encoding for Face Recognition	cs.CV
+Hyperspectral Neural Radiance Fields	cs.CV
+Osmosis: RGBD Diffusion Prior for Underwater Image Restoration	cs.CV
+Evaluating Panoramic 3D Estimation in Indoor Lighting Analysis	cs.CV
+Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing	cs.CV
+Learning Gaussian Representation for Eye Fixation Prediction	cs.CV
+Deep Active Learning: A Reality Check	cs.LG
+Deep Active Learning: A Reality Check	cs.AI
+Deep Active Learning: A Reality Check	cs.CV
+Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection	cs.CV
+Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection	cs.LG
+Latent Diffusion Models for Attribute-Preserving Image Anonymization	cs.CV
+Latent Diffusion Models for Attribute-Preserving Image Anonymization	cs.AI
+On the exploitation of DCT statistics for cropping detectors	cs.CV
+Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering	cs.CV
+Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering	cs.AI
+Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering	cs.CL
+Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering	cs.LG
+Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering	cs.MA
+Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance	cs.CV
+Diffusion Attack: Leveraging Stable Diffusion for Naturalistic Image Attacking	cs.CV
+Diffusion Attack: Leveraging Stable Diffusion for Naturalistic Image Attacking	eess.IV
+On the Detection of Anomalous or Out-Of-Distribution Data in Vision Models Using Statistical Techniques	cs.CV
+On the Detection of Anomalous or Out-Of-Distribution Data in Vision Models Using Statistical Techniques	cs.LG
+Few-Shot Adversarial Prompt Learning on Vision-Language Models	cs.CV
+Few-Shot Adversarial Prompt Learning on Vision-Language Models	cs.CL
+Few-Shot Adversarial Prompt Learning on Vision-Language Models	cs.CR
+Few-Shot Adversarial Prompt Learning on Vision-Language Models	cs.LG
+StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text	cs.CV
+StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text	cs.AI
+StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text	cs.CL
+StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text	cs.LG
+StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text	cs.MM
+StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text	eess.IV
+Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures	cs.CV
+Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures	cs.AI
+Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures	cs.CR
+Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures	cs.LG
+Can 3D Vision-Language Models Truly Understand Natural Language?	cs.CV
+Learning with SASQuaTCh: a Novel Variational Quantum Transformer Architecture with Kernel-Based Self-Attention	quant-ph
+Learning with SASQuaTCh: a Novel Variational Quantum Transformer Architecture with Kernel-Based Self-Attention	cs.LG
+VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding	cs.CV
+Zero-Shot Multi-Object Shape Completion	cs.CV
+MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images	cs.CV
+LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors	cs.CV
+ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer	cs.RO
+ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer	cs.CV
+MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?	cs.CV
+MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?	cs.AI
+MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?	cs.CL
+MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?	cs.LG
+Simplified Diffusion Schrödinger Bridge	cs.LG
+Simplified Diffusion Schrödinger Bridge	cs.CV
+Language Repository for Long Video Understanding	cs.CV
+GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation	cs.CV
+ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition	cs.CV
+Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion	cs.CV
+Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion	cs.AI
+Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion	cs.LG
+Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning	cs.CV
+AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation	cs.CV
+DreamReward: Text-to-3D Generation with Human Preference	cs.CV
+DreamReward: Text-to-3D Generation with Human Preference	cs.CL
+DreamReward: Text-to-3D Generation with Human Preference	cs.LG
+Explorative Inbetweening of Time and Space	cs.CV
+T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy	cs.CV
+ReNoise: Real Image Inversion Through Iterative Noising	cs.CV
+ReNoise: Real Image Inversion Through Iterative Noising	cs.GR
+ReNoise: Real Image Inversion Through Iterative Noising	cs.LG
+ReNoise: Real Image Inversion Through Iterative Noising	eess.IV
+MyVLM: Personalizing VLMs for User-Specific Queries	cs.CV
+PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model	cs.CV
+VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition	cs.CV
+VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition	cs.RO
+Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals	cs.SE
+Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals	cs.AI
+Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals	cs.HC
+Implicit Style-Content Separation using B-LoRA	cs.CV
+A survey on Concept-based Approaches For Model Improvement	cs.AI
+A survey on Concept-based Approaches For Model Improvement	cs.LG
+Visibility-Aware Keypoint Localization for 6DoF Object Pose Estimation	cs.CV
+Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering	cs.CV
+Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering	cs.GR
+Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer	cs.CV
+Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling	cs.CL
+Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling	cs.AI
+Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling	cs.LG
+DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video	cs.CV
+Estimating Physical Information Consistency of Channel Data Augmentation for Remote Sensing Images	cs.CV
+Estimating Physical Information Consistency of Channel Data Augmentation for Remote Sensing Images	cs.LG
+Object-Centric Domain Randomization for 3D Shape Reconstruction in the Wild	cs.CV
+Object-Centric Domain Randomization for 3D Shape Reconstruction in the Wild	cs.AI
+Object-Centric Domain Randomization for 3D Shape Reconstruction in the Wild	cs.LG
+Transfer Learning for Cross-dataset Isolated Sign Language Recognition in Under-Resourced Datasets	cs.CV
+HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression	cs.CV
+Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors	cs.RO
+Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors	cs.AI
+Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors	cs.CV
+Invisible Needle Detection in Ultrasound: Leveraging Mechanism-Induced Vibration	eess.IV
+Invisible Needle Detection in Ultrasound: Leveraging Mechanism-Induced Vibration	cs.CV
+Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference	cs.CV
+View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network	cs.CV
+Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting	eess.IV
+Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting	cs.CV
+MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection	cs.CV
+Learning to Project for Cross-Task Knowledge Distillation	cs.CV
+Learning to Project for Cross-Task Knowledge Distillation	cs.AI
+Adversary-Robust Graph-Based Learning of WSIs	cs.CV
+DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing	cs.CV
+HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges	cs.LG
+HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges	cs.AI
+HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges	cs.CV
+HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges	cs.NE
+Detoxifying Large Language Models via Knowledge Editing	cs.CL
+Detoxifying Large Language Models via Knowledge Editing	cs.AI
+Detoxifying Large Language Models via Knowledge Editing	cs.CV
+Detoxifying Large Language Models via Knowledge Editing	cs.HC
+Detoxifying Large Language Models via Knowledge Editing	cs.LG
+AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks	cs.CV
+AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks	cs.AI
+AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks	cs.MM
+CathFlow: Self-Supervised Segmentation of Catheters in Interventional Ultrasound Using Optical Flow and Transformers	eess.IV
+CathFlow: Self-Supervised Segmentation of Catheters in Interventional Ultrasound Using Optical Flow and Transformers	cs.CV
+Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset	cs.CV
+Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset	cs.RO
+RoDLA: Benchmarking the Robustness of Document Layout Analysis Models	cs.CV
+Analysing Diffusion Segmentation for Medical Images	eess.IV
+Analysing Diffusion Segmentation for Medical Images	cs.AI
+Analysing Diffusion Segmentation for Medical Images	cs.CV
+Analysing Diffusion Segmentation for Medical Images	cs.LG
+Raw Instinct: Trust Your Classifiers and Skip the Conversion	cs.CV
+Biased Binary Attribute Classifiers Ignore the Majority Classes	cs.CV
+Biased Binary Attribute Classifiers Ignore the Majority Classes	cs.AI
+Biased Binary Attribute Classifiers Ignore the Majority Classes	cs.LG
+Ranking Distillation for Open-Ended Video Question Answering with Insufficient Labels	cs.CV
+Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation	cs.CV
+Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation	cs.AI
+Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation	cs.LG
+DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning	cs.LG
+DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning	cs.CR
+DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning	cs.CV
+OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation	cs.CV
+CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis	cs.CV
+GLC++: Source-Free Universal Domain Adaptation through Global-Local Clustering and Contrastive Affinity Learning	cs.CV
+GLC++: Source-Free Universal Domain Adaptation through Global-Local Clustering and Contrastive Affinity Learning	cs.AI
+GLC++: Source-Free Universal Domain Adaptation through Global-Local Clustering and Contrastive Affinity Learning	cs.LG
+Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination	cs.CV
+Regularized Adaptive Momentum Dual Averaging with an Efficient Inexact Subproblem Solver for Training Structured Neural Network	cs.LG
+Regularized Adaptive Momentum Dual Averaging with an Efficient Inexact Subproblem Solver for Training Structured Neural Network	math.OC
+A Bag of Tricks for Few-Shot Class-Incremental Learning	cs.CV
+A Bag of Tricks for Few-Shot Class-Incremental Learning	cs.LG
+Tensor network compressibility of convolutional models	cs.CV
+Tensor network compressibility of convolutional models	cs.LG
+Tensor network compressibility of convolutional models	quant-ph
+InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity	cs.CV
+SyncTweedies: A General Generative Framework Based on Synchronized Diffusions	cs.CV
+Enabling Visual Composition and Animation in Unsupervised Video Generation	cs.CV
+SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field	cs.CV
+Less but Better: Enabling Generalized Zero-shot Learning Towards Unseen Domains by Intrinsic Learning from Redundant LLM Semantics	cs.CV
+Varroa destructor detection on honey bees using hyperspectral imagery	cs.CV
+Varroa destructor detection on honey bees using hyperspectral imagery	cs.LG
+LDTR: Transformer-based Lane Detection with Anchor-chain Representation	cs.CV
+Annotation-Efficient Polyp Segmentation via Active Learning	cs.CV
+On the Concept Trustworthiness in Concept Bottleneck Models	cs.CV
+Towards Efficient Information Fusion: Concentric Dual Fusion Attention Based Multiple Instance Learning for Whole Slide Images	cs.CV
+$\nabla τ$: Gradient-based and Task-Agnostic machine Unlearning	cs.LG
+$\nabla τ$: Gradient-based and Task-Agnostic machine Unlearning	cs.AI
+$\nabla τ$: Gradient-based and Task-Agnostic machine Unlearning	cs.CL
+$\nabla τ$: Gradient-based and Task-Agnostic machine Unlearning	cs.CV
+FFT-based Selection and Optimization of Statistics for Robust Recognition of Severely Corrupted Images	cs.CV
+CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing	cs.CV
+Neural Network-Based Processing and Reconstruction of Compromised Biophotonic Image Data	physics.optics
+Neural Network-Based Processing and Reconstruction of Compromised Biophotonic Image Data	cs.CV
+Neural Network-Based Processing and Reconstruction of Compromised Biophotonic Image Data	cs.LG
+Neural Network-Based Processing and Reconstruction of Compromised Biophotonic Image Data	physics.app-ph
+Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation	cs.RO
+Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation	cs.CV
+A Lightweight Attention-based Deep Network via Multi-Scale Feature Fusion for Multi-View Facial Expression Recognition	cs.CV
+SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks	cs.NE
+SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks	cs.CV
+SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks	cs.LG
+Impact Assessment of Missing Data in Model Predictions for Earth Observation Applications	cs.LG
+Impact Assessment of Missing Data in Model Predictions for Earth Observation Applications	cs.AI
+Impact Assessment of Missing Data in Model Predictions for Earth Observation Applications	cs.CV
+HySim: An Efficient Hybrid Similarity Measure for Patch Matching in Image Inpainting	cs.CV
+Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models	cs.CV
+Exploring Green AI for Audio Deepfake Detection	cs.SD
+Exploring Green AI for Audio Deepfake Detection	cs.CV
+Exploring Green AI for Audio Deepfake Detection	cs.LG
+Exploring Green AI for Audio Deepfake Detection	eess.AS
+Enhancing Historical Image Retrieval with Compositional Cues	cs.CV
+Enhancing Historical Image Retrieval with Compositional Cues	cs.AI
+Enhancing Historical Image Retrieval with Compositional Cues	eess.IV
+Assessing the Robustness of Spectral Clustering for Deep Speaker Diarization	cs.SD
+Assessing the Robustness of Spectral Clustering for Deep Speaker Diarization	cs.CV
+Assessing the Robustness of Spectral Clustering for Deep Speaker Diarization	cs.LG
+Assessing the Robustness of Spectral Clustering for Deep Speaker Diarization	eess.AS
+Zero123-6D: Zero-shot Novel View Synthesis for RGB Category-level 6D Pose Estimation	cs.CV
+Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection	cs.CV
+Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection	cs.CL
+Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection	cs.LG
+Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection	cs.RO
+A Framework for Portrait Stylization with Skin-Tone Awareness and Nudity Identification	cs.CV
+A Framework for Portrait Stylization with Skin-Tone Awareness and Nudity Identification	cs.AI
+Diffusion Models with Ensembled Structure-Based Anomaly Scoring for Unsupervised Anomaly Detection	eess.IV
+Diffusion Models with Ensembled Structure-Based Anomaly Scoring for Unsupervised Anomaly Detection	cs.CV
+Diffusion Models with Ensembled Structure-Based Anomaly Scoring for Unsupervised Anomaly Detection	cs.LG
+LayoutLLM: Large Language Model Instruction Tuning for Visually Rich Document Understanding	cs.CL
+LayoutLLM: Large Language Model Instruction Tuning for Visually Rich Document Understanding	cs.AI
+LayoutLLM: Large Language Model Instruction Tuning for Visually Rich Document Understanding	cs.CV
+LayoutLLM: Large Language Model Instruction Tuning for Visually Rich Document Understanding	cs.LG
+Safeguarding Medical Image Segmentation Datasets against Unauthorized Training via Contour- and Texture-Aware Perturbations	eess.IV
+Safeguarding Medical Image Segmentation Datasets against Unauthorized Training via Contour- and Texture-Aware Perturbations	cs.CR
+Safeguarding Medical Image Segmentation Datasets against Unauthorized Training via Contour- and Texture-Aware Perturbations	cs.CV
+ResNet101 and DAE for Enhance Quality and Classification Accuracy in Skin Cancer Imaging	eess.IV
+ResNet101 and DAE for Enhance Quality and Classification Accuracy in Skin Cancer Imaging	cs.CV
+Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering	cs.CV
+Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering	cs.AI
+Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering	cs.LG
+Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering	eess.IV
+Dermacen Analytica: A Novel Methodology Integrating Multi-Modal Large Language Models with Machine Learning in tele-dermatology	cs.CL
+Dermacen Analytica: A Novel Methodology Integrating Multi-Modal Large Language Models with Machine Learning in tele-dermatology	cs.AI
+Dermacen Analytica: A Novel Methodology Integrating Multi-Modal Large Language Models with Machine Learning in tele-dermatology	cs.CV
+Weak Supervision with Arbitrary Single Frame for Micro- and Macro-expression Spotting	cs.CV
+RG-CAT: Detection Pipeline and Catalogue of Radio Galaxies in the EMU Pilot Survey	astro-ph.GA
+RG-CAT: Detection Pipeline and Catalogue of Radio Galaxies in the EMU Pilot Survey	astro-ph.CO
+RG-CAT: Detection Pipeline and Catalogue of Radio Galaxies in the EMU Pilot Survey	astro-ph.IM
+RG-CAT: Detection Pipeline and Catalogue of Radio Galaxies in the EMU Pilot Survey	cs.CV
+RG-CAT: Detection Pipeline and Catalogue of Radio Galaxies in the EMU Pilot Survey	cs.LG
+SoftPatch: Unsupervised Anomaly Detection with Noisy Data	cs.CV
+SoftPatch: Unsupervised Anomaly Detection with Noisy Data	cs.AI
+SoftPatch: Unsupervised Anomaly Detection with Noisy Data	cs.LG
+Toward Multi-class Anomaly Detection: Exploring Class-aware Unified Model against Inter-class Interference	cs.CV
+Unsupervised Audio-Visual Segmentation with Modality Alignment	cs.CV
+Unsupervised Audio-Visual Segmentation with Modality Alignment	cs.AI
+Debiasing surgeon: fantastic weights and how to find them	cs.LG
+Debiasing surgeon: fantastic weights and how to find them	cs.AI
+Debiasing surgeon: fantastic weights and how to find them	cs.CV
+Debiasing surgeon: fantastic weights and how to find them	cs.CY
+Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization	cs.CV
+PECI-Net: Bolus segmentation from video fluoroscopic swallowing study images using preprocessing ensemble and cascaded inference	cs.CV
+StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN	cs.CV
+StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN	cs.AI
+StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN	cs.GR
+OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation	cs.CV
+OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation	cs.AI
+OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation	cs.LG
+OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation	stat.ML
+Unified Static and Dynamic Network: Efficient Temporal Filtering for Video Grounding	cs.CV
+Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians	cs.CV
+Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation	cs.RO
+Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation	cs.AI
+Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation	cs.CV
+Volumetric Environment Representation for Vision-Language Navigation	cs.CV
+Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization	cs.CV
+Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition	cs.CV
+Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition	cs.LG
+Empowering Segmentation Ability to Multi-modal Large Language Models	cs.CV
+Learning Decomposable and Debiased Representations via Attribute-Centric Information Bottlenecks	cs.CV
+Learning Decomposable and Debiased Representations via Attribute-Centric Information Bottlenecks	cs.LG
+Evidential Semantic Mapping in Off-road Environments with Uncertainty-aware Bayesian Kernel Inference	cs.RO
+Evidential Semantic Mapping in Off-road Environments with Uncertainty-aware Bayesian Kernel Inference	cs.CV
+SynerMix: Synergistic Mixup Solution for Enhanced Intra-Class Cohesion and Inter-Class Separability in Image Classification	cs.CV
+SynerMix: Synergistic Mixup Solution for Enhanced Intra-Class Cohesion and Inter-Class Separability in Image Classification	cs.LG
+Powerful Lossy Compression for Noisy Images	eess.IV
+Powerful Lossy Compression for Noisy Images	cs.CV
+3D Object Detection from Point Cloud via Voting Step Diffusion	cs.CV
+Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling	cs.CV
+External Knowledge Enhanced 3D Scene Generation from Sketch	cs.CV
+C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion	cs.CV
+C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion	cs.AI
+C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion	cs.CL
+C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion	cs.LG
+Training point-based deep learning networks for forest segmentation with synthetic data	cs.CV
+Test-time Similarity Modification for Person Re-identification toward Temporal Distribution Shift	cs.CV
+Spatio-Temporal Proximity-Aware Dual-Path Model for Panoramic Activity Recognition	cs.CV
+Existence Is Chaos: Enhancing 3D Human Motion Prediction with Uncertainty Consideration	cs.CV
+MaskSAM: Towards Auto-prompt SAM with Mask Classification for Medical Image Segmentation	cs.CV
+Text-Enhanced Data-free Approach for Federated Class-Incremental Learning	cs.CV
+Text-Enhanced Data-free Approach for Federated Class-Incremental Learning	cs.CL
+Text-Enhanced Data-free Approach for Federated Class-Incremental Learning	cs.LG
+Science based AI model certification for untrained operational environments with application in traffic state estimation	cs.CV
+Unsupervised Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training	cs.CV
+Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch	cs.CV
+Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch	cs.LG
+Surface Reconstruction from Point Clouds via Grid-based Intersection Prediction	cs.CV
+EventDance: Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition	cs.CV
+QSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping	eess.IV
+QSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping	cs.CV
+QSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping	physics.med-ph
+LeFusion: Synthesizing Myocardial Pathology on Cardiac MRI via Lesion-Focus Diffusion Models	eess.IV
+LeFusion: Synthesizing Myocardial Pathology on Cardiac MRI via Lesion-Focus Diffusion Models	cs.CV
+Semantics from Space: Satellite-Guided Thermal Semantic Segmentation Annotation for Aerial Field Robots	cs.CV
+Semantics from Space: Satellite-Guided Thermal Semantic Segmentation Annotation for Aerial Field Robots	cs.RO
+Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions	cs.CV
+Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions	cs.GR
+The NeurIPS 2023 Machine Learning for Audio Workshop: Affective Audio Benchmarks and Novel Data	cs.SD
+The NeurIPS 2023 Machine Learning for Audio Workshop: Affective Audio Benchmarks and Novel Data	cs.CL
+The NeurIPS 2023 Machine Learning for Audio Workshop: Affective Audio Benchmarks and Novel Data	eess.AS
+Accelerating ViT Inference on FPGA through Static and Dynamic Pruning	cs.DC
+Accelerating ViT Inference on FPGA through Static and Dynamic Pruning	cs.AR
+Accelerating ViT Inference on FPGA through Static and Dynamic Pruning	cs.CV
+EcoSense: Energy-Efficient Intelligent Sensing for In-Shore Ship Detection through Edge-Cloud Collaboration	cs.CV
+Crowdsourcing Task Traces for Service Robotics	cs.HC
+Crowdsourcing Task Traces for Service Robotics	cs.RO
+Multi-Modal Hallucination Control by Visual Information Grounding	cs.CV
+Multi-Modal Hallucination Control by Visual Information Grounding	cs.CL
+Multi-Modal Hallucination Control by Visual Information Grounding	cs.LG
+Uncertainty Driven Active Learning for Image Segmentation in Underwater Inspection	cs.CV
+Uncertainty Driven Active Learning for Image Segmentation in Underwater Inspection	cs.LG
+P-Count: Persistence-based Counting of White Matter Hyperintensities in Brain MRI	eess.IV
+P-Count: Persistence-based Counting of White Matter Hyperintensities in Brain MRI	cs.CV
+SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing	cs.CV
+ConGeo: Robust Cross-view Geo-localization across Ground View Variations	cs.CV
+ACDG-VTON: Accurate and Contained Diffusion Generation for Virtual Try-On	cs.CV
+ACDG-VTON: Accurate and Contained Diffusion Generation for Virtual Try-On	cs.AI
+Sensory Glove-Based Surgical Robot User Interface	cs.RO
+Sensory Glove-Based Surgical Robot User Interface	cs.SY
+Sensory Glove-Based Surgical Robot User Interface	eess.SY
+Visually Grounded Speech Models have a Mutual Exclusivity Bias	cs.CL
+Visually Grounded Speech Models have a Mutual Exclusivity Bias	eess.AS
+Enhancing Fingerprint Image Synthesis with GANs, Diffusion Models, and Style Transfer Techniques	cs.CV
+Enhancing Fingerprint Image Synthesis with GANs, Diffusion Models, and Style Transfer Techniques	cs.LG
+CoMo: Controllable Motion Generation through Language Guided Pose Code Editing	cs.CV
+Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models	eess.IV
+Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models	cs.AI
+Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models	cs.CV
+Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models	cs.LG
+On Pretraining Data Diversity for Self-Supervised Learning	cs.CV
+On Pretraining Data Diversity for Self-Supervised Learning	cs.AI
+On Pretraining Data Diversity for Self-Supervised Learning	cs.LG
+Editing Massive Concepts in Text-to-Image Diffusion Models	cs.CV
+Editing Massive Concepts in Text-to-Image Diffusion Models	cs.LG
+RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition	cs.CV
+RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition	cs.AI
+RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition	cs.LG
+RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS	cs.CV
+RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS	cs.GR
+Learning from Models and Data for Visual Grounding	cs.CV
+Learning from Models and Data for Visual Grounding	cs.CL
+Learning from Models and Data for Visual Grounding	cs.LG
+Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments	cs.CV
+ZigMa: Zigzag Mamba Diffusion Model	cs.CV
+ZigMa: Zigzag Mamba Diffusion Model	cs.AI
+ZigMa: Zigzag Mamba Diffusion Model	cs.CL
+ZigMa: Zigzag Mamba Diffusion Model	cs.LG
+TimeRewind: Rewinding Time with Image-and-Events Video Diffusion	cs.CV
+Hierarchical NeuroSymbolic Approach for Action Quality Assessment	cs.CV
+Hierarchical NeuroSymbolic Approach for Action Quality Assessment	cs.AI
+Hierarchical NeuroSymbolic Approach for Action Quality Assessment	cs.LG
+Hierarchical NeuroSymbolic Approach for Action Quality Assessment	cs.SC
+Bridge the Modality and Capacity Gaps in Vision-Language Model Selection	cs.LG
+Bridge the Modality and Capacity Gaps in Vision-Language Model Selection	cs.CV
+DepthFM: Fast Monocular Depth Estimation with Flow Matching	cs.CV
+Certified Human Trajectory Prediction	cs.CV
+Certified Human Trajectory Prediction	cs.RO

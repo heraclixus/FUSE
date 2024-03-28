@@ -2,7 +2,7 @@ import os
 import numpy as np
 import pickle as pkl
 from torch.utils.data import Dataset, DataLoader
-
+from utils import evaluate
 
 
 """
