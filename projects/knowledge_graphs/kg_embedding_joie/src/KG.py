@@ -47,7 +47,7 @@ class KG(object):
         #self.wv_dim = 100
         self.batch_size = 1024
 
-    def load_triples(self, filename, splitter = '@@@', line_end = '\n'):
+    def load_triples(self, filename, splitter = '\t', line_end = '\n'):
         '''Load the dataset.'''
         triples = []
         last_c = -1

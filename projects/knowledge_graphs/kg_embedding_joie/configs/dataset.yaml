@@ -1,0 +1,10 @@
+kg: 
+  kg1_path: "data/yago37_mini/yago_mini_train.txt"
+  kg2_path: "data/yago37_mini/yago_con_train.txt"
+  alignf: "data/yago37_mini/yago_InsType_mini.txt"
+
+
+dataloader:
+  batch_sizeK1: 512
+  batch_sizeK2: 128
+  batch_sizeA: 32
