@@ -1,42 +1,26 @@
-import os
+from torch_geometric.nn.models import Node2Vec
+from torch_geometric.nn import GCNConv, SAGEConv
+import torch.nn.functional as F
+import os 
 import pickle as pkl
 import torch
-import torch.nn as nn
+import torch.nn as nn 
+import argparse
 import torch.nn.functional as F 
-from regularizer import get_regularizer 
+from utils import * 
 from layers import FuzzyMapping
 from transformers import BertModel
 
 
-"""
-several components of a simple fuzzy set:
-- measure space with learnable weights
-- number of partitions
-- In case of shallow embedding, the number of entities. 
-"""
 
-
+"""
+Model 1: FUSE, trained on triples like the case in taxonomy
+"""
 class SimpleFuzzySet(nn.Module):
     
     def __init__(self,args):
         super(SimpleFuzzySet, self).__init__()
-        
-        # same as the box embed for dataset level information
-        self.args = args
-        self.data = self.__load_data__(self.args.dataset)
-        self.FloatTensor = torch.cuda.FloatTensor if self.args.cuda else torch.FloatTensor
-        self.concept_set = self.data["concept_set"]
-        self.concept_id = self.data["concept2id"]
-        self.id_concept = self.data["id2concept"]
-        self.id_context = self.data["id2context"]
-
-        self.train_concept_set = list(self.data["train_concept_set"])
-        self.train_taxo_dict = self.data["train_taxo_dict"]
-        self.train_child_parent_negative_parent_triple = self.data["train_child_parent_negative_parent_triple"]
-        self.path2root = self.data["path2root"]
-        self.test_concepts_id = self.data["test_concepts_id"]
-        self.test_gt_id = self.data["test_gt_id"]
-        
+        self.args = args        
         self.pre_train_model = self.__load_pre_trained__()
         self.dropout = nn.Dropout(self.args.dropout)
 
@@ -51,7 +35,6 @@ class SimpleFuzzySet(nn.Module):
         self.n_partitions = args.n_partitions
         self.margin = args.margin
         # fuzzy logic related operators        
-        # for the current taxonomy task, no need to include logical expressions
         self.entity_regularizer = get_regularizer(args.regularizer_type, args.entity_dim)
         self.partition_regularizer = get_regularizer(args.partition_reg_type, self.n_partitions)
 
@@ -63,21 +46,16 @@ class SimpleFuzzySet(nn.Module):
         
         self.partition_weights = nn.Parameter(torch.ones((self.n_partitions, )))
         
-    # loading data         
-    def load_data(self,dataset):
-        pass
+    def __load_pre_trained__(self):
+        
+        pre_trained_dic = {
+            "bert": [BertModel,"bert-base-uncased"]
+        }
 
-    # load language model
-    def load_language_model(self):
-        pass 
-        # pre_trained_dic = {
-        #     "bert": [BertModel,"bert-base-uncased"]
-        # }
+        pre_train_model, checkpoint = pre_trained_dic[self.args.pre_train]
+        model = pre_train_model.from_pretrained(checkpoint)
 
-        # pre_train_model, checkpoint = pre_trained_dic[self.args.pre_train]
-        # model = pre_train_model.from_pretrained(checkpoint)
-
-        # return model
+        return model
     
     
     """
@@ -146,7 +124,6 @@ class SimpleFuzzySet(nn.Module):
             score = torch.sum(fuzzy_set * self.partition_weights, dim=-1)
         return score
     
-
     # two options, weighted cosine vs. possibility
     def parent_child_possibility(self, child_fuzzyset, parent_fuzzyset, neg_parent_fuzzyset):
         if self.score_type == "possibility":
@@ -174,7 +151,6 @@ class SimpleFuzzySet(nn.Module):
         condition_score = pair_possibility / child_possibility
         return condition_score
     
-
     # this loss is a combination of pair possibility + asymmetry (possibility)
     def parent_child_possibility_loss(self, pos_pair_possibility, neg_pair_possibility):
         diff = -F.logsigmoid(self.gamma_coeff*(pos_pair_possibility - self.margin - neg_pair_possibility))           
@@ -191,7 +167,6 @@ class SimpleFuzzySet(nn.Module):
         asymmetry_loss = (torch.mean(torch.square(condition_score-1)))
         return asymmetry_loss
      
-    
     # possibility + asymmetry (hamming distance)
     def parent_child_pair_loss(self, child_fuzzyset, parent_fuzzyset, neg_parent_fuzzyset):
         pos_pair_possibility, child_possibility, neg_pair_possibility = self.parent_child_possibility(child_fuzzyset, parent_fuzzyset, neg_parent_fuzzyset)
@@ -211,7 +186,12 @@ class SimpleFuzzySet(nn.Module):
     
     
     def forward(self,encode_parent=None,encode_child=None,encode_negative_parents=None,flag="train"):
+        # print(f"encode_parent = {encode_parent}")
+        # print(f"encode_child = {encode_child}")
         parent_fuzzyset = self.project_fuzzyset(encode_parent)
         child_fuzzyset = self.project_fuzzyset(encode_child)
         neg_parent_fuzzyset = self.project_fuzzyset(encode_negative_parents)
-        return self.parent_child_pair_loss(child_fuzzyset, parent_fuzzyset, neg_parent_fuzzyset)
+        return self.parent_child_pair_loss(child_fuzzyset, parent_fuzzyset, neg_parent_fuzzyset)        
+    
+
+    

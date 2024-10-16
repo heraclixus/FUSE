@@ -2,6 +2,62 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+class MLP(nn.Module):
+    def __init__(self,input_dim,hidden,output_dim):
+        super(MLP,self).__init__()
+        
+        self.fc1 = nn.Linear(input_dim, hidden, bias=True)
+        self.fc2 = nn.Linear(hidden, hidden, bias=True)
+        self.fc3 = nn.Linear(hidden, output_dim, bias=True)
+
+
+    def forward(self,x):
+        x = self.fc1(x)
+        x = F.relu(x)
+        x = self.fc3(x)
+        
+        return x
+
+
+
+class MLP_VEC(nn.Module):
+    def __init__(self,input_dim,hidden,output_dim):
+        super(MLP_VEC,self).__init__()
+        
+        self.fc1 = nn.Linear(input_dim, hidden, bias=True)
+        self.fc2 = nn.Linear(hidden, hidden, bias=True)
+        self.fc3 = nn.Linear(hidden, output_dim, bias=True)
+        # self.fc2 = nn.Linear(hidden, hidden, bias=True)
+
+
+    def forward(self,x):
+        x = self.fc1(x)
+        x = F.relu(x)
+        x = self.fc3(x)
+        x = F.sigmoid(x)
+        
+        return x
+
+
+
+
+
+
+class LINEAR(nn.Module):
+    
+    def __init__(self,input_dim,output_dim):
+        super(LINEAR,self).__init__()
+        
+        self.fc1 = nn.Linear(input_dim, output_dim, bias=True)
+
+
+    def forward(self,x):
+
+        x = self.fc1(x)
+        
+        return x
+    
+
 """
 simple fuzzy set related operators 
 """
@@ -38,14 +94,10 @@ class SimpleMLP(nn.Module):
 Entity mapping: takes entity embeddings and map them into a PL-Fuzzy set in [0,1]^d
 """
 class FuzzyMapping(nn.Module):
-    def __init__(self, 
-                 entity_dim, 
-                 hidden_dim, 
+    def __init__(self, entity_dim, hidden_dim, 
                  num_hidden_layers,
                  regularizer,
-                 n_partitions, 
-                 modulelist):
-
+                 n_partitions, modulelist):
         super(FuzzyMapping, self).__init__()
         self.entity_dim = entity_dim
         self.hidden_dim = hidden_dim
@@ -68,6 +120,7 @@ class FuzzyMapping(nn.Module):
         # (B,e)
         # print(f"forward: e_embedding = {e_embedding.shape}")
         if len(e_embedding.shape) == 2:
+            pl_fuzzyset = []
             if self.modulelist:
                 e_embedding = e_embedding.unsqueeze(1).repeat(1,self.n_partitions, 1)        
                 inter_embedding = self.relu(torch.einsum("bde,deh->bdh",e_embedding, self.mapping_weights1))
@@ -75,6 +128,7 @@ class FuzzyMapping(nn.Module):
             else:
                 return self.pl_fuzzyset_maps(e_embedding)
         else: # (B,n,e)
+            pl_fuzzyset = []
             if self.modulelist:
                 e_embedding = e_embedding.unsqueeze(1).repeat(1,self.n_partitions, 1, 1)
                 inter_embedding = self.relu(torch.einsum("bdne,deh->bdnh", e_embedding, self.mapping_weights1))

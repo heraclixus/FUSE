@@ -1,30 +1,33 @@
-"""Processing of data."""
-
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
 import numpy as np
+import os 
 import pickle
-import time
 from tqdm import tqdm
 
 class KG(object):
-    '''This class stores triple data, descriptions, and word embeddings for a langauge.
     '''
-
+    This class stores triple data, descriptions, and word embeddings for a langauge.
+    '''
     def __init__(self):
-        # entity vocab
+        # entities (fuzzy sets)
         self.ents = {}
         self.ent_tokens = {}
-        # rel vocab
+        # standard relations
         self.rels = {}
+        # is-a relations (all the ontology relations have the same encoding in our framework)
+        self.onto_rel_index = 0  
         self.index_ents = {}
         self.index_rels = {}
         self.n_ents = 0
         self.n_rels = 0
-        # save triples as array of indices
-        self.triples = np.array([0])
+        
+        # save triples as array of indices (train | test)
+        self.triples = [] 
         self.triples_record = set([])
+        self.train_triples = []
+        self.train_triples_record = set([])
+        self.test_triples = []
+        self.test_triples_record = set([])
+        
         # head per tail and tail per head (for each relation). used for bernoulli negative sampling
         self.hpt = np.array([0])
         self.tph = np.array([0])
@@ -34,7 +37,7 @@ class KG(object):
         self.token_index = {}
         self.loaded_wv = False
         self.n_tokens = 0
-        # descriptions
+        # descriptions (in our case, also can be seen as "contexts")
         self.descriptions = {}
         self.desc_embed = {}
         self.avg_embed = {}
@@ -42,17 +45,20 @@ class KG(object):
         self.avg_embed_padded = np.array([0])
         self.desc_length = 100
         self.desc_index = np.array([0])
-        # recorded for tf_parts
+
         self.dim = 100
-        #self.wv_dim = 100
+        self.wv_dim = 100
         self.batch_size = 1024
 
-    def load_triples(self, filename, splitter = '\t', line_end = '\n'):
+
+    # load all triples from "mini"
+    def load_all_triples(self, triple_filename, ontology_filename, splitter="\t", line_end="\n"):
         '''Load the dataset.'''
-        triples = []
-        last_c = -1
-        last_r = -1
-        for line in open(filename):
+        last_c = self.n_ents -1 
+        last_r = self.n_rels - 1 
+
+        # process standard triple files. 
+        for line in open(triple_filename):
             line = line.rstrip(line_end).split(splitter)
             if self.index_ents.get(line[0]) == None:
                 last_c += 1
@@ -71,12 +77,37 @@ class KG(object):
             h = self.index_ents[line[0]]
             r = self.index_rels[line[1]]
             t = self.index_ents[line[2]]
-            triples.append([h, r, t])
+            self.triples.append([h, r, t])
             self.triples_record.add((h, r, t))
-        self.triples = np.array(triples)
+
+        # process ontology based triples
+        last_r += 1
+        self.onto_rel_index = last_r 
+        self.rels[self.onto_rel_index] = "type"
+        for line in open(ontology_filename):
+            line = line.rstrip(line_end).split(splitter)
+            if self.index_ents.get(line[0]) == None:
+                last_c += 1
+                self.ents[last_c] = line[0]
+                self.index_ents[line[0]] = last_c
+                self.ent_tokens[last_c] = set(line[0].replace('(','').replace(')','').split(' '))
+            if self.index_ents.get(line[2]) == None:
+                last_c += 1
+                self.ents[last_c] = line[2]
+                self.index_ents[line[2]] = last_c
+                self.ent_tokens[last_c] = set(line[2].replace('(','').replace(')','').split(' '))
+            # relation ontology all have the same index
+            self.index_rels[line[1]] = self.onto_rel_index
+            h = self.index_ents[line[0]]
+            t = self.index_ents[line[2]]
+            self.triples.append([h, self.onto_rel_index, t])
+            self.triples_record.add((h, self.onto_rel_index, t))
+
         self.n_ents = last_c + 1
-        self.n_rels = last_r + 1
-        # calculate tph and hpt
+        # all ontology belongs to one type of relation
+        self.n_rels = last_r
+
+        # negative sampling
         tph_array = np.zeros((len(self.rels), len(self.ents)))
         hpt_array = np.zeros((len(self.rels), len(self.ents)))
         for h,r,t in self.triples:
@@ -84,8 +115,89 @@ class KG(object):
             hpt_array[r][t] += 1.
         self.tph = np.mean(tph_array, axis = 1)
         self.hpt = np.mean(hpt_array, axis = 1)
-        print("Loaded triples from", filename, ". #triples, #ents, #rels:", len(self.triples), self.n_ents, self.n_rels)
 
+        # saving state dicts for the KG for later easier loading
+        print("Loaded triples from", triple_filename, ". #triples, #ents, #rels:", len(self.triples), self.n_ents, self.n_rels)
+        print("saving triples")
+        # triples = np.array(self.triples)
+        triple_filename = triple_filename.replace("/", "_")
+        os.makedirs("data/tables/", exist_ok=True)        
+        with open(f"data/tables/{triple_filename}_ent2idx.pickle", "wb") as f:
+            pickle.dump(self.index_ents, f)
+        with open(f"data/tables/{triple_filename}_rel2idx.pickle", "wb") as f:
+            pickle.dump(self.index_rels, f)        
+        with open(f"data/tables/{triple_filename}_triples_train.pickle", "wb") as f:
+            pickle.dump(self.triples, f)
+        print("saved index dicts.")
+
+        
+
+    # use it for loading training kg (test kg has different behavior)
+    def load_triples_train(self, 
+                     triple_filename,
+                     ontology_filename,
+                     splitter = '\t', line_end = '\n'):
+
+        # process standard triple files. 
+        for line in open(triple_filename):
+            line = line.rstrip(line_end).split(splitter)
+            h = self.index_ents[line[0]]
+            r = self.index_rels[line[1]]
+            t = self.index_ents[line[2]]
+            self.train_triples.append([h, r, t])
+            self.train_triples_record.add((h, r, t))
+
+        # process ontology based triples
+        for line in open(ontology_filename):
+            line = line.rstrip(line_end).split(splitter)
+            h = self.index_ents[line[0]]
+            t = self.index_ents[line[2]]
+            self.train_triples.append([h, self.onto_rel_index, t])
+            self.train_triples_record.add((h, self.onto_rel_index, t))
+
+        # self.train_triples = np.array(self.train_triples)
+        # save 
+        os.makedirs("data/tables/", exist_ok=True)
+        triple_filename = triple_filename.replace("/", "_")
+        with open(f"data/tables/{triple_filename}_triples_train.pickle", "wb") as f:
+            pickle.dump(self.train_triples, f)
+
+
+    # To load test kg, we use the same index as before; the difference is that 
+    # we don't do any negative sampling and the triples are simply stored as index triples. 
+    def load_triples_test(self, 
+                          triple_filename,
+                          ontology_filename,
+                          splitter = '\t', 
+                          line_end = '\n'):
+        
+        # process standard triple files. 
+        for line in open(triple_filename):
+            line = line.rstrip(line_end).split(splitter)
+            h, r, t = self.index_ents[line[0]], self.index_rels[line[1]], self.index_ents[line[2]]
+            self.test_triples_record.add((h, r, t))
+            self.test_triples.append([h,r,t])
+        
+        for line in open(ontology_filename):
+            line = line.rstrip(line_end).split(splitter)
+            h, t = self.index_ents[line[0]], self.index_ents[line[2]]
+            self.test_triples_record.add((h, self.onto_rel_index, t))
+            self.test_triples.append([h,self.onto_rel_index,t])
+        
+        # self.test_triples = np.array(self.test_triples)
+        os.makedirs("data/tables/", exist_ok=True)
+        triple_filename = triple_filename.replace("/", "_")
+        with open(f"data/tables/{triple_filename}_triples_test.pickle", "wb") as f:
+            pickle.dump(self.test_triples, f)
+
+    """
+    Functions that require further work (customization) after contexts become available
+    - load_word2vec
+    - load_descriptions
+    - map_descriptions 
+    """
+
+    # load word embeddings from contexts, if available
     def load_word2vec(self, filepath, splitter=' '):
         self.tokens, emb = [], []
         for lineno, l in tqdm(enumerate(open(filepath)), desc='load word embedding', unit=' word'):
@@ -104,6 +216,8 @@ class KG(object):
         self.loaded_wv = True
         self.n_tokens = len(self.tokens)
         print("Loaded token embeddings from",filepath)
+
+
 
     def load_descriptions(self, titlefile, tokenfile, splitter=' ', desc_length = 100, lower=True, stop_words=None, padding_front=False):
         if self.loaded_wv == False:
@@ -282,7 +396,7 @@ class KG(object):
         return self.n_rels
 
     def num_triples(self):
-        return len(self.triples)
+        return len(self.train_triples)
 
     def rel_str2index(self, rel_str):
         '''For relation `rel_str` in string, returns its index.
@@ -311,40 +425,7 @@ class KG(object):
     def rel(self):
         return np.array(range(self.num_rels()))
 
-    def corrupt_pos(self, t, pos):
-        hit = True
-        res = None
-        while hit:
-            res = np.copy(t)
-            samp = np.random.randint(self.num_ents())
-            while samp == t[pos]:
-                samp = np.random.randint(self.num_ents())
-            res[pos] = samp
-            if tuple(res) not in self.triples_record:
-                hit = False
-        return res
             
-        
-    #bernoulli negative sampling
-    def corrupt(self, t, tar = None):
-        if tar == 't':
-            return self.corrupt_pos(t, 2)
-        elif tar == 'h':
-            return self.corrupt_pos(t, 0)
-        else:
-            this_tph = self.tph[t[1]]
-            this_hpt = self.hpt[t[1]]
-            assert(this_tph > 0 and this_hpt > 0)
-            np.random.seed(int(time.time()))
-            if np.random.uniform(high=this_tph + this_hpt, low=0.) < this_hpt:
-                return self.corrupt_pos(t, 2)
-            else:
-                return self.corrupt_pos(t, 0)
-    
-    #bernoulli negative sampling on a batch
-    def corrupt_batch(self, t_batch, tar = None):
-        return np.array([self.corrupt(t, tar) for t in t_batch])
-
     def load_stop_words(self, filepath):
         stopwords = []
         for line in open(filepath):

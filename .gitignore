@@ -1,1 +1,9 @@
 *.pyc
+*.out
+checkpoints/
+*.idea
+*.pickle
+*.taxo
+*.txt
+*__pycache__*
+*.npz
